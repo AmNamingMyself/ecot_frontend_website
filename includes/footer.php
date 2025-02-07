@@ -104,7 +104,7 @@
 									<ul>
 										<li><a href="javascript:void(0);">Undergraduate Admissions</a></li>
 										<li><a href="javascript:void(0);">Graduate Admissions</a></li>
-										<li><a href="javascript:void(0);">Admission information</a></li>
+										<li><a href="admissions.php">Admission information</a></li>
 										
 										<li><a href="staff_portal">Registrar&acute;s Portal</a></li>
 										
