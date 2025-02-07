@@ -16,7 +16,8 @@
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<ol class="tg-breadcrumb">
 						<li><a href="index.php">home</a></li>
-						<li class="tg-active">About</li>
+						<!-- <li><a href="about.php">about</a></li> -->
+						<li class="tg-active">History</li>
 					</ol>
 				</div>
 			</div>
@@ -32,7 +33,7 @@
 		<div class="container">
 			<div class="row">
 				<div id="tg-twocolumns" class="tg-twocolumns">
-					<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 pull-right">
+					<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 pull-left">
 						<div id="tg-content" class="tg-content">
 							<div class="tg-addmission">
 								<div id="tg-addmissionslider" class="tg-addmissionslider owl-carousel tg-btnround">
@@ -42,16 +43,18 @@
 								</div>
 
 								<div class="tg-pagetitle">
-									<h2>Eswatini College Of Technology</h2>
+									<!-- <h2>Eswatini College Of Technology</h2> -->
+									<h2>ECOT History</h2>
 								</div>
 								<div class="tg-container">
 
-									<p>If you are contemplating on educational options or a career or vocation, you are invited to consider what the Swaziland College of Technology offers. This you can do either by reading this prospectus or enquiring about the college programmes from the office of the Registrar. I have no doubt that either of the two alternatives will provide you with a clear spectrum of what the Swaziland College of Technology can do for you.</p>
-									<p>The college currently offers Diploma programmes under the following faculties: Business Administration, Building &amp; Civil Engineering, Education, Engineering &amp; Science, and Information and Communication Technology. B Tech programmes have been introduced in the Faculty of Bus and Admin and also Faculty of Information and Communication Technology.</p>
+									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt laudantium illum facere neque rerum necessitatibus vero magnam aperiam minus voluptate nobis nesciunt culpa laborum fugiat, explicabo porro modi consectetur veritatis! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam distinctio illum soluta, sunt porro aut maiores odit fugiat necessitatibus inventore est. Doloremque quasi, odit reiciendis quae aliquam blanditiis amet reprehenderit!</p>
 								</div>
 								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
 									<div id="tg-content" class="tg-content">
-										<div class="tg-aboutus tg-visionmission">
+
+
+										<div class="tg-aboutus tg-visionmission" style="margin-top: 15px;">
 
 											<h3>Our Vision</h3>
 											<p>By the year 2018 ECOT shall be a leading university of technology renowned for its excellence in quality and marketable products in the kingdom and beyond. </p>
@@ -77,7 +80,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 pull-left">
+					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 pull-right">
 						<aside id="tg-sidebar" class="tg-sidebar">
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
@@ -98,12 +101,14 @@
 								<div class="tg-widgetcontent">
 									<div class="tg-campuses">
 										<div class="tg-campus">
-											<!-- <div class="tg-mapbox">
-													<div class="tg-campuslocation">
-													</div>
-													<a class="tg-getdirection" href="javascript:void(0);">get direction</a>
-												</div> -->
-											<ul>
+											<div class="tg-mapbox">
+
+												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1839.9306933827422!2d31.121350293776615!3d-26.310816503482254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee8cfa88d09544b%3A0x1122bdb1e3c248ef!2sEswatini%20College%20Of%20Technology!5e1!3m2!1sen!2s!4v1738920779631!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+											</div>
+
+
+											<!-- <ul>
 												<li>
 													<i class="icon-location"></i>
 													<address>P O BOX 69, Mbabane H100. Somhlolo Road</address>
@@ -140,7 +145,7 @@
 														<span>support@ecot.ac.sz</span>
 													</a>
 												</li>
-											</ul>
+											</ul> -->
 										</div>
 									</div>
 								</div>
