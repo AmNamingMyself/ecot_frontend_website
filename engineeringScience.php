@@ -17,7 +17,7 @@
 					<ol class="tg-breadcrumb">
 						<li><a href="index.php">home</a></li>
 						<li><a href="academics.php">Academic</a></li>
-						<li class="tg-active">Education</li>
+						<li class="tg-active">engineering Science</li>
 					</ol>
 				</div>
 			</div>
@@ -38,7 +38,7 @@
 							<div class="tg-addmission">
 								<div class="tg-pagetitle">
 									<!-- <h2>Eswatini College Of Technology</h2> -->
-									<h2>Faculty of Education</h2>
+									<h2>Faculty of Engineering Science</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
 									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate accusantium adipisci distinctio. Aspernatur fugit fugiat sequi expedita cumque pariatur! Voluptatum nam in a sed officia, recusandae ad hic voluptas nesciunt. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore suscipit fugiat, vel quasi iste ullam ipsum, maxime expedita quaerat velit tenetur aliquam a soluta fuga. Aliquam est praesentium rem adipisci!</p>
@@ -50,9 +50,9 @@
 									<!-- Card 1 -->
 									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 										<div class="card d-flex flex-column align-items-center p-2">
-											<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
+											<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
 											<div class="card-body">
-												<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
+												<h5 class="card-title">Diploma in Automotive Engineering (Light)</h5>
 												<a href="application/">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
@@ -61,56 +61,79 @@
 									<!-- Card 2 -->
 									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 										<div class="card d-flex flex-row align-items-center p-2">
-											<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
+											<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
 											<div class="card-body">
-												<h5 class="card-title">Secondary Teacher’s Diploma: Information and Communication Technology</h5>
+												<h5 class="card-title">Diploma in Automotive Engineering (Heavy)</h5>
+												<a href="application/">Apply now</a>
+												<!-- TODO: link to application portal -->
+											</div>
+										</div>
+									</div>
+									<!-- Card 3 -->
+									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card d-flex flex-row align-items-center p-2">
+											<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
+											<div class="card-body">
+												<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
+												<a href="application/">Apply now</a>
+												<!-- TODO: link to application portal -->
+											</div>
+										</div>
+									</div>
+									<!-- Card 4 -->
+									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card d-flex flex-row align-items-center p-2">
+											<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
+											<div class="card-body">
+												<h5 class="card-title"> Diploma in Mechanical Engineering</h5>
 												<a href="application/">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
 									</div>
 								</div>
-								<!-- </div> -->
+							</div>
+							<!-- </div> -->
 
-								<style>
-									.h3-programs {
-										padding-top: 30px;
-										padding-bottom: 10px !important;
-									}
+							<style>
+								.h3-programs {
+									padding-top: 30px;
+									padding-bottom: 10px !important;
+								}
 
-									.container1 {
-										display: flex;
-										gap: 0.75rem;
-										margin-bottom: 60px;
-									}
+								.container1 {
+									display: flex;
+									gap: 0.75rem;
+									margin-bottom: 60px;
+								}
 
-									.profile-img {
-										width: auto;
-										/* Adjust size as needed */
-										height: 100%;
-										object-fit: cover;
-										margin-right: 15px;
-									}
+								.profile-img {
+									width: auto;
+									/* Adjust size as needed */
+									height: 100%;
+									object-fit: cover;
+									margin-right: 15px;
+								}
 
-									.card {
-										padding: 25px 0;
-										display: flex;
-										flex-direction: column;
-										height: 150px;
-										margin-bottom: 15px;
-									}
-								</style>
+								.card {
+									padding: 25px 0;
+									display: flex;
+									flex-direction: column;
+									height: 150px;
+									margin-bottom: 15px;
+								}
+							</style>
 
 
-								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
-									<!-- hey chat.. please include cards to display the management of the college -->
-								</div>
+							<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+								<!-- hey chat.. please include cards to display the management of the college -->
 							</div>
 						</div>
 					</div>
-
 				</div>
+
 			</div>
+		</div>
 		</div>
 	</main>
 	<!--************************************

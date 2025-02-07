@@ -90,7 +90,7 @@
 											<li><a href="business.php">Business</a></li>
 											<li><a href="engineeringScience.php">Engineering and Science</a></li>
 											<li><a href="buildingCivil.php">Building and Civil Engineering</a></li>
-											<li><a href="it.php">Information Communication Technology</a></li>
+											<li><a href="ict.php">Information Communication Technology</a></li>
 										</ul>
 									</li>
 

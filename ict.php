@@ -17,7 +17,7 @@
 					<ol class="tg-breadcrumb">
 						<li><a href="index.php">home</a></li>
 						<li><a href="academics.php">Academic</a></li>
-						<li class="tg-active">Education</li>
+						<li class="tg-active">ICT</li>
 					</ol>
 				</div>
 			</div>
@@ -38,7 +38,7 @@
 							<div class="tg-addmission">
 								<div class="tg-pagetitle">
 									<!-- <h2>Eswatini College Of Technology</h2> -->
-									<h2>Faculty of Education</h2>
+									<h2>Faculty of ICT</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
 									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate accusantium adipisci distinctio. Aspernatur fugit fugiat sequi expedita cumque pariatur! Voluptatum nam in a sed officia, recusandae ad hic voluptas nesciunt. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore suscipit fugiat, vel quasi iste ullam ipsum, maxime expedita quaerat velit tenetur aliquam a soluta fuga. Aliquam est praesentium rem adipisci!</p>
@@ -50,20 +50,9 @@
 									<!-- Card 1 -->
 									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 										<div class="card d-flex flex-column align-items-center p-2">
-											<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
+											<img src="images/faculty/ict.png" class="profile-img rounded-circle" alt="Person 1">
 											<div class="card-body">
-												<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
-												<a href="application/">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
-									<!-- Card 2 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-row align-items-center p-2">
-											<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
-											<div class="card-body">
-												<h5 class="card-title">Secondary Teacher’s Diploma: Information and Communication Technology</h5>
+												<h5 class="card-title">Diploma in Computer Science</h5>
 												<a href="application/">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
