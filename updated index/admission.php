@@ -5,15 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admissions - Eswatini College of Technology</title>
     <link rel="stylesheet" href="admission.css">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="footer.css">
+
+    
 </head>
 <body>
-   
+<?php include 'header.php' ?>
 <div class="hero-slider">
         <div class="slide">
             <img src="/api/placeholder/1200/500" alt="Campus Main Building" class="slide-image">
             <div class="slide-content">
                 <h1>Shape Your Future</h1>
-                <p>Join Eswatini's Premier Technology Institution</p>
+                <p>Join Eswatini College of Technology</p>
                 <a href="#apply" class="cta-button">Begin Your Journey</a>
             </div>
         </div>
@@ -119,12 +123,12 @@
                 <h2>Student Success Stories</h2>
                 <div class="stories-slider">
                     <div class="story-card">
-                        <img src="/api/placeholder/300/300" alt="Student Portrait" class="student-image">
+                        <img src="updated index/t.jpg" alt="Student Portrait" class="student-image">
                         <div class="story-content">
                             <blockquote>
                                 "The practical approach to learning at ECT prepared me for my career in engineering."
                             </blockquote>
-                            <cite>- Sarah Johnson, Engineering Graduate 2024</cite>
+                            <cite>- Celumusa Thusi, Computer Science Graduate 2021</cite>
                         </div>
                     </div>
                     <!-- Add more story cards as needed -->
@@ -350,3 +354,6 @@
     </div>
 </section>
     </main>
+    <?php include 'footer.php' ?>
+    </body>
+    </html>
