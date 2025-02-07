@@ -14,7 +14,7 @@
 <?php include 'header.php' ?>
 <div class="hero-slider">
         <div class="slide">
-            <img src="/api/placeholder/1200/500" alt="Campus Main Building" class="slide-image">
+            <img src="images/addmission/img-01.jpg" alt="Campus Main Building" class="slide-image">
             <div class="slide-content">
                 <h1>Shape Your Future</h1>
                 <p>Join Eswatini College of Technology</p>
@@ -31,12 +31,12 @@
                     <div class="stat-card">
                         <i class="fas fa-users"></i>
                         <h3>5,000+</h3>
-                        <p>Current Students</p>
+                        <p>Applications Received</p>
                     </div>
                     <div class="stat-card">
                         <i class="fas fa-graduation-cap"></i>
                         <h3>98%</h3>
-                        <p>Graduate Employment Rate</p>
+                        <p>Success Rate</p>
                     </div>
                     <div class="stat-card">
                         <i class="fas fa-book"></i>
@@ -141,6 +141,34 @@
             <div class="container">
                 <h2>Frequently Asked Questions</h2>
                 <div class="faq-grid">
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h4>What are the admission requirements?</h4>
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                        <div class="faq-answer">
+                            <p>Our basic requirements include O-Level certificates with credits in relevant subjects, entrance exam scores, and a valid ID.</p>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h4>What are the admission requirements?</h4>
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                        <div class="faq-answer">
+                            <p>Our basic requirements include O-Level certificates with credits in relevant subjects, entrance exam scores, and a valid ID.</p>
+                        </div>
+                    </div>
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <h4>What are the admission requirements?</h4>
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                        <div class="faq-answer">
+                            <p>Our basic requirements include O-Level certificates with credits in relevant subjects, entrance exam scores, and a valid ID.</p>
+                        </div>
+                    </div>
                     <div class="faq-item">
                         <div class="faq-question">
                             <h4>What are the admission requirements?</h4>
