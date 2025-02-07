@@ -1,64 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eswatini College of Technology</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="header.css">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
+
 <body>
-    <!-- Top Bar -->
-    <div class="top-bar">
-        <div class="container">
-            <div class="date">Friday, Feb 7th, 2025</div>
-            <div class="quick-links">
-                <a href="#">STUDENTS</a>
-                <a href="#">FACULTY</a>
-                <a href="#">ALUMNI</a>
-                <a href="#">A-Z</a>
-                <a href="#" class="btn-login">LOGIN</a>
-                <a href="#" class="btn-register">REGISTER</a>
-            </div>
-        </div>
-    </div>
-
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="logo">
-                <img src="logo.png" alt="ECOT Logo">
-            </div>
-            <div class="admission-alert">
-                <div class="alert-content">
-                    <span class="highlight">Admission Opened!</span>
-                    <span class="deadline">Last Date For Admission: 02/03/2025</span>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- Navigation -->
-    <nav>
-        <div class="container">
-            <ul class="main-nav">
-                <li><a href="#"><i class="fas fa-home"></i></a></li>
-                <li><a href="#">ABOUT</a></li>
-                <li><a href="#">ACADEMICS</a></li>
-                <li><a href="#">ADMISSION</a></li>
-                <li><a href="#">STUDENT LIFE</a></li>
-                <li><a href="#">RESEARCH</a></li>
-                <li><a href="#">ALUMNI</a></li>
-                <li><a href="#">GIVING</a></li>
-                <li><a href="#">VACANCIES</a></li>
-                <li><a href="#">CONTACTS</a></li>
-            </ul>
-            <div class="search-icon">
-                <i class="fas fa-search"></i>
-            </div>
-        </div>
-    </nav>
-
+<?php include 'header.php' ?>
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-slider">
@@ -66,7 +20,8 @@
                 <div class="overlay"></div>
                 <div class="container">
                     <h1>Annual Graduation 2025</h1>
-                    <p>Join us in celebrating excellence as we honor our graduating class. Experience the pride and achievement of our students as they embark on their next chapter.</p>
+                    <p>Join us in celebrating excellence as we honor our graduating class. Experience the pride and
+                        achievement of our students as they embark on their next chapter.</p>
                     <a href="#" class="btn-learn">Learn More</a>
                 </div>
             </div>
@@ -94,15 +49,14 @@
         </div>
     </section>
 
-    <!-- ... Previous code remains the same until after the hero section ... -->
-
     <!-- Daily Alerts -->
     <div class="daily-alerts">
         <div class="container">
             <span class="alert-label">Daily Alerts:</span>
             <div class="alert-content">
                 <button class="alert-nav prev"><i class="fas fa-chevron-left"></i></button>
-                <div class="alert-text">The internal exams (May - June Series) are on progress in most of the faculties of the college</div>
+                <div class="alert-text">The internal exams (May - June Series) are on progress in most of the faculties
+                    of the college</div>
                 <button class="alert-nav next"><i class="fas fa-chevron-right"></i></button>
             </div>
         </div>
@@ -117,24 +71,44 @@
                     <h2>Latest News</h2>
                     <div class="news-grid">
                         <div class="news-card">
-                            <img src="ict-labs.jpg" alt="ICT Labs">
+                            <img src="images/events/img-02.jpg" alt="ICT Labs">
                             <h3>Official Opening Of Two (2) ICT Labs</h3>
                             <p>Students to equip their technology skills with new computers...</p>
                             <a href="#" class="read-more">Read More</a>
                         </div>
                         <div class="news-card">
-                            <img src="engineering-equipment.jpg" alt="Engineering Equipment">
+                            <img src="images/events/img-01.jpg" alt="Engineering Equipment">
                             <h3>New Equipment For Engineering</h3>
                             <p>New and up to standard equipment for better experience ...</p>
                             <a href="#" class="read-more">Read More</a>
                         </div>
                         <div class="news-card">
-                            <img src="culture-week.jpg" alt="Culture Week">
+                            <img src="images/events/img-03.jpg" alt="Culture Week">
                             <h3>Epic Culture Week</h3>
                             <p>Successful culture week ended with fireworks event ...</p>
                             <a href="#" class="read-more">Read More</a>
                         </div>
+  
                     </div>
+                                      <!-- ECOT At Glance -->
+    <section class="ecot-glance">
+        <div class="container">
+            <h2>ECOT At Glance</h2>
+            <div class="glance-gallery">
+                <div class="main-image">
+                    <img src="campus-main.jpg" alt="ECOT Campus Main Building">
+                </div>
+                <div class="thumbnail-grid">
+                    <img src="campus-1.jpg" alt="Campus View 1" class="thumbnail">
+                    <img src="campus-2.jpg" alt="Campus View 2" class="thumbnail">
+                    <img src="campus-3.jpg" alt="Campus View 3" class="thumbnail">
+                    <img src="campus-4.jpg" alt="Campus View 4" class="thumbnail">
+                    <img src="campus-5.jpg" alt="Campus View 5" class="thumbnail">
+                </div>
+            </div>
+        </div>
+    </section>
+               
                 </section>
 
                 <!-- Sidebar -->
@@ -156,7 +130,11 @@
                             <input type="text" placeholder="Keyword" class="search-input">
                             <select class="faculty-select">
                                 <option value="">Select Faculty</option>
-                                <!-- Add faculty options here -->
+                                <option value="">Engineering</option>
+                                <option value="">Education</option>
+                                <option value="">Management</option>
+                                <option value="">Building</option>
+                                <option value="">ICT</option>
                             </select>
                             <button type="submit" class="search-button">Search Now</button>
                         </form>
@@ -175,28 +153,91 @@
                 </aside>
             </div>
 
-            <!-- Quick Links -->
-            <section class="quick-links">
-                <h2>Quick Links</h2>
-                <div class="links-grid">
-                    <a href="#" class="link-card orange">
+       
+
+   
+
+    <!-- Quick Links -->
+    <section class="feature-links">
+        <div class="container">
+            <h2>Quick Links</h2>
+            <div class="feature-grid">
+                <a href="#" class="feature-card orange">
+                    <div class="icon-circle">
                         <i class="fas fa-book"></i>
-                        <span>Download 2019-2020 Prospectus</span>
-                    </a>
-                    <a href="#" class="link-card purple">
+                    </div>
+                    <div class="feature-content">
+                        <h3>Download 2019-2020 Prospectus</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card purple">
+                    <div class="icon-circle">
                         <i class="fas fa-user-graduate"></i>
-                        <span>Admissions Guidline For New Students</span>
-                    </a>
-                    <a href="#" class="link-card blue">
-                        <i class="fas fa-library"></i>
-                        <span>ECOT Library & Research</span>
-                    </a>
-                    <a href="#" class="link-card coral">
+                    </div>
+                    <div class="feature-content">
+                        <h3>Admissions Guidline For New Students</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card blue">
+                    <div class="icon-circle">
+                        <i class="fas fa-book-reader"></i>
+                    </div>
+                    <div class="feature-content">
+                        <h3>ECOT Library & Research</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card coral">
+                    <div class="icon-circle">
                         <i class="fas fa-film"></i>
-                        <span>Multimedia and Entertainment</span>
-                    </a>
-                </div>
-            </section>
+                    </div>
+                    <div class="feature-content">
+                        <h3>Multimedia and Entertainment</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card red">
+                    <div class="icon-circle">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <div class="feature-content">
+                        <h3>Annual Graduation for all grads 2019</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card green">
+                    <div class="icon-circle">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <div class="feature-content">
+                        <h3>Student Advisory June 27,2019</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card azure">
+                    <div class="icon-circle">
+                        <i class="fas fa-globe"></i>
+                    </div>
+                    <div class="feature-content">
+                        <h3>Official launch of the website 2019</h3>
+                    </div>
+                </a>
+
+                <a href="#" class="feature-card magenta">
+                    <div class="icon-circle">
+                        <i class="fas fa-calendar-alt"></i>
+                    </div>
+                    <div class="feature-content">
+                        <h3>Calendar of Events / Entertainment</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+
         </div>
     </div>
 
@@ -293,4 +334,5 @@
         </div>
     </footer>
 </body>
+
 </html>
