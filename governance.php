@@ -16,7 +16,6 @@
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<ol class="tg-breadcrumb">
 						<li><a href="index.php">home</a></li>
-						<!-- <li><a href="about.php">about</a></li> -->
 						<li class="tg-active">History</li>
 					</ol>
 				</div>
@@ -48,7 +47,7 @@
 										<!-- Card 1 -->
 										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 											<div class="card">
-												<img src="path-to-image1.jpg" class="card-img-top" alt="Person 1">
+												<img src="images/staff/1.png" class="card-img-top  profile-img" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Dr. John Doe</h5>
 													<p class="card-text">Principal</p>
@@ -58,7 +57,7 @@
 										<!-- Card 2 -->
 										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 											<div class="card">
-												<img src="path-to-image2.jpg" class="card-img-top" alt="Person 2">
+												<img src="images/staff/2.jpg" class="card-img-top  profile-img" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Prof. Jane Smith</h5>
 													<p class="card-text">Vice Principal</p>
@@ -68,7 +67,7 @@
 										<!-- Card 3 -->
 										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 											<div class="card">
-												<img src="path-to-image3.jpg" class="card-img-top" alt="Person 3">
+												<img src="images/staff/3.jpg" class="card-img-top profile-img" alt="Person 3">
 												<div class="card-body">
 													<h5 class="card-title">Mr. James Brown</h5>
 													<p class="card-text">Head of Administration</p>
@@ -77,6 +76,24 @@
 										</div>
 									</div>
 								</div>
+
+								<style>
+									.profile-img {
+										width: 100%;
+										/* Makes images fill the card width */
+										height: 250px;
+										/* Fixed height for consistency */
+										object-fit: cover;
+										object-position: top;
+										/* Ensures the image maintains aspect ratio and fills the space */
+									}
+
+									@media screen and (max-width: 900px) {
+										.profile-img {
+											max-width: 250px;
+										}
+									}
+								</style>
 
 
 								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
