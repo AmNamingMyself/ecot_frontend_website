@@ -86,7 +86,7 @@
 									<li class="menu-item-has-children"><span class="tg-dropdowarrow"><i class="fa  fa-angle-right"></i></span>
 										<a href="academics.php">Academics</a>
 										<ul class="sub-menu">
-											<li><a href="academics/education.php">Education</a></li>
+											<li><a href="education.php">Education</a></li>
 											<li><a href="business.php">Business</a></li>
 											<li><a href="engineeringScience.php">Engineering and Science</a></li>
 											<li><a href="buildingCivil.php">Building and Civil Engineering</a></li>
@@ -98,15 +98,17 @@
 
 
 									<li class="menu-item-has-children">
-										<a href="javascript:void(0);">Admission</a>
+										<a href="admissions.php">Admission</a>
 										<ul class="sub-menu">
 											<li class="menu-item-has-children">
-												<a href="javascript:void(0);">Apply </a>
+												<a href="apply.php">Apply </a>
 												<ul class="sub-menu">
+													<!-- TODO: link apply now to system -->
 													<li><a href="">Apply Now</a></li>
-													<li><a href="">Proficiency</a></li>
+													<!-- TODO: what to put here -->
+													<!-- <li><a href="">Proficiency</a></li>
 													<li><a href="">Considerations</a></li>
-													<li><a href="">Requirements</a></li>
+													<li><a href="">Requirements</a></li> -->
 													<li><a href="">FAQ&acute;s</a></li>
 												</ul>
 											</li>
@@ -118,7 +120,7 @@
 												</ul>
 											</li>
 											<li class="menu-item-has-children">
-												<a href="javascript:void(0);">Tuitions</a>
+												<a href="tuition.php">Tuitions</a>
 												<ul class="sub-menu">
 													<li><a href="">Self Sponsored</a></li>
 													<li><a href="">Government Sponsored</a></li>
