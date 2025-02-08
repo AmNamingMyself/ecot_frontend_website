@@ -113,11 +113,11 @@
 												</ul>
 											</li>
 											<li class="menu-item-has-children">
-												<a href="javascript:void(0);">Programs</a>
-												<ul class="sub-menu">
+												<a href="programs.php">Programs</a>
+												<!-- <ul class="sub-menu">
 													<li><a href="">Graduate</a></li>
 													<li><a href="">Undergraduate</a></li>
-												</ul>
+												</ul> -->
 											</li>
 											<li class="menu-item-has-children">
 												<a href="tuition.php">Tuitions</a>

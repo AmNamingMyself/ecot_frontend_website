@@ -16,7 +16,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<ol class="tg-breadcrumb">
 						<li><a href="index.php">home</a></li>
-						<li><a href="apply.php">apply</a></li>
+						<li><a href="admissions.php">admissions</a></li>
 						<li class="tg-active">tuition</li>
 					</ol>
 				</div>

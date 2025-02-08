@@ -76,7 +76,7 @@ include("includes/menu-nav.php");
 
 									<div class="row container1">
 										<!-- Card 1 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
 												<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
@@ -87,7 +87,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 2 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
@@ -110,6 +110,7 @@ include("includes/menu-nav.php");
 											display: flex;
 											gap: 0.75rem;
 											margin-bottom: 60px;
+											flex-wrap: wrap;
 										}
 
 										.profile-img {
@@ -127,6 +128,10 @@ include("includes/menu-nav.php");
 											height: 150px;
 											margin-bottom: 15px;
 										}
+
+										.card-item {
+											padding-top: 20px;
+										}
 									</style>
 								</div>
 
@@ -136,7 +141,7 @@ include("includes/menu-nav.php");
 
 									<div class="row container1">
 										<!-- Card 1 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
 												<img src="images/faculty/hr.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
@@ -147,7 +152,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 2 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
@@ -158,7 +163,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 3 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 3">
 												<div class="card-body">
@@ -177,7 +182,7 @@ include("includes/menu-nav.php");
 
 									<div class="row container1" style="display:flex;width: 100% !important;">
 										<!-- Card 1 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
 												<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
@@ -188,7 +193,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 2 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
@@ -199,7 +204,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 3 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
@@ -210,7 +215,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 4 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
@@ -229,7 +234,7 @@ include("includes/menu-nav.php");
 
 									<div class="row container1">
 										<!-- Card 1 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
 												<img src="images/faculty/civil.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
@@ -240,7 +245,7 @@ include("includes/menu-nav.php");
 											</div>
 										</div>
 										<!-- Card 2 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/architect.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
@@ -259,7 +264,7 @@ include("includes/menu-nav.php");
 
 									<div class="row container1">
 										<!-- Card 1 -->
-										<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
 												<img src="images/faculty/ict.png" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
@@ -275,40 +280,6 @@ include("includes/menu-nav.php");
 
 							</div>
 
-							<style>
-								#tuitions>div>div>ul {
-									margin-left: 15px;
-									margin-bottom: 20px;
-								}
-							</style>
-
-							<!-- 
-										<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
-									<div id="tg-content" class="tg-content">
-										<div class="tg-aboutus tg-visionmission">
-
-											<h3>First Year</h3>
-											<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat voluptatum quod blanditiis aspernatur qui ex fugit aut, repellendus ratione eligendi quaerat ad fugiat dolorum animi, totam cumque odio beatae. Cupiditate.</p>
-											
-											<h3>Our Mission</h3>
-											<p>ECOT is a committed market leader in the advancement of technology, scientific, commercial education and training through research and development in collaboration with critical stakeholders regionally and internationally.</p>
-
-											<br />
-
-											<div class="tg-container">
-												<h3>VALUES AND ATTITUDE</h3>
-												<ul class="tg-ullist tg-liststyledot">
-													<li><strong>Excellence:</strong> We are committed to creativity and innovation; strive to produce the highest quality outcomes in all endeavours.</li>
-													<li><strong>Professionalism:</strong> Evidenced based training and service provision in accordance with the legislative framework and guided by ethical principles and related professional disciples.</li>
-													<li><strong>Integrity and Transparency:</strong> Through academic freedom, responsibility and ethical behaviour. </li>
-													<li><strong>Teamwork:</strong> Recognizes the inherent dignity of each member of the University community and treats everyone with respect. Our actions are guided by fairness and honesty. </li>
-													<li><strong>Learning:</strong> We engage in collaborative education that is career-oriented balancing theory and practice, emphasizing active learning, developing critical learning and fostering responsibility and the desire for long pursuit of knowledge. </li>
-
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div> -->
 						</div>
 					</div>
 				</div>
