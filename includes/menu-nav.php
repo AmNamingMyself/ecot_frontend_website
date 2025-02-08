@@ -86,7 +86,7 @@
 									<li class="menu-item-has-children"><span class="tg-dropdowarrow"><i class="fa  fa-angle-right"></i></span>
 										<a href="academics.php">Academics</a>
 										<ul class="sub-menu">
-											<li><a href="education.php">Education</a></li>
+											<li><a href="academics/education.php">Education</a></li>
 											<li><a href="business.php">Business</a></li>
 											<li><a href="engineeringScience.php">Engineering and Science</a></li>
 											<li><a href="buildingCivil.php">Building and Civil Engineering</a></li>
@@ -125,14 +125,15 @@
 
 												</ul>
 											</li>
-											<li class="menu-item-has-children">
-												<a href="javascript:void(0);">Careeer Guidance</a>
+											<!-- FIXME: Find out more about career guidance -->
+											<!-- <li class="menu-item-has-children">
+												<a href="javascript:void(0);">Career Guidance</a>
 												<ul class="sub-menu">
 													<li><a href="">Career Centre</a></li>
 													<li><a href="">Career Fairs</a></li>
 													<li><a href="">Get Help</a></li>
 												</ul>
-											</li>
+											</li> -->
 										</ul>
 									</li>
 									<li class="menu-item-has-children">
@@ -198,6 +199,9 @@
 											</li>
 										</ul>
 									</li>
+									<!-- FIXME: Handle the giving, alumni, and vacancies pages -->
+
+									<!--
 									<li class="menu-item-has-children">
 										<a href="javascript:void(0);">Alumni</a>
 										<ul class="sub-menu">
@@ -215,7 +219,8 @@
 										</ul>
 									</li>
 									<li class=""><a href="javascript:void(0);">Vacancies</a></li>
-									<li class=""><a href="javascript:void(0);">Contacts</a></li>
+									-->
+									<li class=""><a href="contact.php">Contacts</a></li>
 								</ul>
 							</div>
 						</nav>
