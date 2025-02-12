@@ -26,10 +26,12 @@ include("includes/menu-nav.php");
   .containers {
            
 		   gap: 30px; 
-		   max-width: 1200px;
+		   max-width: 800px;
 		   margin: 0 auto;
-		   padding: 20px;
+		   padding: 10px;
 			   }
+
+			   
 			   .containers1 {
 				   display: flex;
 		   gap: 30px; 
@@ -167,13 +169,13 @@ include("includes/menu-nav.php");
 </style>
 <main>
 	
-<div class="containers">
+<!-- <div class="containers">
     <div class="quick-links">
         <a href="#" class="quick-link">How to Apply</a>
         <a href="#" class="quick-link">Apply Now</a>
         <a href="#" class="quick-link">Procedure for fees payment</a>
         <a href="#" class="quick-link">Student finance contacts</a>
-    </div>
+    </div> -->
 </div>
     <div class="containers1">
     
@@ -182,7 +184,7 @@ include("includes/menu-nav.php");
                 <input type="text" class="search-input" placeholder="Search for any programme...">
                 
                 <div class="program-list">
-                    <div class="program-item">All PROGRAMME clusters</div>
+                    <div class="program-item">ALL PROGRAMME CLUSTERS</div>
                     <!-- <div class="dropdown">
                         <div class="dropdown-content">
                             <div>Engineering</div>
@@ -243,7 +245,7 @@ include("includes/menu-nav.php");
         
 
             <div class="main-content">
-                <h1>All PROGRAMME clusters</h1>
+                <h1>ALL PROGRAMME CLUSTERS</h1>
                 
                 <div class="description">
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim natus ipsa ad rem iusto error voluptas explicabo culpa nulla, distinctio ut necessitatibus facilis qui in. Iure nemo sit ipsam laborum!</p>
@@ -279,6 +281,15 @@ include("includes/menu-nav.php");
             </div>
         </div>
     </div>
+		
+<div class="containers">
+    <div class="quick-links">
+        <a href="admissions.php" class="quick-link">How to Apply</a>
+        <a href="#" class="quick-link">Apply Now</a>
+        <a href="#" class="quick-link">Procedure for fees payment</a>
+        <a href="#" class="quick-link">Student finance contacts</a>
+    </div>
+</div>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             const items = document.querySelectorAll(".program-item");
