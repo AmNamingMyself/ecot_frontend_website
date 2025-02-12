@@ -68,7 +68,7 @@
 										<li><a href="javascript:void(0);">Student Webmail</a></li>
 										<li><a href="javascript:void(0);">Staff Portal</a></li>
 										<li><a href="javascript:void(0);">Staff Webmail</a></li>
-										<li><a href="javascript:void(0);">Academics</a></li>
+										<li><a href="academics.php">Academics</a></li>
 										<li><a href="javascript:void(0);">Calendar</a></li>
 										<li><a href="javascript:void(0);">Publications</a></li>
 										<li><a href="javascript:void(0);">News and Media</a></li>
@@ -89,7 +89,7 @@
 										<li><a href="javascript:void(0);">Legal information</a></li>
 										<li><a href="javascript:void(0);">Terms conditions</a></li>
 										<li><a href="javascript:void(0);">Copyrights</a></li>
-										<li><a href="javascript:void(0);">Faculties</a></li>
+										<li><a href="academics.php">Faculties</a></li>
 										<li><a href="javascript:void(0);">Academics</a></li>
 										<li><a href="javascript:void(0);">Student Life</a></li>
 								</div>

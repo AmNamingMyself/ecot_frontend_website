@@ -339,16 +339,16 @@
 													<span class="tg-select">
 														<select>
 															<option value="">Select Faculty</option>
-															<option value="">Engineering</option>
-															<option value="">Education</option>
-															<option value="">Management</option>
-															<option value="">Building</option>
-															<option value="">ICT</option>
+															<option value="engineeringScience.php">Engineering</option>
+															<option value="education.php">Education</option>
+															<option value="business.php">Management</option>
+															<option value="buildingCivil.php">Building</option>
+															<option value="ict.php">ICT</option>
 														</select>
 													</span>
 												</div>
 												<button type="submit" class="tg-btn">search now</button>
-												<a href="javascript:void(0);">View All Courses</a>
+												<a href="academics.php">View All Courses</a>
 											</fieldset>
 										</form>
 									</div>

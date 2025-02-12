@@ -11,7 +11,7 @@
 			<div class="tg-topbar">
 				<div class="tg-leftbox">
 					<span id="tg-datebox" class="tg-datebox"></span>
-					<span class="tg-rtltextbox"> <a href="#">Students</a> <a href="#">Faculty</a><a href="#">Alumni</a> <a href="#">A-Z</a></span>
+					<span class="tg-rtltextbox"> <a href="#">Students</a> <a href="academics.php">Faculty</a><a href="#">Alumni</a> <a href="#">A-Z</a></span>
 				</div>
 				<div class="tg-rightbox">
 					<span class="tg-tollfree"><a href="javascript:void(0);">Logout</a></span>

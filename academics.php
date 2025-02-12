@@ -114,7 +114,7 @@ include("includes/menu-nav.php");
 			   }
 	   
 			   .bachelor-title {
-				   color: #ff0000;
+				   color:rgb(0, 188, 38);
 				   font-size: 24px;
 				   margin: 30px 0 20px;
 			   }
@@ -161,7 +161,7 @@ include("includes/menu-nav.php");
 	   }
 	   
 	   .dropdown-content div:hover {
-		   color: red;
+		   color:rgb(0, 188, 38);
 	   }
 	   
 </style>
@@ -194,9 +194,7 @@ include("includes/menu-nav.php");
                     <div class="program-item">Faculty of ICT</div>
                     <div class="dropdown">
                         <div class="dropdown-content">
-                            <div>Software Engineering</div>
-                            <div>Cybersecurity</div>
-                            <div>Network Administration</div>
+                            <div>Diploma in Computer Science</div>
                         </div>
                     </div>
         
@@ -221,8 +219,8 @@ include("includes/menu-nav.php");
                     <div class="program-item">Faculty of Education</div>
                     <div class="dropdown">
                         <div class="dropdown-content">
-                            <div>Mathematics</div>
-                            <div>Physics</div>
+                            <div>Secondary Teacher's Diploma in commercials</div>
+                            <div>Teacher's Diplonma in Information Technology</div>
                             <div>Computer Studies</div>
                         </div>
                     </div>
@@ -230,9 +228,11 @@ include("includes/menu-nav.php");
                     <div class="program-item">Faculty of Engineering and Science</div>
                     <div class="dropdown">
                         <div class="dropdown-content">
-                            <div>Mechanical Engineering</div>
-                            <div>Electrical Engineering</div>
-                            <div>Physics</div>
+                            <div>Diploma in Mechanical Engineering</div>
+                            <div>Diploma in Electrical Engineering</div>
+                            <div>Diploma in Automotive Light</div>
+							<div>Diploma in Automotive heavy</div>
+							<div>Diploma in </div>
                         </div>
                     </div>
                 </div>
@@ -263,14 +263,14 @@ include("includes/menu-nav.php");
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni quas, praesentium soluta ad consequuntur maxime quisquam neque incidunt iste beatae non. Cumque obcaecati repudiandae amet ipsa accusantium culpa tempora doloremque!</p>
                 </div>
                 <div class="program-details">
-                    <h3>Diploma in Computer Science</h3>
+                    <h3>Diploma in Civil Engineering</h3>
                     <p class="course-code">Course code - H31</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt suscipit, in reprehenderit, tempore iste labore, explicabo mollitia perferendis cumque aut deleniti placeat beatae sapiente alias odit? Nisi accusantium corporis ad?</p>
                     <br>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam repellendus similique, nihil dolorum molestiae minus, excepturi ab mollitia obcaecati sed unde perferendis libero? Accusamus, quaerat! Possimus magni officia iure. Provident.</p>
                 </div>
                 <div class="program-details">
-                    <h3>Diploma in Computer Science</h3>
+                    <h3>Diploma in Architecture</h3>
                     <p class="course-code">Course code - H31</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
                     <br>
