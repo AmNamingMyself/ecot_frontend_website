@@ -286,7 +286,7 @@ include("includes/menu-nav.php");
     <div class="quick-links">
         <a href="admissions.php" class="quick-link">How to Apply</a>
         <a href="#" class="quick-link">Apply Now</a>
-        <a href="#" class="quick-link">Procedure for fees payment</a>
+        <a href="tuition.php" class="quick-link">Procedure for fees payment</a>
         <a href="#" class="quick-link">Student finance contacts</a>
     </div>
 </div>
