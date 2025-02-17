@@ -41,7 +41,7 @@
 									<h2>Faculty of Engineering Science</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
-									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate accusantium adipisci distinctio. Aspernatur fugit fugiat sequi expedita cumque pariatur! Voluptatum nam in a sed officia, recusandae ad hic voluptas nesciunt. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore suscipit fugiat, vel quasi iste ullam ipsum, maxime expedita quaerat velit tenetur aliquam a soluta fuga. Aliquam est praesentium rem adipisci!</p>
+									<p>Engineering science is an interdisciplinary field that combines various scientific principles, primarily physics and mathematics, with engineering practices to solve complex problems, essentially acting as a bridge between pure science and applied engineering, allowing students to study the fundamental scientific concepts behind different engineering disciplines like mechanical, electrical, and civil engineering, often with a focus on research and development applications; it typically includes courses in advanced mathematics, physics, materials science, computer modeling, and specialized engineering topics depending on the program's focus. </p>
 								</div>
 
 								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->

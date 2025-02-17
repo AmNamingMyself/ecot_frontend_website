@@ -171,12 +171,6 @@
 											</li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Campus Services</a>
-												<ul class="sub-menu">
-													<li><a href="">Housing</a></li>
-													<li><a href="">Nutrition</a></li>
-													<li><a href="">Security</a></li>
-													<li><a href="">Recreation</a></li>
-												</ul>
 											</li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Student Organization</a>
@@ -194,7 +188,8 @@
 										<ul class="sub-menu">
 											<li><a href="">Library</a></li>
 											<li class="menu-item-has-children">
-												<a href="research.php">Research</a>
+												<a href="research.php" target="_blank"
+												>Research</a>
 												<ul class="sub-menu">
 													<li><a href="">Interlectual Property</a></li>
 													<li><a href="">Student&acute;s Resources</a></li>
