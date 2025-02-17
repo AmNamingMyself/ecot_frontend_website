@@ -88,7 +88,7 @@
 						<div class="tg-noticeboardarea">
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
-									<h3>Accepted List 2019</h3>
+									<h3>Accepted List 2025</h3>
 									
 									<div class="tg-description">
 										<p>The Registrar&acute;s Office has still not evaluated applications and the accepted list is NOT Available</p>
@@ -112,7 +112,7 @@
 							</div>
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
-									<h3>2019</h3>
+									<h3>2025</h3>
 									<div class="tg-description">
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>
@@ -129,7 +129,7 @@
 						<div id="tg-ticker" class="tg-ticker owl-carousel">
 							<div class="item">
 								<div class="tg-description">
-									<p>The internal exams (May - June Series) are on progress in most of the faculties of the college</p>
+									<p>The internal exams (April - May Series) are on progress in most of the faculties of the college</p>
 								</div>
 							</div>
 							<div class="item">
