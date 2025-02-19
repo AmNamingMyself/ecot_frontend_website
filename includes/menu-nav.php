@@ -1,7 +1,7 @@
 <!--************************************
 			Wrapper Start
 	*************************************-->
-<div id="tg-wrapper" class="tg-wrapper">
+<div id="tg-wrapper" class="tg-wrapper" style="">
 	<!--************************************
 				Header Start
 		*************************************-->
@@ -102,33 +102,37 @@
 									<li class="menu-item-has-children">
 										<a href="admissions.php">Admission</a>
 										<ul class="sub-menu">
-											<li class="menu-item-has-children">
+											<li><a href="apply.php">Apply</a></li>
+											<li><a href="programs.php">Programs</a></li>
+											<li><a href="tuition.php">Tuitions</a></li>
+											<li><a href="faqs.php">FAQ&acute;s</a></li>
+											<!-- <li class="menu-item-has-children">
 												<a href="apply.php">Apply </a>
 												<ul class="sub-menu">
-													<!-- TODO: link apply now to system -->
+													TODO: link apply now to system
 													<li><a href="">Apply Now</a></li>
-													<!-- TODO: what to put here -->
-													<!-- <li><a href="">Proficiency</a></li>
+													TODO: what to put here
+													<li><a href="">Proficiency</a></li>
 													<li><a href="">Considerations</a></li>
-													<li><a href="">Requirements</a></li> -->
+													<li><a href="">Requirements</a></li>
 													<li><a href="">FAQ&acute;s</a></li>
 												</ul>
-											</li>
-											<li class="menu-item-has-children">
-												<a href="programs.php">Programs</a>
-												<!-- <ul class="sub-menu">
+											</li> -->
+											<!-- <li class="menu-item-has-children">
+												<a href="programs.php">Programs</a> -->
+											<!-- <ul class="sub-menu">
 													<li><a href="">Graduate</a></li>
 													<li><a href="">Undergraduate</a></li>
 												</ul> -->
-											</li>
-											<li class="menu-item-has-children">
+											<!-- </li> -->
+											<!-- <li class="menu-item-has-children">
 												<a href="tuition.php">Tuitions</a>
 												<ul class="sub-menu">
 													<li><a href="">Self Sponsored</a></li>
 													<li><a href="">Government Sponsored</a></li>
 
 												</ul>
-											</li>
+											</li> -->
 											<!-- FIXME: Find out more about career guidance -->
 											<!-- <li class="menu-item-has-children">
 												<a href="javascript:void(0);">Career Guidance</a>
