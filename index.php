@@ -16,12 +16,12 @@
 						<div id="tg-homeslider" class="tg-homeslider owl-carousel tg-btnround tg-haslayout">
 							<div class="item">
 								<figure>
-									<img src="images/slider/slide3.jpg" alt="image description">
+									<img src="img/Artwork-20250215T071308Z-001/Artwork/IMG_0190.jpg" alt="image description">
 									<figcaption class="tg-slidercontent">
 										<div class="tg-slidercontentbox">
 											<a class="tg-btn" href="javascript:void(0);">Learn more</a>
 											<div class="tg-titledescription">
-												<h1>Annual Graduation 2019</h1>
+												<h1>Annual Graduation 2024</h1>
 												<div class="tg-description"><p>The Eswatini College Of Technology prides itself with its products; Parents, Students, and other relevant stakeholders are invited to witness the annual graduation...</p></div>
 											</div>
 										</div>
@@ -88,7 +88,7 @@
 						<div class="tg-noticeboardarea">
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
-									<h3>Accepted List 2019</h3>
+									<h3>Accepted List 2025</h3>
 									
 									<div class="tg-description">
 										<p>The Registrar&acute;s Office has still not evaluated applications and the accepted list is NOT Available</p>
@@ -112,7 +112,7 @@
 							</div>
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
-									<h3>2019</h3>
+									<h3>2025</h3>
 									<div class="tg-description">
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>
@@ -129,7 +129,7 @@
 						<div id="tg-ticker" class="tg-ticker owl-carousel">
 							<div class="item">
 								<div class="tg-description">
-									<p>The internal exams (May - June Series) are on progress in most of the faculties of the college</p>
+									<p>The internal exams (April - May Series) are on progress in most of the faculties of the college</p>
 								</div>
 							</div>
 							<div class="item">

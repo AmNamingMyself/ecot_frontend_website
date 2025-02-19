@@ -9,7 +9,9 @@
 		<div class="tg-topbar">
 			<div class="tg-leftbox">
 				<span id="tg-datebox" class="tg-datebox"></span>
-				<span class="tg-rtltextbox"> <a href="#">Students</a> <a href="#">Faculty</a><a href="#">Alumni</a> <a href="#">A-Z</a></span>
+				<span class="tg-rtltextbox"> <a href="admissions.php">Admissions</a>
+		
+				<!-- <span class="tg-rtltextbox"> <a href="#">Students</a> <a href="#">Faculty</a><a href="#">Alumni</a> <a href="#">A-Z</a></span> -->
 			</div>
 			<div class="tg-rightbox">
 				<span class="tg-tollfree"><a href="">Register</a> <a href="">Login</a></span>
@@ -20,10 +22,10 @@
 					</a>
 					<div class="tg-themedropdownbox" aria-labelledby="tg-languages">
 						<ul class="tg-languageslist">
-							<li><span>Calendar</span></li>
-							<li><span>Directory</span></li>
-							<li><span>Academics</span></li>
-							<li><span>Admissions</span></li>
+							<li><a href="">Calendar</a></li>
+							<li><a href="academics.php">Academics</a></li>
+							<li><a href="admissions.php">Admissions</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -38,7 +40,7 @@
 						<div class="tg-noticeboard hidden-xs">
 							<div class="tg-textbox">
 								<span>Admission Opened!</span>
-								<span>Last Date For Admission 02/03/2019</span>
+								<span>Last Date For Admission 30/03/2025</span>
 							</div>
 							<figure><img src="images/img-01.jpg" alt="image description"></figure>
 						</div>
@@ -173,12 +175,6 @@
 											</li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Campus Services</a>
-												<ul class="sub-menu">
-													<li><a href="">Housing</a></li>
-													<li><a href="">Nutrition</a></li>
-													<li><a href="">Security</a></li>
-													<li><a href="">Recreation</a></li>
-												</ul>
 											</li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Student Organization</a>
@@ -192,11 +188,12 @@
 										</ul>
 									</li>
 									<li class="menu-item-has-children">
-										<a href="javascript:void(0);">Research</a>
+										<a href="research.php">Research</a>
 										<ul class="sub-menu">
 											<li><a href="">Library</a></li>
 											<li class="menu-item-has-children">
-												<a href="javascript:void(0);">Research</a>
+												<a href="research.php" target="_blank"
+												>Research</a>
 												<ul class="sub-menu">
 													<li><a href="">Interlectual Property</a></li>
 													<li><a href="">Student&acute;s Resources</a></li>
