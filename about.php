@@ -44,24 +44,28 @@
 								<div class="tg-pagetitle">
 									<h2>Eswatini College Of Technology</h2>
 								</div>
+								
 								<div class="tg-container">
 
-									<p>If you are contemplating on educational options or a career or vocation, you are invited to consider what the Swaziland College of Technology offers. This you can do either by reading this prospectus or enquiring about the college programmes from the office of the Registrar. I have no doubt that either of the two alternatives will provide you with a clear spectrum of what the Swaziland College of Technology can do for you.</p>
-									<p>The college currently offers Diploma programmes under the following faculties: Business Administration, Building &amp; Civil Engineering, Education, Engineering &amp; Science, and Information and Communication Technology. B Tech programmes have been introduced in the Faculty of Bus and Admin and also Faculty of Information and Communication Technology.</p>
+									<p>If you are contemplating on educational options or a career or vocation, you are invited to consider what the Eswatini College of Technology offers. This you can do either by reading this prospectus or enquiring about the college programmes from the office of the Registrar. I have no doubt that either of the two alternatives will provide you with a clear spectrum of what the Eswatini College of Technology can do for you.</p>
+									<p>The college currently offers Diploma programmes under the following faculties: Business Administration, Building &amp; Civil Engineering, Education, Engineering &amp; Science, and Information and Communication Technology. </p> <!-- B Tech programmes have been introduced in the Faculty of Bus and Admin and also Faculty of Information and Communication Technology. -->
+								<br><br>
 								</div>
 								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
 									<div id="tg-content" class="tg-content">
 										<div class="tg-aboutus tg-visionmission">
 
 											<h3>Our Vision</h3>
-											<p>By the year 2018 ECOT shall be a leading university of technology renowned for its excellence in quality and marketable products in the kingdom and beyond. </p>
+											<p>To be at the forefront of technological change and to provide excellence in training.
+											</p>
 											<h3>Our Mission</h3>
-											<p>ECOT is a committed market leader in the advancement of technology, scientific, commercial education and training through research and development in collaboration with critical stakeholders regionally and internationally.</p>
+											<p>The mission of the college is to maintain its position as the principal institution of higher level technical and vocational education and training in Eswatini. It is dedicated to providing and facilitating high quality training and learning in technology and business studies in collaboration with the commercial, industrial and public sectors. The aim is to enhance the development and expansion of the economy for prosperity of the Eswatini within the region of Southern Africa.
+											</p>
 
 											<br />
 
 											<div class="tg-container">
-												<h3>VALUES AND ATTITUDE</h3>
+												<h3>Values and Attitude</h3>
 												<ul class="tg-ullist tg-liststyledot">
 													<li><strong>Excellence:</strong> We are committed to creativity and innovation; strive to produce the highest quality outcomes in all endeavours.</li>
 													<li><strong>Professionalism:</strong> Evidenced based training and service provision in accordance with the legislative framework and guided by ethical principles and related professional disciples.</li>
@@ -81,7 +85,7 @@
 						<aside id="tg-sidebar" class="tg-sidebar">
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
-									<h3>Admission 2018-19</h3>
+									<h3>Admission 2025-26</h3>
 									<div class="tg-description">
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>
