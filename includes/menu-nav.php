@@ -110,7 +110,7 @@
 														<ul>
 															<!-- <li><a href="about.php">About</a></li> -->
 															<li><a href="history.php">History</a></li>
-															<li><a href="governance.php">Governance</a></li>
+															<li><a href="governance.php">Principal Officers</a></li>
 														</ul>
 													</li>
 													<!-- <li class="mega-menu-col">
