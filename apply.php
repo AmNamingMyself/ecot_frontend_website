@@ -61,16 +61,23 @@
 									<div id="tg-content" class="tg-content">
 										<div class="tg-aboutus tg-visionmission">
 
-											<div class="tg-container">
-												<h3>VALUES AND ATTITUDE</h3>
-												<ul class="tg-ullist tg-liststyledot">
-													<li><strong>Excellence:</strong> We are committed to creativity and innovation; strive to produce the highest quality outcomes in all endeavours.</li>
-													<li><strong>Professionalism:</strong> Evidenced based training and service provision in accordance with the legislative framework and guided by ethical principles and related professional disciples.</li>
-													<li><strong>Integrity and Transparency:</strong> Through academic freedom, responsibility and ethical behaviour. </li>
-													<li><strong>Teamwork:</strong> Recognizes the inherent dignity of each member of the University community and treats everyone with respect. Our actions are guided by fairness and honesty. </li>
-													<li><strong>Learning:</strong> We engage in collaborative education that is career-oriented balancing theory and practice, emphasizing active learning, developing critical learning and fostering responsibility and the desire for long pursuit of knowledge. </li>
-
-												</ul>
+											<div class="tg-container" style ="margin-top: 35px;">
+												<h3>How to Apply</h3>
+												<p><strong>Follow these steps to apply for admission:</strong></p>
+												<ol>
+													<li>Download the application form from our official website or collect it from the Registrar’s office.</li>
+													<li>Fill out the form accurately with all required details.</li>
+													<li>Attach the following certified documents:</li>
+													<ul>
+														<li>Certified copy of your National ID or Passport</li>
+														<li>Certified copies of academic results (latest qualification)</li>
+														<li>Certified birth certificate</li>
+														<li>Recent passport-size photograph</li>
+														<li>Proof of application fee payment</li>
+													</ul>
+													<li>Submit your completed application in person or via email before the deadline.</li>
+													<li>Wait for confirmation of your application status.</li>
+												</ol>
 											</div>
 										</div>
 									</div>

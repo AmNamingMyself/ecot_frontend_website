@@ -43,31 +43,23 @@
 								<div class="tg-container">
 									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, explicabo molestiae sapiente voluptatem sed labore adipisci, corporis numquam, itaque nemo quod molestias officia architecto rerum aliquam iste placeat eum fugiat!</p>
 								</div>
-								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" id="tuitions">
+								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" id="tuitions" style = "margin-top: 15px;">
 									<!-- <div class="container"> -->
 
 									<!-- Faculty of Business -->
 									<div class="faculty">
-										<h3>Faculty of Business</h3>
-
+										<h3>Faculty of Business Administration </h3>
+										
 										<div class="department">
-											<h4>Department of Business Management</h4>
+											<h4>Departments</h4>
 											<ul>
-												<li><strong>Diploma in Business Management</strong> – E9,800 per year</li>
-												<li><strong>Diploma in Entrepreneurship</strong> – E9,500 per year</li>
-												<li><strong>Bachelor of Business Administration (BBA)</strong> – E14,000 per year</li>
-											</ul>
-										</div>
-
-										<div class="department">
-											<h4>Department of Human Resource & Office Management</h4>
-											<ul>
+												<li><strong>Diploma in Office Management & Technology</strong> – E9,800 per year</li>
 												<li><strong>Diploma in Human Resource Management</strong> – E9,500 per year</li>
-												<li><strong>Diploma in Office Management & Technology</strong> – E9,200 per year</li>
-												<li><strong>Bachelor of Human Resources Management</strong> – E13,800 per year</li>
+												<li><strong>Diploma in Hospitality & Tourism Management </strong> – E14,000 per year</li>
 											</ul>
 										</div>
-									</div>
+
+</div>
 
 									<!-- Faculty of Education -->
 									<div class="faculty">
@@ -76,9 +68,8 @@
 										<div class="department">
 											<h4>Department of Teacher Education</h4>
 											<ul>
-												<li><strong>Diploma in Primary Education</strong> – E9,200 per year</li>
-												<li><strong>Bachelor of Education in Secondary Education</strong> – E13,000 per year</li>
-												<li><strong>Bachelor of Education in Special Needs</strong> – E12,800 per year</li>
+												<li><strong>Secondary Teacher’s Diploma: Commercial</strong> – E9,200 per year</li>
+												<li><strong>Secondary Teacher’s Diploma: Information & Communication Technology</strong> – E13,000 per year</li>
 											</ul>
 										</div>
 									</div>
@@ -90,31 +81,25 @@
 										<div class="department">
 											<h4>Department of Engineering</h4>
 											<ul>
-												<li><strong>Diploma in Electrical Engineering</strong> – E11,500 per year</li>
-												<li><strong>Diploma in Mechanical Engineering</strong> – E12,000 per year</li>
-												<li><strong>Bachelor of Engineering in Civil Engineering</strong> – E18,500 per year</li>
+												<li><strong>National Diploma in Mechanical Engineering</strong> – E11,500 per year</li>
+												<li><strong>National Diploma in Electrical & Electronics Engineering</strong> – E12,000 per year</li>
+												<li><strong>National Diploma in Vehicle Body Repairs</strong> – E18,500 per year</li>
+												<li><strong>National Diploma in Automotive Engineering — Heavy</strong> – E18,500 per year</li>
+												<li><strong>National Diploma in Automotive Engineering — Light</strong> – E18,500 per year</li>
 											</ul>
-										</div>
-
-										<div class="department">
-											<h4>Department of Science</h4>
-											<ul>
-												<li><strong>Diploma in Applied Sciences</strong> – E10,500 per year</li>
-												<li><strong>Bachelor of Science in Environmental Science</strong> – E14,000 per year</li>
-											</ul>
-										</div>
+</div>
 									</div>
 
 									<!-- Faculty of Building & Civil -->
 									<div class="faculty">
-										<h3>Faculty of Building & Civil</h3>
+										<h3>Faculty of Building & Civil Engineering</h3>
 
 										<div class="department">
-											<h4>Department of Construction & Architecture</h4>
+											<h4>Departments</h4>
 											<ul>
-												<li><strong>Diploma in Architectural Technology</strong> – E11,000 per year</li>
-												<li><strong>Diploma in Construction Management</strong> – E10,800 per year</li>
-												<li><strong>Bachelor of Science in Construction Management</strong> – E17,000 per year</li>
+												<li><strong>Architectural Technology</strong> – E11,000 per year</li>
+												<li><strong>Diploma in Quantity Surveying</strong> – E10,800 per year</li>
+												<li><strong>Diploma in Building Studies</strong> – E17,000 per year</li>
 											</ul>
 										</div>
 									</div>
@@ -124,12 +109,10 @@
 										<h3>Faculty of ICT</h3>
 
 										<div class="department">
-											<h4>Department of Computer Science & IT</h4>
+											<h4>Department of Computer Science</h4>
 											<ul>
 												<li><strong>Diploma in Computer Science</strong> – E10,000 per year</li>
-												<li><strong>Diploma in Information Technology</strong> – E9,500 per year</li>
-												<li><strong>Bachelor of Science in Computer Science</strong> – E15,000 per year</li>
-												<li><strong>Bachelor of Science in Cybersecurity</strong> – E16,500 per year</li>
+										
 											</ul>
 										</div>
 									</div>

@@ -58,7 +58,7 @@ include("includes/menu-nav.php");
                 box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
 										onmouseover="this.style.transform='scale(1.05)'"
 										onmouseout="this.style.transform='scale(1)'">
-									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Jobe</h5>
+									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Siboniso Mtsetfwa</h5>
 									<p style="color: #666; font-size: 14px;">SRC President</p>
 								</div>
 								<!-- Leader 2 -->
@@ -68,7 +68,7 @@ include("includes/menu-nav.php");
                 box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
 										onmouseover="this.style.transform='scale(1.05)'"
 										onmouseout="this.style.transform='scale(1)'">
-									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Gabela</h5>
+									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Colani Ndlangamandla</h5>
 									<p style="color: #666; font-size: 14px;">SRC Vice President</p>
 								</div>
 								<!-- Leader 3 -->
@@ -78,8 +78,8 @@ include("includes/menu-nav.php");
                 box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
 										onmouseover="this.style.transform='scale(1.05)'"
 										onmouseout="this.style.transform='scale(1)'">
-									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Ludo</h5>
-									<p style="color: #666; font-size: 14px;">SRC Secretary</p>
+									<h5 style="margin-top: 15px; color:hsl(211, 100.00%, 50.00%); font-weight: regular;">Sifunukwazi Gumbi</h5>
+									<p style="color: #666; font-size: 14px;">SRC Treasurer</p>
 								</div>
 								<!-- Leader 4 -->
 								<div class="col-md-4 leader-card text-center" style="margin-bottom: 30px;">
@@ -88,8 +88,8 @@ include("includes/menu-nav.php");
                 box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
 										onmouseover="this.style.transform='scale(1.05)'"
 										onmouseout="this.style.transform='scale(1)'">
-									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Mgcini</h5>
-									<p style="color: #666; font-size: 14px;">SRC Treasurer</p>
+									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Ludo Gama</h5>
+									<p style="color: #666; font-size: 14px;">SRC Secretary Geberal</p>
 								</div>
 								<!-- Leader 5 -->
 								<div class="col-md-4 leader-card text-center" style="margin-bottom: 30px;">
@@ -98,23 +98,10 @@ include("includes/menu-nav.php");
                 box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
 										onmouseover="this.style.transform='scale(1.05)'"
 										onmouseout="this.style.transform='scale(1)'">
-									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Sukulohle</h5>
-									<p style="color: #666; font-size: 14px;">SRC Public Relations</p>
+									<h5 style="margin-top: 15px; color: #007bff; font-weight: regular;">Prosper Baxter</h5>
+									<p style="color: #666; font-size: 14px;">SRC Vice Secretary</p>
 								</div>
-								<!-- Leader 6 -->
-								<div class="col-md-4 leader-card text-center" style="margin-bottom: 30px;">
-									<img src="img/Artwork-20250215T071308Z-001/Artwork/srcP.jpg" alt="Leader 6"
-										style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; 
-                box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;"
-										onmouseover="this.style.transform='scale(1.05)'"
-										onmouseout="this.style.transform='scale(1)'">
-									<h5 style="margin-top: 15px; color: #007bff; font-weight: bregular;">Sizwe Dlamini</h5>
-									<p style="color: #666; font-size: 14px;">SRC Events Coordinator</p>
-								</div>
-							</div>
-						</div>
-
-
+				
 						<!-- News Section -->
 						<div class="tg-pagetitle">
 							<h2>Student Body News</h2>
