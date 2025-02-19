@@ -238,117 +238,115 @@ include("includes/menu-nav.php");
 					</div>
 				</div>
 			</div>
+		</div>
+		<div>
 
-
+			<div class="program-details">
+				<h3>DIPLOMA IN COMPUTER SCIENCE</h3>
+				<p class="course-code">Course code - DCS</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit doloribus ipsum amet velit eveniet ullam, laboriosam cum maxime ducimus quod minus asperiores iusto perspiciatis odit at placeat, voluptates ratione et.</p>
+				<br>
+				<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni quas, praesentium soluta ad consequuntur maxime quisquam neque incidunt iste beatae non. Cumque obcaecati repudiandae amet ipsa accusantium culpa tempora doloremque!</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN OFFICE MANAGEMENT AND TECHNOLOGY</h3>
+				<p class="course-code">Course code - DOT</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt suscipit, in reprehenderit, tempore iste labore, explicabo mollitia perferendis cumque aut deleniti placeat beatae sapiente alias odit? Nisi accusantium corporis ad?</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam repellendus similique, nihil dolorum molestiae minus, excepturi ab mollitia obcaecati sed unde perferendis libero? Accusamus, quaerat! Possimus magni officia iure. Provident.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN HUMAN RESOURCES MANAGEMENT</h3>
+				<p class="course-code">Course code - DHR</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN HOSPITALITY AND TOURISM MANAGEMENT</h3>
+				<p class="course-code">Course code - DHT</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN ARCHITECTURAL TECHNOLOGY</h3>
+				<p class="course-code">Course code - DAT</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN CIVIL ENGINEERING</h3>
+				<p class="course-code">Course code - DCE</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN QUANTITY SURVEYING</h3>
+				<p class="course-code">Course code - DQS</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN BUILDING STUDIES</h3>
+				<p class="course-code">Course code - DBS</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>SECONDARY TEACHER'S DIPLOMA: COMMERCIAL</h3>
+				<p class="course-code">Course code - TTC</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>SECONDARY TEACHER'S DIPLOMA: INFORMATION AND COMMUNICATION TECHNOLOGY</h3>
+				<p class="course-code">Course code - ITE</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — LIGHT</h3>
+				<p class="course-code">Course code - NDA</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — HEAVY</h3>
+				<p class="course-code">Course code - NDA</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>DIPLOMA IN VEHICLE BODY REPAIR</h3>
+				<p class="course-code">Course code - VBR</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>NATIONAL DIPLOMA: ELECTRICAL AND ELECTRONICS ENGINEERING</h3>
+				<p class="course-code">Course code - NDE</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
+			<div class="program-details">
+				<h3>NATIONAL DIPLOMA: MECHANICAL ENGINEERING</h3>
+				<p class="course-code">Course code - NDM</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
+			</div>
 		</div>
-
-
-		<div class="program-details">
-			<h3>DIPLOMA IN COMPUTER SCIENCE</h3>
-			<p class="course-code">Course code - DCS</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit doloribus ipsum amet velit eveniet ullam, laboriosam cum maxime ducimus quod minus asperiores iusto perspiciatis odit at placeat, voluptates ratione et.</p>
-			<br>
-			<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni quas, praesentium soluta ad consequuntur maxime quisquam neque incidunt iste beatae non. Cumque obcaecati repudiandae amet ipsa accusantium culpa tempora doloremque!</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN OFFICE MANAGEMENT AND TECHNOLOGY</h3>
-			<p class="course-code">Course code - DOT</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt suscipit, in reprehenderit, tempore iste labore, explicabo mollitia perferendis cumque aut deleniti placeat beatae sapiente alias odit? Nisi accusantium corporis ad?</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam repellendus similique, nihil dolorum molestiae minus, excepturi ab mollitia obcaecati sed unde perferendis libero? Accusamus, quaerat! Possimus magni officia iure. Provident.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN HUMAN RESOURCES MANAGEMENT</h3>
-			<p class="course-code">Course code - DHR</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN HOSPITALITY AND TOURISM MANAGEMENT</h3>
-			<p class="course-code">Course code - DHT</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN ARCHITECTURAL TECHNOLOGY</h3>
-			<p class="course-code">Course code - DAT</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN CIVIL ENGINEERING</h3>
-			<p class="course-code">Course code - DCE</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN QUANTITY SURVEYING</h3>
-			<p class="course-code">Course code - DQS</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN BUILDING STUDIES</h3>
-			<p class="course-code">Course code - DBS</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>SECONDARY TEACHER'S DIPLOMA: COMMERCIAL</h3>
-			<p class="course-code">Course code - TTC</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>SECONDARY TEACHER'S DIPLOMA: INFORMATION AND COMMUNICATION TECHNOLOGY</h3>
-			<p class="course-code">Course code - ITE</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — LIGHT</h3>
-			<p class="course-code">Course code - NDA</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — HEAVY</h3>
-			<p class="course-code">Course code - NDA</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>DIPLOMA IN VEHICLE BODY REPAIR</h3>
-			<p class="course-code">Course code - VBR</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>NATIONAL DIPLOMA: ELECTRICAL AND ELECTRONICS ENGINEERING</h3>
-			<p class="course-code">Course code - NDE</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-		<div class="program-details">
-			<h3>NATIONAL DIPLOMA: MECHANICAL ENGINEERING</h3>
-			<p class="course-code">Course code - NDM</p>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-			<br>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-		</div>
-	</div>
 	</div>
 	</div>
 
