@@ -102,13 +102,13 @@
 
 										</li>
 										<li class="menu-item-has-mega-menu">
-											<a href="javascript:void(0);">About</a>
+											<a href="about.php">About</a>
 											<div class="mega-menu">
 												<ul class="mega-menu-row">
 													<li class="mega-menu-col">
 														<!-- <a href="javascript:void(0);">About ECOT</a> -->
 														<ul>
-															<li><a href="about.php">About</a></li>
+															<!-- <li><a href="about.php">About</a></li> -->
 															<li><a href="history.php">History</a></li>
 															<li><a href="governance.php">Governance</a></li>
 														</ul>
