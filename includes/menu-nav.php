@@ -176,7 +176,7 @@
 												<a href="javascript:void(0);">Student Organization</a>
 												<ul class="sub-menu">
 													<li><a href="">Student Associations</a></li>
-													<li><a href="">Student Representative</a></li>
+													<li><a href="SRC.php">Student Representative</a></li>
 													<li><a href="">Student Clubs</a></li>
 													<li><a href="">Student Societies</a></li>
 												</ul>
