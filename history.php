@@ -48,29 +48,33 @@
 								</div>
 								<div class="tg-container">
 
-									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt laudantium illum facere neque rerum necessitatibus vero magnam aperiam minus voluptate nobis nesciunt culpa laborum fugiat, explicabo porro modi consectetur veritatis! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam distinctio illum soluta, sunt porro aut maiores odit fugiat necessitatibus inventore est. Doloremque quasi, odit reiciendis quae aliquam blanditiis amet reprehenderit!</p>
+									<p>Eswatini College of Technology was established as a Trade School in 1946 with two instructors offering carpentry and building and 24 male students. In the 1960’s the Trade School changed its name to Swaziland Industrial Training Institute with the provision of craft courses in Electrical, Welding, Fitting, Plumbing, etc. In 1974, the name of the institution was once again changed to the Swaziland College of Technology (SCOT). Technicians’ programs were introduced with the first female enrolment, with more emphasis on City and Guilds examination, Pitman, UNISWA (BAI) and AAT. In 2019 Swaziland College of Technology changed it’s name to Eswatini College of Technology (ECOT).
+										It was in 1988 when ECOT introduced the Diploma programs with the structure of faculties and department. Worth-mentioning is the fact that the first Diploma Graduation Ceremony for ECOT was held in 1991, and in 2013 the first Graduation Ceremony with BTech Degrees graduate was held at ECOT. </p>
+									<br>
 								</div>
 								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
 									<div id="tg-content" class="tg-content">
 
-
 										<div class="tg-aboutus tg-visionmission" style="margin-top: 15px;">
 
 											<h3>Our Vision</h3>
-											<p>By the year 2018 ECOT shall be a leading university of technology renowned for its excellence in quality and marketable products in the kingdom and beyond. </p>
+											<p>To be at the forefront of technological change and to provide excellence in training.</p>
+
 											<h3>Our Mission</h3>
-											<p>ECOT is a committed market leader in the advancement of technology, scientific, commercial education and training through research and development in collaboration with critical stakeholders regionally and internationally.</p>
+											<p>The mission of the college is to maintain its position as the principal institution of higher level technical and vocational education and training in Eswatini. It is dedicated to providing and facilitating high quality training and learning in technology and business studies in collaboration with the commercial, industrial and public sectors. The aim is to enhance the development and expansion of the economy for prosperity of the Eswatini within the region of Southern Africa.
+											</p>
 
-											<br />
-
-											<div class="tg-container">
-												<h3>VALUES AND ATTITUDE</h3>
+											<div class="tg-container" style="margin-bottom: 15px;">
+												<h3>Goals</h3>
 												<ul class="tg-ullist tg-liststyledot">
-													<li><strong>Excellence:</strong> We are committed to creativity and innovation; strive to produce the highest quality outcomes in all endeavours.</li>
-													<li><strong>Professionalism:</strong> Evidenced based training and service provision in accordance with the legislative framework and guided by ethical principles and related professional disciples.</li>
-													<li><strong>Integrity and Transparency:</strong> Through academic freedom, responsibility and ethical behaviour. </li>
-													<li><strong>Teamwork:</strong> Recognizes the inherent dignity of each member of the University community and treats everyone with respect. Our actions are guided by fairness and honesty. </li>
-													<li><strong>Learning:</strong> We engage in collaborative education that is career-oriented balancing theory and practice, emphasizing active learning, developing critical learning and fostering responsibility and the desire for long pursuit of knowledge. </li>
+													<li>To provide a wide range of full-time and part-time programs which meet individual career aspirations in the light of the current and future requirements of business and industry in the public and private sectors.
+													</li>
+													<li>To assist in the development of entrepreneurship and the creation of opportunities for self-employment.
+													</li>
+													<li>To link and liaise with other educational and training establishments including those in industry and abroad in order to utilize the country's training facilities efficiently and cost effectively.
+													</li>
+													<li>To achieve its aims in the most efficient and cost effective manner.
+													</li>
 
 												</ul>
 											</div>
@@ -84,7 +88,7 @@
 						<aside id="tg-sidebar" class="tg-sidebar">
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
-									<h3>Admission 2018-19</h3>
+									<h3>Admission 2025-26</h3>
 									<div class="tg-description">
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>

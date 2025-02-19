@@ -106,7 +106,7 @@
 											<div class="mega-menu">
 												<ul class="mega-menu-row">
 													<li class="mega-menu-col">
-														<a href="javascript:void(0);">About ECOT</a>
+														<!-- <a href="javascript:void(0);">About ECOT</a> -->
 														<ul>
 															<li><a href="about.php">About</a></li>
 															<li><a href="history.php">History</a></li>

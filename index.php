@@ -195,7 +195,7 @@
 												<article class="tg-themepost tg-eventpost">
 													<figure class="tg-featuredimg">
 														<a href="javascript:void(0);">
-															<img src="images/events/img-01.jpg" alt="image description">
+															<img src="img/Artwork-20250215T071308Z-001/Artwork/R (3).jpeg" alt="image description">
 														</a>
 													</figure>
 													<div class="tg-themepostcontent">
@@ -288,7 +288,7 @@
 														<li><a href="javascript:void(0);">Admissions Guidline For New Students</a></li>
 														<li><a href="javascript:void(0);">ECOT Library &amp; Research</a></li>
 														<li><a href="javascript:void(0);">Multimedia and Entertainment</a></li>
-														<li><a href="javascript:void(0);">Annual Graduation for all grads 2019</a></li>
+														<li><a href="javascript:void(0);">Annual Graduation Grads 20</a></li>
 														<li><a href="javascript:void(0);">Student Advisory June 27,2025</a></li>
 														<li><a href="javascript:void(0);">Offiial launch of the website 2025</a></li>
 														<li><a href="javascript:void(0);">Calendar of Events / Entertainment</a></li>
@@ -311,7 +311,7 @@
 									<div class="tg-widgetcontent">
 										<ul>
 											<li>
-												<a href="javascript:void(0);">Shhhh!!! Exams on progress please respect your collegues.</a>
+												<a href="javascript:void(0);">All Taiwan sponsered students, please see visit the Accounts Office at 1pm..</a>
 											</li>
 											<li>
 												<a href="javascript:void(0);">Accepted Applicants can come collect their acceptence letters</a>
@@ -324,9 +324,9 @@
 								</div>
 								
 								<div class="tg-widget tg-widgetsearchcourse">
-									<div class="tg-widgettitle">
+									<!-- <div class="tg-widgettitle">
 										<h3>Search Course</h3>
-									</div>
+									</div> -->
 									<div class="tg-widgetcontent">
 										<form class="tg-formtheme tg-formsearchcourse">
 											<fieldset>
@@ -374,7 +374,7 @@
 											<li>
 												<a href="javascript:void(0);">
 													<i class="fa fa-list-ul"></i>
-													<span>Merit List 2019</span>
+													<span>Merit List 2024</span>
 												</a>
 											</li>
 											<li>
@@ -386,7 +386,7 @@
 											<li>
 												<a href="javascript:void(0);">
 													<i class="fa fa-bookmark-o"></i>
-													<span>Examination Guide 2019</span>
+													<span>Examination Guide 2025</span>
 												</a>
 											</li>
 										</ul>
