@@ -149,11 +149,11 @@
 										<ul class="sub-menu">
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Academic Advising </a>
-												<ul class="sub-menu">
+												<!-- <ul class="sub-menu">
 													<li><a href="">Academic Excellence</a></li>
 													<li><a href="">Student Responsibilities</a></li>
 													<li><a href="">Considerations &amp; FAQ&acute;s</a></li>
-												</ul>
+												</ul> -->
 											</li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Academic Calendar</a>
@@ -162,7 +162,7 @@
 													<li><a href="">Full Calendar</a></li>
 													<li><a href="">News &amp; Media</a></li>
 												</ul>
-											</li>
+											<!-- </li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Career Centre</a>
 												<ul class="sub-menu">
@@ -172,33 +172,32 @@
 													<li><a href="">Alumni Help</a></li>
 
 												</ul>
-											</li>
+											</li> -->
 											<li class="menu-item-has-children">
-												<a href="javascript:void(0);">Campus Services</a>
+												<!-- <a href="javascript:void(0);">Campus Services</a> -->
 											</li>
 											<li class="menu-item-has-children">
 												<a href="javascript:void(0);">Student Organization</a>
 												<ul class="sub-menu">
-													<li><a href="">Student Associations</a></li>
-													<li><a href="">Student Representative</a></li>
-													<li><a href="">Student Clubs</a></li>
-													<li><a href="">Student Societies</a></li>
+													<!-- <li><a href="">Student Associations</a></li> -->
+													<li><a href="SRC.php">Student Representative</a></li>
+													<!-- <li><a href="">Student Clubs</a></li>
+													<li><a href="">Student Societies</a></li> -->
 												</ul>
 											</li>
 										</ul>
 									</li>
 									<li class="menu-item-has-children">
-										<a href="research.php">Research</a>
+										<a href="#">Research</a>
 										<ul class="sub-menu">
-											<li><a href="">Library</a></li>
+											<li><a href="research.php"  target="_blank">Library</a></li>
 											<li class="menu-item-has-children">
-												<a href="research.php" target="_blank"
-												>Research</a>
-												<ul class="sub-menu">
+												<a href="research.php" target="_blank">Research</a>
+												<!-- <ul class="sub-menu">
 													<li><a href="">Interlectual Property</a></li>
 													<li><a href="">Student&acute;s Resources</a></li>
 													<li><a href="">Assistive Technology</a></li>
-												</ul>
+												</ul> -->
 											</li>
 										</ul>
 									</li>

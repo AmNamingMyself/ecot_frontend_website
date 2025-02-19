@@ -284,13 +284,13 @@
 												</div>
 												<div class="tg-widgetcontent">
 													<ul>
-														<li><a href="javascript:void(0);">Download 2019- 2020 Prospectus</a></li>
+														<li><a href="javascript:void(0);">Download 2025-2026 Prospectus</a></li>
 														<li><a href="javascript:void(0);">Admissions Guidline For New Students</a></li>
 														<li><a href="javascript:void(0);">ECOT Library &amp; Research</a></li>
 														<li><a href="javascript:void(0);">Multimedia and Entertainment</a></li>
 														<li><a href="javascript:void(0);">Annual Graduation for all grads 2019</a></li>
-														<li><a href="javascript:void(0);">Student Advisory June 27,2019</a></li>
-														<li><a href="javascript:void(0);">Offiial launch of the website 2019</a></li>
+														<li><a href="javascript:void(0);">Student Advisory June 27,2025</a></li>
+														<li><a href="javascript:void(0);">Offiial launch of the website 2025</a></li>
 														<li><a href="javascript:void(0);">Calendar of Events / Entertainment</a></li>
 													</ul>
 												</div>
