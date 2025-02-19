@@ -202,8 +202,8 @@
 														<li><a href="">Full Calendar</a></li>
 														<li><a href="">News &amp; Media</a></li>
 													</ul>
-													<!-- </li>
-											<li class="menu-item-has-children">
+												</li>
+												<!-- <li class="menu-item-has-children">
 												<a href="javascript:void(0);">Career Centre</a>
 												<ul class="sub-menu">
 													<li><a href="">Job Search</a></li>
@@ -212,19 +212,19 @@
 													<li><a href="">Alumni Help</a></li>
 
 												</ul>
-											</li> -->
+											</li>  -->
+												<!-- <li class="menu-item-has-children">
+													 <a href="javascript:void(0);">Campus Services</a>
+												</li> -->
 												<li class="menu-item-has-children">
-													<!-- <a href="javascript:void(0);">Campus Services</a> -->
+													<a href="SRC.php">Student Representative</a>
+
 												</li>
-												<li class="menu-item-has-children">
-													<a href="javascript:void(0);">Student Organization</a>
-													<ul class="sub-menu">
-														<!-- <li><a href="">Student Associations</a></li> -->
-														<li><a href="SRC.php">Student Representative</a></li>
-														<!-- <li><a href="">Student Clubs</a></li>
+												<!-- <li><a href="">Student Associations</a></li> -->
+												<!-- <li><a href="SRC.php">Student Representative</a></li> -->
+												<!-- <li><a href="">Student Clubs</a></li>
 													<li><a href="">Student Societies</a></li> -->
-													</ul>
-												</li>
+
 											</ul>
 										</li>
 										<li class="menu-item-has-children">
