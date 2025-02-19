@@ -16,6 +16,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<ol class="tg-breadcrumb">
 						<li><a href="index.php">home</a></li>
+						<li><a href="about.php">about</a></li>
 						<li class="tg-active">History</li>
 					</ol>
 				</div>
