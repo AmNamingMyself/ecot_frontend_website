@@ -53,7 +53,7 @@
 											<img src="images/faculty/civil.jpeg" class="profile-img rounded-circle" alt="Person 1">
 											<div class="card-body">
 												<h5 class="card-title">Diploma in Civil Engineering</h5>
-												<a href="application/">Apply now</a>
+												<a href="/application">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
@@ -64,7 +64,7 @@
 											<img src="images/faculty/architect.jpeg" class="profile-img rounded-circle" alt="Person 2">
 											<div class="card-body">
 												<h5 class="card-title">Diploma in Architectural Technology</h5>
-												<a href="application/">Apply now</a>
+												<a href="/application">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>

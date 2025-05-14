@@ -53,7 +53,7 @@
 											<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
 											<div class="card-body">
 												<h5 class="card-title">Diploma in Automotive Engineering (Light)</h5>
-												<a href="application/">Apply now</a>
+												<a href="/application">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
@@ -64,7 +64,7 @@
 											<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
 											<div class="card-body">
 												<h5 class="card-title">Diploma in Automotive Engineering (Heavy)</h5>
-												<a href="application/">Apply now</a>
+												<a href="/application">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
@@ -75,7 +75,7 @@
 											<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
 											<div class="card-body">
 												<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
-												<a href="application/">Apply now</a>
+												<a href="/application">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
@@ -86,7 +86,7 @@
 											<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
 											<div class="card-body">
 												<h5 class="card-title"> Diploma in Mechanical Engineering</h5>
-												<a href="application/">Apply now</a>
+												<a href="/application">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>

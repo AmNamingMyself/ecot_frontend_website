@@ -81,7 +81,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -92,7 +92,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Secondary Teacher’s Diploma: Information and Communication Technology</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -146,7 +146,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/hr.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Human Resources Management</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -157,7 +157,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Office Management and Technology</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -168,7 +168,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 3">
 												<div class="card-body">
 													<p class="card-title" style="font-style:bold;">Diploma in Office Management and Technology</p>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -187,7 +187,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Automotive Engineering (Light)</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -198,7 +198,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Automotive Engineering (Heavy)</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -209,7 +209,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -220,7 +220,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title"> Diploma in Mechanical Engineering</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -239,7 +239,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/civil.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Civil Engineering</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -250,7 +250,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/architect.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Architectural Technology</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -269,7 +269,7 @@ include("includes/menu-nav.php");
 												<img src="images/faculty/ict.png" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Computer Science</h5>
-													<a href="application/">Apply now</a>
+													<a href="/application">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
