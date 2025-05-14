@@ -62,10 +62,10 @@ include("includes/menu-nav.php");
 								<h2>2025 - 26 Admissions</h2>
 							</div>
 							<div class="tg-container " style="padding-bottom: 15px;">
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, explicabo molestiae sapiente voluptatem sed labore adipisci, corporis numquam, itaque nemo quod molestias officia architecto rerum aliquam iste placeat eum fugiat!</p>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio iure dolore veniam laudantium eveniet omnis inventore, molestias facilis temporibus molestiae sed ullam numquam praesentium, ad facere. Ex eos eum pariatur?
-									Quisquam tempora excepturi cumque? Incidunt accusantium perferendis, corrupti pariatur quasi suscipit dolorum quas dicta minus ex ipsa enim. Dolores dolorum quia quod sequi cupiditate iste accusantium fuga ad ex aliquam!
-									Suscipit error ipsam, minus aliquid velit deleniti consequatur eaque perspiciatis, illo repellendus accusantium, molestias cum. Dignissimos molestiae repellendus error sequi quis praesentium, aut quasi quas laboriosam voluptatem illo, consequuntur reiciendis!</p>
+								<p>Welcome to our admissions page for the academic year 2025-26. We are excited to offer a variety of programs designed to equip you with the skills and knowledge necessary for your future career.</p>
+								</p>
+								<p>"Welcome to our admissions page! We are committed to offering you an outstanding academic experience. Whether you're just beginning your journey or continuing your education, we provide quality programs led by experienced faculty, designed to prepare you for success. Our application process is straightforward, 
+									and we are here to assist you every step of the way. Explore our programs, review the requirements, and take the first step toward your future with us!"</p>
 							</div>
 							<div class="" id="tuitions">
 								<!-- <div class="container"> -->
