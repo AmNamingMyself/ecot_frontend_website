@@ -32,7 +32,7 @@
 		<div class="container">
 			<div class="row">
 				<div id="tg-twocolumns" class="tg-twocolumns">
-					<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 pull-right">
+					<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 pull-left">
 						<div id="tg-content" class="tg-content">
 							<div class="tg-addmission">
 								<div id="tg-addmissionslider" class="tg-addmissionslider owl-carousel tg-btnround">
@@ -44,12 +44,12 @@
 								<div class="tg-pagetitle">
 									<h2>Eswatini College Of Technology</h2>
 								</div>
-								
+
 								<div class="tg-container">
 
 									<p>If you are contemplating on educational options or a career or vocation, you are invited to consider what the Eswatini College of Technology offers. This you can do either by reading this prospectus or enquiring about the college programmes from the office of the Registrar. I have no doubt that either of the two alternatives will provide you with a clear spectrum of what the Eswatini College of Technology can do for you.</p>
 									<p>The college currently offers Diploma programmes under the following faculties: Business Administration, Building &amp; Civil Engineering, Education, Engineering &amp; Science, and Information and Communication Technology. </p> <!-- B Tech programmes have been introduced in the Faculty of Bus and Admin and also Faculty of Information and Communication Technology. -->
-								<br><br>
+									<br><br>
 								</div>
 								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
 									<div id="tg-content" class="tg-content">
@@ -81,7 +81,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 pull-left">
+					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 pull-right">
 						<aside id="tg-sidebar" class="tg-sidebar">
 							<div class="tg-widget tg-widgetadmissionform">
 								<div class="tg-widgetcontent">
@@ -98,6 +98,16 @@
 							<div class="tg-widget tg-widgetcampuses">
 								<div class="tg-widgettitle">
 									<h3>Find Us</h3>
+								</div>
+								<div class="tg-widgetcontent">
+									<div class="tg-mapbox">
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1839.9306933827422!2d31.121350293776615!3d-26.310816503482254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee8cfa88d09544b%3A0x1122bdb1e3c248ef!2sEswatini%20College%20Of%20Technology!5e1!3m2!1sen!2s!4v1738920779631!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+									</div>
+								</div>
+							</div>
+							<div class="tg-widget tg-widgetcampuses">
+								<div class="tg-widgettitle">
+									<h3>Contact Us</h3>
 								</div>
 								<div class="tg-widgetcontent">
 									<div class="tg-campuses">

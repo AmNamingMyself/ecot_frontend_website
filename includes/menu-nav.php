@@ -79,8 +79,8 @@
 								</a></strong>
 							<div class="tg-noticeboard hidden-xs">
 								<div class="tg-textbox">
-									<span>Admission Opened!</span>
-									<span>Last Date For Admission 30/03/2025</span>
+									<span style="color:red">Admission closed!</span>
+									<!-- <span>Last Date For Admission 30/03/2025</span> -->
 								</div>
 								<figure><img src="images/img-01.jpg" alt="image description"></figure>
 							</div>
@@ -101,38 +101,64 @@
 											<a href="index.php"><i class="fa fa-home"></i></a>
 
 										</li>
-										<li class="menu-item-has-mega-menu">
+										<li class="menu-item-has-children"><span class="tg-dropdowarrow"><i class="fa  fa-angle-right"></i></span>
 											<a href="about.php">About</a>
-											<div class="mega-menu">
+											<ul class="sub-menu">
+												<li><a href="history.php">History</a></li>
+												<li><a href="governance.php">Principal Officers</a></li>
+											</ul>
+											<!-- <div class="mega-menu">
 												<ul class="mega-menu-row">
 													<li class="mega-menu-col">
-														<!-- <a href="javascript:void(0);">About ECOT</a> -->
+														<a href="javascript:void(0);">About ECOT</a>
 														<ul>
-															<!-- <li><a href="about.php">About</a></li> -->
+															<li><a href="about.php">About</a></li>
 															<li><a href="history.php">History</a></li>
 															<li><a href="governance.php">Principal Officers</a></li>
 														</ul>
 													</li>
-													<!-- <li class="mega-menu-col">
+													<li class="mega-menu-col">
 													<a href="javascript:void(0);">Media &amp; News</a>
 													<ul>
 														<li><a href="">Media Queries</a></li>
 														<li><a href="">Events Calendar</a></li>
 														<li><a href="">FAQ&acute;s</a></li>
 													</ul>
-												</li> -->
+												</li>
 												</ul>
-
-											</div>
+											</div> -->
 										</li>
 										<li class="menu-item-has-children"><span class="tg-dropdowarrow"><i class="fa  fa-angle-right"></i></span>
 											<a href="academics.php">Academics</a>
 											<ul class="sub-menu">
-												<li><a href="education.php">Education</a></li>
-												<li><a href="business.php">Business</a></li>
+
+												<!-- 
+											ACADEMICS ▼
+											├── Academic Programs
+											│   ├── Diploma Programs
+											│   ├── Advanced Entry / Skipping Year
+											│   └── Program Requirements
+											├── Certificate Courses
+											│   ├── Madrin Certificate
+											│   └── Other Short Courses
+											├── Grade Testing
+											│   ├── Overview & Purpose
+											│   ├── Schedule & Registration
+											│   └── Results
+											├── Faculties & Departments
+											├── Academic Calendar
+											-->
+												<li><a href="programs.php">Academic Programs</a></li>
+												<li><a href="specialCertificates.php">Special Certifications</a></li>
+												<li><a href="gradeTesting.php">Grade Testing</a></li>
+												<li><a href="facultiesAndDepartments.php">Faculties & Departments</a></li>
+												<li><a href="calendar.php">Faculties & Departments</a></li>
+												<!-- 
+												<li><a href="ict.php">ICT</a></li>
 												<li><a href="engineeringScience.php">Engineering and Science</a></li>
 												<li><a href="buildingCivil.php">Building and Civil Engineering</a></li>
-												<li><a href="ict.php">Information Communication Technology</a></li>
+												<li><a href="business.php">Business</a></li>
+												<li><a href="education.php">Education</a></li> -->
 											</ul>
 										</li>
 
@@ -143,7 +169,6 @@
 											<a href="admissions.php">Admission</a>
 											<ul class="sub-menu">
 												<li><a href="apply.php">Apply</a></li>
-												<li><a href="programs.php">Programs</a></li>
 												<li><a href="tuition.php">Tuitions</a></li>
 												<li><a href="faqs.php">FAQ&acute;s</a></li>
 												<!-- <li class="menu-item-has-children">
