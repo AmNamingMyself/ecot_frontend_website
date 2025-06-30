@@ -16,7 +16,8 @@ include("includes/menu-nav.php");
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<ol class="tg-breadcrumb">
 					<li><a href="index.php">home</a></li>
-					<li class="tg-active">academics</li>
+					<li><a href="academics.php">academics</a></li>
+					<li class="tg-active">faculties</li>
 				</ol>
 			</div>
 		</div>
@@ -30,99 +31,94 @@ include("includes/menu-nav.php");
 			<div id="tg-twocolumns" class="tg-twocolumns" style="margin-top: 10px;">
 				<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 pull-left">
 					<div class="tg-pagetitle">
-						<h2>Academics</h2>
+						<h2>Faculties</h2>
 					</div>
 					<div class="tg-container">
 						<p>Discover a range of diploma and certificate programs designed to equip students with practical and academic skills. We also provide grade testing for select programs.</p>
 					</div>
 
-
-					<div class="tg-events" style="margin: 25px 0;">
+					<div class="tg-events" style="margin: 25px 0 25px;">
 						<div class="tg-borderheading">
 							<h2>Faculties</h2>
 						</div>
-						<ul style="list-style: none; padding: 0; margin: 0;">
-							<li><a href="ict.php">Information & Communication Technology (ICT)</a></li>
-							<li><a href="engineeringScience.php">Engineering and Science</a></li>
-							<li><a href="buildingCivil.php">Building and Civil Engineering</a></li>
-							<li><a href="business.php">Business</a></li>
-							<li><a href="education.php">Education</a></li>
-						</ul>
-					</div>
-
-					<div class="tg-events" style="margin: 25px 0 25px;">
-						<div class="tg-borderheading">
-							<h2>What We Offer Academically</h2>
-						</div>
 						<div class="row" style="display: flex; flex-flow:wrap;">
+							<!-- ICT -->
 							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
-										<a href="programs.php">
-											<img src="images/events/img-02.jpg" alt="image description">
+										<a href="ict.php">
+											<img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Information & Communication Technology">
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
-
 										<div class="tg-themeposttitle">
-											<h3><a href="programs.php">Undergraduate Programs</a></h3>
-										</div>
-										<div class="tg-description">
-											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+											<h3><a href="ict.php">Information & Communication Technology (ICT)</a></h3>
 										</div>
 									</div>
 								</article>
 							</div>
+
+							<!-- Engineering and Science -->
 							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
-										<a href="javascript:void(0);">
-											<img src="images/events/img-02.jpg" alt="image description">
+										<a href="engineeringScience.php">
+											<!-- <img src="https://unsplash.com/photos/young-african-researcher-with-microscope-pressing-key-of-computer-keypad-during-work-Xb94Ydlue2I" alt="Engineering and Science"> -->
+											<img src="images/thisisengineering-k9a7H43zhP4-unsplash.jpg" alt="Engineering and Science">
+
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
-
 										<div class="tg-themeposttitle">
-											<h3><a href="javascript:void(0);">Certificate Programs (e.g. Madrin)</a></h3>
-										</div>
-										<div class="tg-description">
-											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+											<h3><a href="engineeringScience.php">Engineering and Science</a></h3>
 										</div>
 									</div>
 								</article>
 							</div>
+
+							<!-- Building and Civil Engineering -->
 							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
-										<a href="javascript:void(0);">
-											<img src="images/events/img-02.jpg" alt="image description">
+										<a href="buildingCivil.php">
+											<img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e" alt="Building and Civil Engineering">
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
-
 										<div class="tg-themeposttitle">
-											<h3><a href="javascript:void(0);">Part-Time</a></h3>
-										</div>
-										<div class="tg-description">
-											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+											<h3><a href="buildingCivil.php">Building and Civil Engineering</a></h3>
 										</div>
 									</div>
 								</article>
 							</div>
+
+							<!-- Business -->
 							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
-										<a href="javascript:void(0);">
-											<img src="images/events/img-02.jpg" alt="image description">
+										<a href="business.php">
+											<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f" alt="Business Faculty">
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
-
 										<div class="tg-themeposttitle">
-											<h3><a href="javascript:void(0);">Grade Testing</a></h3>
+											<h3><a href="business.php">Business</a></h3>
 										</div>
-										<div class="tg-description">
-											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+									</div>
+								</article>
+							</div>
+
+							<!-- Education -->
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="education.php">
+											<img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f" alt="Faculty of Education">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+										<div class="tg-themeposttitle">
+											<h3><a href="education.php">Education</a></h3>
 										</div>
 									</div>
 								</article>

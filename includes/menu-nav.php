@@ -148,11 +148,10 @@
 											├── Faculties & Departments
 											├── Academic Calendar
 											-->
+												<li><a href="faculties.php">Faculties & Departments</a></li>
 												<li><a href="programs.php">Academic Programs</a></li>
-												<li><a href="specialCertificates.php">Special Certifications</a></li>
-												<li><a href="gradeTesting.php">Grade Testing</a></li>
-												<li><a href="facultiesAndDepartments.php">Faculties & Departments</a></li>
-												<li><a href="calendar.php">Faculties & Departments</a></li>
+												<li><a href="partTime.php">Part Time</a></li>
+												<li><a href="certificates.php">Special Certifications</a></li>
 												<!-- 
 												<li><a href="ict.php">ICT</a></li>
 												<li><a href="engineeringScience.php">Engineering and Science</a></li>

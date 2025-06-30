@@ -10,7 +10,7 @@ include("includes/menu-nav.php");
 				<ol class="tg-breadcrumb">
 					<li><a href="index.php">home</a></li>
 					<li><a href="academics.php">academics</a></li>
-					<li class="tg-active">programs</li>
+					<li class="tg-active">Part-Time</li>
 				</ol>
 			</div>
 		</div>
@@ -33,7 +33,7 @@ include("includes/menu-nav.php");
 						<div class="tg-addmission">
 
 							<div class="tg-pagetitle">
-								<h2>Applicable Programs</h2>
+								<h2>Part-Time Programs</h2>
 							</div>
 							<div class="tg-container " style="padding-bottom: 15px;">
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, explicabo molestiae sapiente voluptatem sed labore adipisci, corporis numquam, itaque nemo quod molestias officia architecto rerum aliquam iste placeat eum fugiat!</p>
@@ -48,17 +48,20 @@ include("includes/menu-nav.php");
 
 										<div class="program">
 											<div class="inline">
-												<h4>Diploma in Computer Science</h4>
+												<h4>Diploma in Information Technology</h4>
 												<i class="fa fa-chevron-down toggle-btn" aria-hidden="true"></i>
 											</div>
 											<div class="program-details" style="display: none;">
-												<p><strong>Entrance Requirements:</strong> At least 6 passes at IGCSE/SGCSE/HIGCSE/O’LEVEL/S.A. SENIOR CERTIFICATE including four credits at C or better in Mathematics, Physical Science/Physics/Chemistry and any other two subjects plus a pass at E or better in English.</p>
+												<p><strong>Entrance Requirements:</strong> At least 6 passes at IGCSE/SGCSE/HIGCSE/O’LEVEL/S.A.
+													SENIOR CERTIFICATE including four credits at C or better
+													in Mathematics, Physical Science/Physics/Chemistry and any
+													other two subjects plus a pass at D or better in English.</p>
 											</div>
 										</div>
 									</div>
 
 									<!-- Faculty of Engineering and Science -->
-									<div class="faculty">
+									<!-- <div class="faculty">
 										<h3>Faculty of Engineering and Science</h3>
 
 										<div class="program">
@@ -100,10 +103,10 @@ include("includes/menu-nav.php");
 												<p><strong>Entrance Requirements:</strong> At least 6 passes including four credits at C or better in Mathematics, Physical Science/Physics/Chemistry and any other two subjects; plus a pass at E in English or better.</p>
 											</div>
 										</div>
-									</div>
+									</div> -->
 
 									<!-- Faculty of Building and Civil Engineering -->
-									<div class="faculty">
+									<!-- <div class="faculty">
 										<h3>Faculty of Building and Civil Engineering</h3>
 
 										<div class="program">
@@ -125,7 +128,7 @@ include("includes/menu-nav.php");
 												<p><strong>Entrance Requirements:</strong> At least 6 passes including four credits in Mathematics, Physical Science/Physics and any other two subjects; plus a pass in English at E or better.</p>
 											</div>
 										</div>
-									</div>
+									</div> -->
 
 									<!-- Faculty of Business -->
 									<div class="faculty">
@@ -133,33 +136,17 @@ include("includes/menu-nav.php");
 
 										<div class="program">
 											<div class="inline">
-												<h4>Diploma in Hospitality and Tourism Management</h4>
-												<i class="fa fa-chevron-down toggle-btn" aria-hidden="true"></i>
-											</div>
-											<div class="program-details" style="display: none;">
-												<p><strong>Entrance Requirements:</strong> At least 6 passes including four credits at C or better in Food Nutrition/Tourism, Accounting/Mathematics, and any other two subjects; plus a pass at E or better in English Language.</p>
-											</div>
-										</div>
-
-										<div class="program">
-											<div class="inline">
 												<h4>Diploma in Human Resources Management</h4>
 												<i class="fa fa-chevron-down toggle-btn" aria-hidden="true"></i>
 											</div>
 											<div class="program-details" style="display: none;">
-												<p><strong>Entrance Requirements:</strong> At least 6 passes including four credits at C or better in English Language, SiSwati or any other Language, Mathematics or Accounting and any other two subjects.</p>
+												<p><strong>Entrance Requirements:</strong> At least 6 passes at IGCSE/SGCSE/HIGCSE/O’LEVEL/S.A.
+													SENIOR CERTIFICATE including four credits at C or better
+													in Mathematics, Physical Science/Physics/Chemistry and any
+													other two subjects plus a pass at D or better in English.</p>
 											</div>
 										</div>
 
-										<div class="program">
-											<div class="inline">
-												<h4>Diploma in Office Management and Technology</h4>
-												<i class="fa fa-chevron-down toggle-btn" aria-hidden="true"></i>
-											</div>
-											<div class="program-details" style="display: none;">
-												<p><strong>Entrance Requirements:</strong> At least 6 passes including four credits at C or better in Mathematics or Accounting, Economics/Business Studies/Commerce and any other two subjects; plus a pass at E or better in English Language.</p>
-											</div>
-										</div>
 									</div>
 
 									<!-- Faculty of Education -->
@@ -168,26 +155,34 @@ include("includes/menu-nav.php");
 
 										<div class="program">
 											<div class="inline">
-												<h4>Secondary Teacher’s Diploma: Commercial</h4>
+												<h4>Vocational Instructor’s Diploma</h4>
 												<i class="fa fa-chevron-down toggle-btn" aria-hidden="true"></i>
 											</div>
 											<div class="program-details" style="display: none;">
-												<p><strong>Entrance Requirements:</strong> 6 passes including four credits, two of which should be in Accounting and Business Studies or Economics/Commerce at C or better, plus a pass at E or better in English Language and Mathematics.</p>
-											</div>
-										</div>
-
-										<div class="program">
-											<div class="inline">
-												<h4>Secondary Teacher’s Diploma: Information and Communication Technology</h4>
-												<i class="fa fa-chevron-down toggle-btn" aria-hidden="true"></i>
-											</div>
-											<div class="program-details" style="display: none;">
-												<p><strong>Entrance Requirements:</strong> At least 6 passes including four credits in Mathematics/Additional Mathematics, Physical Science or Information and Communication Technology/Computer Studies or equivalent, and any other credit; plus a pass at E or better in English.</p>
+												<strong>Entrance Requirements:</strong>
+												<ul class="req-ul">
+													<li>Possess a Diploma (in area of specialization) from a
+														recognised Institution plus four passes at D or better at
+														SGCSE/EGCSE/O’level or its equivalent.
+													</li>
+													<li> Possess a Certificate (in area of specialization) from a
+														recognised Institution plus four passes at D or better at
+														SGCSE/EGCSE/O’level or its equivalent and have a
+														minimum of two years of relevant industry experience.</li>
+													<li>Possess a Certificate (in area of specialization) from a
+														recognised Institution plus four passes at D or better at
+														SGCSE/EGCSE/O’level or equivalent and have a minimum
+														of two years of teaching experience Additional requirement:
+														All students enrolled in this programme are required to
+														complete Teaching Practice for a period of seven weeks in
+														each of the two academic years.
+														As such, approval from employers prior to enrolment is
+														strongly recommended to facilitate participation in this
+														component.</li>
+												</ul>
 											</div>
 										</div>
 									</div>
-
-
 								</div>
 
 							</div>
@@ -200,11 +195,11 @@ include("includes/menu-nav.php");
 							<div class="tg-widgetcontent">
 								<h3>Admission 2025-26</h3>
 								<div class="tg-description">
-									<p>To all prospective students, &quot;The early bird catches the fatest worm&quot; secure your place now</p>
+									<p>To all prospective students, &quot;The early bird catches the fattest worm.&quot; Apply for part-time diploma.</p>
 								</div>
-								<a class="tg-btn tg-btnicon" href="/application">
+								<a class="tg-btn tg-btnicon" href="https://drive.google.com/file/d/1yQWyVISr9_WDTDkzxoIzTUuLVVoscd2k/view?fbclid=IwY2xjawLPb6FleHRuA2FlbQIxMABicmlkETFGY2JjWmNIdUp5T254eWVkAR4eIj6Fvr-Rb4xzshFDdHhw671DoDLOaQ80_L496gT_qH5OmkEf1EP41ANA-g_aem_jf5SztiheYNYt718Toj58A" target="_blank">
 									<i class="fa fa-edit"></i>
-									<span>Apply Now</span>
+									<span>Download Application</span>
 								</a>
 							</div>
 						</div>
@@ -214,12 +209,8 @@ include("includes/menu-nav.php");
 								<div class="tg-description">
 									<p>Download our prospectus and get all the information you need to know about our courses
 								</div>
-								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
-									<i class="fa fa-file-pdf-o"></i>
-									<span>Download Tuition</span>
-								</a>
 								<br><br>
-								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
+								<a class="tg-btn tg-btnicon" href="https://drive.google.com/file/d/1vs0dRs-RJQR9fDvrA-wnDZ034NHySg3g/view?fbclid=IwY2xjawLPcJ9leHRuA2FlbQIxMABicmlkETFGY2JjWmNIdUp5T254eWVkAR4cojeBhahB7N4ETaIrxTEWOBbUaD9_5zw9mmQklDZcdwKJ1Ir9xtZ10tgBkA_aem_4VAhnsnWG4a3Yce8XqzMxA" target="_blank">
 									<i class="fa fa-file-pdf-o"></i>
 									<span>Download Prospects</span>
 								</a>
@@ -233,32 +224,23 @@ include("includes/menu-nav.php");
 </main>
 
 <style>
-	.contain-aside {
+	.req-ul,
+	.req-ul>li {
 		position: relative;
-		overflow: visible !important;
+		padding-left: 1.2em;
+		/* Adjust as needed */
+		text-indent: -1.2em;
+		/* Same as padding-left to align text with bullet */
+		line-height: 1.6;
 	}
 
-	.contain-aside,
-	#tg-twocolumns,
-	.tg-main,
-	.container,
-	.row {
-		overflow: visible !important;
+	.req-ul {
+		padding-left: 1.5em;
 	}
 
-	.lock-aside {
-		position: sticky;
-		top: 80px;
-		z-index: 999;
+	.req-ul>li {
+		margin-bottom: 1em;
 	}
-
-	.lock-aside {
-		background: #f9f9f9;
-		padding: 20px;
-		border-radius: 8px;
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-	}
-
 
 	.h3-programs {
 		padding-top: 30px;
