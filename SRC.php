@@ -128,7 +128,7 @@ include("includes/menu-nav.php");
                 </div>
                 <!-- Sidebar -->
                 <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 pull-right">
-                    <aside id="tg-sidebar" class="tg-sidebar">
+                    <!-- <aside id="tg-sidebar" class="tg-sidebar"> -->
                         <div class="tg-widget tg-widgetadmissionform">
                             <div class="tg-widgetcontent">
                                 <h3>Admission 2025-26</h3>

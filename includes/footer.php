@@ -1,163 +1,120 @@
 <!--************************************
-				Main End
-		*************************************-->
-		<!--************************************
-				Footer Start
-		*************************************-->
-		<footer id="tg-footer" class="tg-footer tg-haslayout">
-			<div class="tg-signupbox">
-				<div class="tg-signuptextbox">
-					<h3>Free Signup!</h3>
-					<div class="tg-description"><p>Subscribe to our Newsletter &amp; Get Latest News &amp; Updates.</p></div>
-				</div>
-				<form class="tg-formtheme tg-formsignupfree">
-					<fieldset>
-						<div class="form-group"><input type="text" name="emailid" class="form-control" placeholder="Enter Email "></div>
-						<div class="form-group"><button type="submit" class="tg-btn">Signup Now</button></div>
-					</fieldset>
-				</form>
+        Footer Start
+*************************************-->
+<footer id="tg-footer" class="tg-footer tg-haslayout">
+	<!-- Newsletter Signup -->
+	<div class="tg-signupbox">
+		<div class="tg-signuptextbox">
+			<h3>Subscribe to our Newsletter</h3>
+			<div class="tg-description">
+				<p>Stay up to date with news, events, and opportunities.</p>
 			</div>
-			<div class="tg-footermiddlebar">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-							<div class="tg-widget tg-widgetcompanyinfo">
-								<div class="tg-widgetcontent">
-									<strong class="tg-logo"><a href=""><img src="images/logo1.png" alt="image description"></a></strong>
-									<div class="tg-description">
-										<p></p>
-									</div>
-									<ul class="tg-infolist">
-										<li>
-											<i class="icon-location"></i>
-											<address>P O BOX 69, Mbabane H100. Somhlolo Road</address>
-										</li>
-										<li>
-											<i class="icon-phone-handset"></i>
-											<span>(00268)2404 2681/2/3</span>
-										</li>
-										<li>
-											<i class="icon-printer"></i>
-											<span>(00268)2404 2681/2/3</span>
-										</li>
-										<li>
-											<a href="mailto:query@domain.com">
-												<i class="icon-envelope"></i>
-												<span>office@ecot.ac.sz</span>
-											</a>
-										</li>
-									</ul>
-									<ul class="tg-socialicons">
-										<li class="tg-facebook"><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-										<li class="tg-twitter"><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-										<li class="tg-linkedin"><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-										<li class="tg-googleplus"><a href="javascript:void(0);"><i class="fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						
-						<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-							<div class="tg-widget tg-widgetcoursecategories">
-								<div class="tg-widgettitle">
-									<h3>Student &amp; Staff</h3>
-								</div>
-								<div class="tg-widgetcontent">
-									<ul>
-										<li><a href="javascript:void(0);">Student Portal</a></li>
-										<li><a href="javascript:void(0);">Student Webmail</a></li>
-										<li><a href="javascript:void(0);">Staff Portal</a></li>
-										<li><a href="javascript:void(0);">Staff Webmail</a></li>
-										<li><a href="academics.php">Academics</a></li>
-										<li><a href="javascript:void(0);">Calendar</a></li>
-										<li><a href="javascript:void(0);">Publications</a></li>
-										<li><a href="javascript:void(0);">News and Media</a></li>
-										<li><a href="javascript:void(0);">Vacancies</a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-							<div class="tg-widget tg-widgetcoursecategories">
-								<div class="tg-widgettitle">
-									<h3>Quick links</h3>
-								</div>
-								<div class="tg-widgetcontent">
-									<ul>
-										<li><a href="javascript:void(0);">Accessibility</a></li>
-										<li><a href="javascript:void(0);">Free Information</a></li>
-										<li><a href="javascript:void(0);">Legal information</a></li>
-										<li><a href="javascript:void(0);">Terms conditions</a></li>
-										<li><a href="javascript:void(0);">Copyrights</a></li>
-										<li><a href="academics.php">Faculties</a></li>
-										<li><a href="javascript:void(0);">Academics</a></li>
-										<li><a href="javascript:void(0);">Student Life</a></li>
-								</div>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-							<div class="tg-widget tg-widgetcoursecategories">
-								<div class="tg-widgettitle">
-									<h3>Admissions</h3>
-								</div>
-								<div class="tg-widgetcontent">
-									<ul>
-										<li><a href="javascript:void(0);">Undergraduate Admissions</a></li>
-										<li><a href="javascript:void(0);">Graduate Admissions</a></li>
-										<li><a href="admissions.php">Admission information</a></li>
-										
-										<li><a href="staff_portal">Registrar&acute;s Portal</a></li>
-										
-										<li><a href="javascript:void(0);">Admission Calendar</a></li>
-										<li><a href="javascript:void(0);">Requirements</a></li>
-										<li><a href="javascript:void(0);">Fees and Tuition</a></li>
-										<li><a href="javascript:void(0);">College Calendar</a></li>
-								</div>
-							</div>
-						</div>
-					</div>
+		</div>
+		<form class="tg-formtheme tg-formsignupfree">
+			<fieldset>
+				<div class="form-group">
+					<input type="email" name="emailid" class="form-control" placeholder="Enter your email" required>
 				</div>
-			</div>
-			<div class="tg-footerbar">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-							<span class="tg-copyright">Copyright &copy; 2019 All Rights Reserved</span>
-							<nav class="tg-addnav">
-								<ul>
-									<li><a href="javascript:void(0);">Privacy Policy</a></li>
-									<li><a href="javascript:void(0);">Term and Conditions</a></li>
-									<li><a href="javascript:void(0);">Contact</a></li>
-								</ul>
-							</nav>
-						</div>
-					</div>
+				<div class="form-group">
+					<button type="submit" class="tg-btn">Subscribe</button>
 				</div>
-			</div>
-		</footer>
-		<!--************************************
-				Footer End
-		*************************************-->
+			</fieldset>
+		</form>
 	</div>
-	<!--************************************
-			Wrapper End
-	*************************************-->
-	<script src="js/vendor/jquery-library.js"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>
-	<script src="js/mapclustering/data.json"></script>
-	 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC78ZtPJMXL2YNC7kkuVGej0hbuJZcqPjQ&callback=initMap"
-  type="text/javascript"></script>
-	<script src="js/mapclustering/markerclusterer.min.js"></script>
-	<script src="js/mapclustering/infobox.js"></script>
-	<script src="js/mapclustering/map.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/isotope.pkgd.js"></script>
-	<script src="js/prettyPhoto.js"></script>
-	<script src="js/countdown.js"></script>
-	<script src="js/collapse.js"></script>
-	<script src="js/moment.js"></script>
-	<script src="js/gmap3.js"></script>
-	<script src="js/main.js"></script>
-</body>
 
-</html>
+	<!--************************************
+        Footer Middle Bar
+*************************************-->
+	<div class="tg-footermiddlebar">
+		<div class="container">
+			<div class="row d-flex align-items-start">
+				<!-- Brand Left -->
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<div class="tg-widget">
+						<strong class="tg-logo mb-3 d-block">
+							<a href="#"><img src="img/Artwork-20250215T071308Z-001/Artwork/ECOT Logo Final.png" 
+							alt="College Logo" style="max-width: 110px;"></a>
+						</strong>
+						<!-- <div class="tg-description mb-3">
+							<p>Your trusted institution for quality education and personal growth.</p>
+						</div> -->
+					</div>
+				</div>
+
+				<!-- Quick Links -->
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<div class="tg-widget tg-widgetcoursecategories">
+						<div class="tg-widgettitle">
+							<h3>Quick Links</h3>
+						</div>
+						<div class="tg-widgetcontent">
+							<ul class="list-unstyled">
+								<li><a href="academics.php">Faculties</a></li>
+								<li><a href="academics.php">Academics</a></li>
+								<li><a href="SRC.php">Student Life</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Admissions -->
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<div class="tg-widget tg-widgetcoursecategories">
+						<div class="tg-widgettitle">
+							<h3>Admissions</h3>
+						</div>
+						<div class="tg-widgetcontent">
+							<ul class="list-unstyled">
+								<li><a href="#">Undergraduate Admissions</a></li>
+								<li><a href="#">Graduate Admissions</a></li>
+								<li><a href="admissions.php">Admission Information</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<!-- Contact & Social Right -->
+				<div class="col-xs-12 col-sm-6 col-md-3 d-flex flex-column align-items-md-end text-md-right mt-4 mt-md-0">
+					<div class="tg-widget tg-widgetcompanyinfo">
+						<div class="tg-widgetcontent">
+							<ul class="tg-infolist list-unstyled mb-3">
+								<li><i class="icon-location"></i> P O BOX 69, Mbabane H100, Somhlolo Road</li>
+								<li><i class="icon-phone-handset"></i> (00268) 2404 2681/2/3</li>
+								<li><i class="icon-printer"></i> (00268) 2404 2681/2/3</li>
+								<li><a href="mailto:office@ecot.ac.sz"><i class="icon-envelope"></i> office@ecot.ac.sz</a></li>
+							</ul>
+							<ul class="tg-socialicons list-inline mb-0">
+								<li class="list-inline-item"><a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+								<li class="list-inline-item"><a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+								<li class="list-inline-item"><a class="social-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+								<li class="list-inline-item"><a class="social-googleplus" href="#"><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Footer Bottom Bar -->
+	<div class="tg-footerbar">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 text-center">
+					<span class="tg-copyright d-block">
+						&copy; <span id="currentYear"></span> ECOT. All Rights Reserved.
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!--************************************
+        Footer End
+*************************************-->
+
+<!-- Auto year script -->
+<script>
+	document.getElementById("currentYear").textContent = new Date().getFullYear();
+</script>
