@@ -4450,3 +4450,143 @@ body.tg-commingsoonpage .tg-main{padding:0;}
 	border-radius: 3px;
 }
 .tg-map-controls span + span{ margin:0 0 0 2px;}
+
+/* --- Modern base enhancements --- */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.tg-homebannervtwo {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.tg-homebannervtwo .item img {
+  width: 100%;
+  object-fit: cover;
+  max-height: 500px;
+}
+
+.tg-slidercontentbox {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.tg-slidercontentbox h1 {
+  font-weight: 600;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.tg-description p {
+  margin: 0;
+  color: #f1f1f1;
+}
+
+.tg-btn {
+  background: #007bff;
+  color: #fff !important;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+
+.tg-btn:hover {
+  background: #0056b3;
+  color: #fff !important;
+}
+
+.tg-widget {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+}
+
+.tg-widgettitle h3 {
+  margin-top: 0;
+  font-weight: 600;
+}
+
+.tg-tickerbox {
+  background: #007bff;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0 0 8px 8px;
+  margin-top: 1rem;
+}
+
+.tg-tickerbox span {
+  font-weight: bold;
+}
+
+.tg-events article {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-bottom: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.tg-events article:hover {
+  transform: translateY(-5px);
+}
+
+.tg-events figure img {
+  width: 100%;
+  height: auto;
+}
+
+.tg-themepostcontent {
+  padding: 1rem;
+}
+
+.tg-btnicon i {
+  margin-right: 0.5rem;
+}
+
+.tg-gallery figure {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.tg-gallery img {
+  transition: transform 0.3s ease;
+}
+
+.tg-gallery figure:hover img {
+  transform: scale(1.05);
+}
+
+.tg-btnview {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #007bff;
+  color: #fff !important;
+  border-radius: 50%;
+  padding: 0.5rem;
+  display: inline-flex;
+}
+
+.tg-widgetcontent ul li a {
+  display: block;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.tg-widgetcontent ul li a:hover {
+  color: #007bff;
+}
+
+/* ECOT Glance */
+
+
+

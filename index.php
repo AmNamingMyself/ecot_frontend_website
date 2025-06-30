@@ -2,6 +2,9 @@
 	include("includes/top-nav.php");
 	include("includes/menu-nav.php");
 	?>
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 
 
 	<!--************************************
@@ -17,15 +20,16 @@
 							<figure>
 								<img src="img/Artwork-20250215T071308Z-001/Artwork/IMG_0190.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
-									<div class="tg-slidercontentbox">
-										<a class="tg-btn" href="javascript:void(0);">Learn more</a>
+									<div class="tg-slidercontentbox text-center">
+										<a class="tg-btn" href="#">Learn More</a>
 										<div class="tg-titledescription">
 											<h1>Annual Graduation 2024</h1>
 											<div class="tg-description">
-												<p>The Eswatini College Of Technology prides itself with its products; Parents, Students, and other relevant stakeholders are invited to witness the annual graduation...</p>
+												<p>Join us for the celebration of success and new beginnings.</p>
 											</div>
 										</div>
 									</div>
+
 								</figcaption>
 							</figure>
 						</div>
@@ -63,7 +67,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="images/slider/slide5.jpg" alt="image description">
+								<img src="img/Artwork-20250215T071308Z-001/Artwork/enginneering lab.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="javascript:void(0);">read more</a>
@@ -96,42 +100,29 @@
 					</div>
 					<div class="tg-noticeboardarea">
 						<div class="tg-widget tg-widgetadmissionform">
-							<div class="tg-widgetcontent">
+							<div class="tg-widgetcontent text-center">
 								<h3>Accepted List 2025</h3>
-
 								<div class="tg-description">
-									<p>The Registrar&acute;s Office has still not evaluated applications and the accepted list is NOT Available</p>
+									<p>Registrar’s Office has not evaluated applications yet. The list will be available soon.</p>
 								</div>
-								<a class="tg-btn tg-btnicon" disabled>
-									<i class="fa fa-file-pdf-o"></i>
-									<span>Download PDF</span>
+								<a class="tg-btn tg-btnicon disabled">
+									<i class="fa fa-file-pdf-o"></i> <span>Coming Soon</span>
 								</a>
-
-
-
-								<div class="tg-description">
-									<p>The Registrar&acute;s Office has carefully evaluated applications and the accepted are on the LIST below</p>
-								</div>
-								<a class="tg-btn tg-btnicon" href="accepted.php">
-									<i class="fa fa-file-pdf-o"></i>
-									<span>Download PDF</span>
-								</a>
-
 							</div>
 						</div>
+
 						<div class="tg-widget tg-widgetadmissionform">
-							<div class="tg-widgetcontent">
-								<h3>2025</h3>
+							<div class="tg-widgetcontent text-center">
+								<h3>Apply Now for 2025</h3>
 								<div class="tg-description">
-									<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
+									<p>“The early bird catches the worm” — Secure your spot today.</p>
 								</div>
 								<a class="tg-btn tg-btnicon" href="/application">
-									<i class="fa fa-edit"></i>
-									<span>Apply Now</span>
+									<i class="fa fa-edit"></i> <span>Apply Now</span>
 								</a>
-
 							</div>
 						</div>
+
 					</div>
 				</div>
 				<div class="tg-tickerbox">
@@ -402,13 +393,60 @@
 									</ul>
 								</div>
 							</div>
-
 						</aside>
 					</div>
 				</div>
 			</div>
 		</div>
 	</main>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+
+	<!--  -->
+	<script>
+		$(document).ready(function() {
+			$('#tg-homeslider').owlCarousel({
+				loop: true,
+				margin: 0,
+				nav: true,
+				dots: true,
+				autoplay: true,
+				autoplayTimeout: 7000,
+				items: 1
+			});
+		});
+	</script>
+
+<!-- alerts script -->
+	<script>
+		$(document).ready(function() {
+			// Slider Init
+			$('#tg-homeslider').owlCarousel({
+				loop: true,
+				margin: 0,
+				nav: true,
+				dots: true,
+				autoplay: true,
+				autoplayTimeout: 4000,
+				items: 1
+			});
+
+			// Ticker Init
+			$('#tg-ticker').owlCarousel({
+				loop: true,
+				margin: 0,
+				nav: false,
+				dots: false,
+				autoplay: true,
+				autoplayTimeout: 10000,
+				items: 1,
+				animateOut: 'fadeOut',
+				animateIn: 'fadeIn',
+				smartSpeed: 800
+			});
+		});
+	</script>
+
 	<!--************************************
 				Main End
 		*************************************-->

@@ -66,7 +66,7 @@
 }
 .owl-carousel .owl-nav.disabled,
 .owl-carousel .owl-dots.disabled {display: none;}
-.owl-carousel .owl-nav .owl-prev,
+ .owl-carousel .owl-nav .owl-prev,
 .owl-carousel .owl-nav .owl-next,
 .owl-carousel .owl-dot {
 	cursor: pointer;
@@ -76,7 +76,7 @@
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-}
+} 
 .owl-carousel.owl-loaded {display: block;}
 .owl-carousel.owl-loading {
 	opacity: 0;
