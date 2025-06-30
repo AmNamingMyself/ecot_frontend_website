@@ -9,7 +9,7 @@ include("includes/menu-nav.php");
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<ol class="tg-breadcrumb">
 					<li><a href="index.php">home</a></li>
-					<li><a href="admissions.php">admissions</a></li>
+					<li><a href="academics.php">academics</a></li>
 					<li class="tg-active">programs</li>
 				</ol>
 			</div>
@@ -23,34 +23,7 @@ include("includes/menu-nav.php");
 				Main Start
 		*************************************-->
 
-<style>
-	.h3-programs {
-		padding-top: 30px;
-		padding-bottom: 10px !important;
-	}
 
-	.container1 {
-		display: flex;
-		gap: 0.75rem;
-		margin-bottom: 60px;
-	}
-
-	.profile-img {
-		width: auto;
-		/* Adjust size as needed */
-		height: 100%;
-		object-fit: cover;
-		margin-right: 15px;
-	}
-
-	.card {
-		padding: 25px 0;
-		display: flex;
-		flex-direction: column;
-		height: 150px;
-		margin-bottom: 15px;
-	}
-</style>
 <main id="tg-main" class="tg-main tg-haslayout">
 	<div class="container">
 		<div class="row">
@@ -160,6 +133,35 @@ include("includes/menu-nav.php");
 		</div>
 	</div>
 </main>
+
+<style>
+	.h3-programs {
+		padding-top: 30px;
+		padding-bottom: 10px !important;
+	}
+
+	.container1 {
+		display: flex;
+		gap: 0.75rem;
+		margin-bottom: 60px;
+	}
+
+	.profile-img {
+		width: auto;
+		/* Adjust size as needed */
+		height: 100%;
+		object-fit: cover;
+		margin-right: 15px;
+	}
+
+	.card {
+		padding: 25px 0;
+		display: flex;
+		flex-direction: column;
+		height: 150px;
+		margin-bottom: 15px;
+	}
+</style>
 
 <?php
 include("includes/footer.php");

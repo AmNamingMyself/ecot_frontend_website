@@ -3,6 +3,13 @@ include("includes/top-nav.php");
 include("includes/menu-nav.php");
 ?>
 
+<!--************************************
+				Inner Banner End
+		*************************************-->
+<!--************************************
+				Main Start
+		*************************************-->
+
 <div class="tg-innerbanner">
 	<div class="container">
 		<div class="row">
@@ -15,12 +22,195 @@ include("includes/menu-nav.php");
 		</div>
 	</div>
 </div>
-<!--************************************
-				Inner Banner End
-		*************************************-->
-<!--************************************
-				Main Start
-		*************************************-->
+
+<main id="tg-main" class="tg-main tg-haslayout">
+
+	<div class="container">
+		<div class="row">
+			<div id="tg-twocolumns" class="tg-twocolumns" style="margin-top: 10px;">
+				<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 pull-left">
+					<div class="tg-pagetitle">
+						<h2>Academics at Eswatini College of Technology</h2>
+					</div>
+					<div class="tg-container">
+						<p>Discover a range of diploma and certificate programs designed to equip students with practical and academic skills. We also provide grade testing for select programs.</p>
+					</div>
+
+					<div class="tg-events" style="margin: 25px 0 25px;">
+						<div class="tg-borderheading">
+							<h2>What We Offer Academically</h2>
+						</div>
+						<div class="row" style="display: flex; flex-flow:wrap;">
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="programs.php">
+											<img src="images/events/img-02.jpg" alt="image description">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+
+										<div class="tg-themeposttitle">
+											<h3><a href="programs.php">Undergraduate Programs</a></h3>
+										</div>
+										<div class="tg-description">
+											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+										</div>
+									</div>
+								</article>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="javascript:void(0);">
+											<img src="images/events/img-02.jpg" alt="image description">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+
+										<div class="tg-themeposttitle">
+											<h3><a href="javascript:void(0);">Certificate Programs (e.g. Madrin)</a></h3>
+										</div>
+										<div class="tg-description">
+											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+										</div>
+									</div>
+								</article>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="javascript:void(0);">
+											<img src="images/events/img-02.jpg" alt="image description">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+
+										<div class="tg-themeposttitle">
+											<h3><a href="javascript:void(0);">Part-Time</a></h3>
+										</div>
+										<div class="tg-description">
+											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+										</div>
+									</div>
+								</article>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="javascript:void(0);">
+											<img src="images/events/img-02.jpg" alt="image description">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+
+										<div class="tg-themeposttitle">
+											<h3><a href="javascript:void(0);">Grade Testing</a></h3>
+										</div>
+										<div class="tg-description">
+											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+										</div>
+									</div>
+								</article>
+							</div>
+						</div>
+					</div>
+
+					<section class="faculties-preview" style="margin: 25px 0 25px;">
+						<div class="tg-borderheading">
+							<h2>Faculties & Departments</h2>
+						</div>
+						<div class="row" style="display: flex; flex-flow:wrap;">
+							<!-- ICT -->
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="ict.php">
+											<img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="Information & Communication Technology">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+										<div class="tg-themeposttitle">
+											<h3><a href="ict.php">Information & Communication Technology (ICT)</a></h3>
+										</div>
+									</div>
+								</article>
+							</div>
+
+							<!-- Engineering and Science -->
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="engineeringScience.php">
+											<!-- <img src="https://unsplash.com/photos/young-african-researcher-with-microscope-pressing-key-of-computer-keypad-during-work-Xb94Ydlue2I" alt="Engineering and Science"> -->
+											<img src="images/thisisengineering-k9a7H43zhP4-unsplash.jpg" alt="Engineering and Science">
+
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+										<div class="tg-themeposttitle">
+											<h3><a href="engineeringScience.php">Engineering and Science</a></h3>
+										</div>
+									</div>
+								</article>
+							</div>
+
+							<!-- Building and Civil Engineering -->
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="buildingCivil.php">
+											<img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e" alt="Building and Civil Engineering">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+										<div class="tg-themeposttitle">
+											<h3><a href="buildingCivil.php">Building and Civil Engineering</a></h3>
+										</div>
+									</div>
+								</article>
+							</div>
+
+							<!-- Business -->
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="business.php">
+											<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f" alt="Business Faculty">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+										<div class="tg-themeposttitle">
+											<h3><a href="business.php">Business</a></h3>
+										</div>
+									</div>
+								</article>
+							</div>
+
+							<!-- Education -->
+							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
+								<article class="tg-themepost tg-eventpost">
+									<figure class="tg-featuredimg">
+										<a href="education.php">
+											<img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f" alt="Faculty of Education">
+										</a>
+									</figure>
+									<div class="tg-themepostcontent">
+										<div class="tg-themeposttitle">
+											<h3><a href="education.php">Education</a></h3>
+										</div>
+									</div>
+								</article>
+							</div>
+						</div>
+					</section>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
 
 <style>
 	.containers {
@@ -166,231 +356,7 @@ include("includes/menu-nav.php");
 		color: rgb(0, 188, 38);
 	}
 </style>
-<main>
 
-	<!-- <div class="containers">
-    <div class="quick-links">
-        <a href="#" class="quick-link">How to Apply</a>
-        <a href="#" class="quick-link">Apply Now</a>
-        <a href="#" class="quick-link">Procedure for fees payment</a>
-        <a href="#" class="quick-link">Student finance contacts</a>
-    </div> -->
-
-	<div class="containers1">
-
-		<div class="content-grid">
-			<div class="search-section">
-				<input type="text" class="search-input" placeholder="Search for any programme...">
-
-				<div class="program-list">
-					<div class="program-item">ALL PROGRAMME CLUSTERS</div>
-					<!-- <div class="dropdown">
-                        <div class="dropdown-content">
-                            <div>Engineering</div>
-                            <div>Science</div>
-                            <div>ICT</div>
-                        </div>
-                    </div> -->
-
-					<div class="program-item">Faculty of ICT</div>
-					<div class="dropdown">
-						<div class="dropdown-content">
-							<div>Diploma in Computer Science</div>
-						</div>
-					</div>
-
-					<div class="program-item">Faculty of Business Administration</div>
-					<div class="dropdown">
-						<div class="dropdown-content">
-							<div>DIPLOMA IN OFFICE MANAGEMENT AND TECHNOLOGY</div>
-							<div>DIPLOMA IN HUMAN RESOURCES MANAGEMENT</div>
-							<div>DIPLOMA IN HOSPITALITY AND TOURISM MANAGEMENT</div>
-						</div>
-					</div>
-
-					<div class="program-item">Faculty of Building and Civil Engineering</div>
-					<div class="dropdown">
-						<div class="dropdown-content">
-							<div>DIPLOMA IN ARCHITECTURAL TECHNOLOGY</div>
-							<div>DIPLOMA IN CIVIL ENGINEERING</div>
-							<div>DIPLOMA IN QUANTITY SURVEYING</div>
-							<div>DIPLOMA IN BUILDING STUDIES</div>
-						</div>
-					</div>
-
-					<div class="program-item">Faculty of Education</div>
-					<div class="dropdown">
-						<div class="dropdown-content">
-							<div>SECONDARY TEACHER'S DIPLOMA: COMMERCIAL</div>
-							<div>SECONDARY TEACHER'S DIPLOMA: INFORMATION AND COMMUNICATION TECHNOLOGY</div>
-						</div>
-					</div>
-
-					<div class="program-item">Faculty of Engineering and Science</div>
-					<div class="dropdown">
-						<div class="dropdown-content">
-							<div>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — LIGHT</div>
-							<div>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — HEAVY</div>
-							<div>DIPLOMA IN VEHICLE BODY REPAIR</div>
-							<div>NATIONAL DIPLOMA: ELECTRICAL AND ELECTRONICS ENGINEERING</div>
-							<div>NATIONAL DIPLOMA: MECHANICAL ENGINEERING</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div>
-
-			<div class="program-details">
-				<h3>DIPLOMA IN COMPUTER SCIENCE</h3>
-				<p class="course-code">Course code - DCS</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit doloribus ipsum amet velit eveniet ullam, laboriosam cum maxime ducimus quod minus asperiores iusto perspiciatis odit at placeat, voluptates ratione et.</p>
-				<br>
-				<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni quas, praesentium soluta ad consequuntur maxime quisquam neque incidunt iste beatae non. Cumque obcaecati repudiandae amet ipsa accusantium culpa tempora doloremque!</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN OFFICE MANAGEMENT AND TECHNOLOGY</h3>
-				<p class="course-code">Course code - DOT</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt suscipit, in reprehenderit, tempore iste labore, explicabo mollitia perferendis cumque aut deleniti placeat beatae sapiente alias odit? Nisi accusantium corporis ad?</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam repellendus similique, nihil dolorum molestiae minus, excepturi ab mollitia obcaecati sed unde perferendis libero? Accusamus, quaerat! Possimus magni officia iure. Provident.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN HUMAN RESOURCES MANAGEMENT</h3>
-				<p class="course-code">Course code - DHR</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN HOSPITALITY AND TOURISM MANAGEMENT</h3>
-				<p class="course-code">Course code - DHT</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN ARCHITECTURAL TECHNOLOGY</h3>
-				<p class="course-code">Course code - DAT</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN CIVIL ENGINEERING</h3>
-				<p class="course-code">Course code - DCE</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN QUANTITY SURVEYING</h3>
-				<p class="course-code">Course code - DQS</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN BUILDING STUDIES</h3>
-				<p class="course-code">Course code - DBS</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>SECONDARY TEACHER'S DIPLOMA: COMMERCIAL</h3>
-				<p class="course-code">Course code - TTC</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>SECONDARY TEACHER'S DIPLOMA: INFORMATION AND COMMUNICATION TECHNOLOGY</h3>
-				<p class="course-code">Course code - ITE</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — LIGHT</h3>
-				<p class="course-code">Course code - NDA</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>NATIONAL DIPLOMA: AUTOMOTIVE ENGINEERING — HEAVY</h3>
-				<p class="course-code">Course code - NDA</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>DIPLOMA IN VEHICLE BODY REPAIR</h3>
-				<p class="course-code">Course code - VBR</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>NATIONAL DIPLOMA: ELECTRICAL AND ELECTRONICS ENGINEERING</h3>
-				<p class="course-code">Course code - NDE</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-			<div class="program-details">
-				<h3>NATIONAL DIPLOMA: MECHANICAL ENGINEERING</h3>
-				<p class="course-code">Course code - NDM</p>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat repellat sit ducimus. Vel, eius tenetur esse aliquid assumenda nobis commodi earum? Dignissimos, ratione iste ex natus itaque sint quas odio!</p>
-				<br>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad optio maiores voluptate possimus perferendis rem, aliquam, earum dicta, in minima amet unde neque libero iste consequuntur a minus provident quaerat.</p>
-			</div>
-		</div>
-	</div>
-	</div>
-
-	<div class="containers">
-		<div class="quick-links">
-			<a href="admissions.php" class="quick-link">How to Apply</a>
-			<a href="#" class="quick-link">Apply Now</a>
-			<a href="tuition.php" class="quick-link">Procedure for fees payment</a>
-			<a href="#" class="quick-link">Student finance contacts</a>
-		</div>
-	</div>
-	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			const items = document.querySelectorAll(".program-item");
-
-			items.forEach((item) => {
-				item.addEventListener("click", function() {
-					// Close all other dropdowns
-					document.querySelectorAll(".dropdown").forEach((dropdown) => {
-						if (dropdown !== this.nextElementSibling) {
-							dropdown.style.display = "none";
-						}
-					});
-
-					// Toggle current dropdown
-					const dropdown = this.nextElementSibling;
-					if (dropdown && dropdown.classList.contains("dropdown")) {
-						dropdown.style.display = dropdown.style.display === "block" ? "none" : "block";
-					}
-				});
-			});
-
-			// Close dropdowns when clicking outside
-			document.addEventListener("click", function(event) {
-				if (!event.target.closest(".program-item")) {
-					document.querySelectorAll(".dropdown").forEach((dropdown) => {
-						dropdown.style.display = "none";
-					});
-				}
-			});
-		});
-	</script>
-
-
-	<?php
-	include("includes/footer.php");
-	?>
+<?php
+include("includes/footer.php");
+?>

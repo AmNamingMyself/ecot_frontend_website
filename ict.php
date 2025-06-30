@@ -60,37 +60,6 @@
 									</div>
 								</div>
 								<!-- </div> -->
-
-								<style>
-									.h3-programs {
-										padding-top: 30px;
-										padding-bottom: 10px !important;
-									}
-
-									.container1 {
-										display: flex;
-										gap: 0.75rem;
-										margin-bottom: 60px;
-									}
-
-									.profile-img {
-										width: auto;
-										/* Adjust size as needed */
-										height: 100%;
-										object-fit: cover;
-										margin-right: 15px;
-									}
-
-									.card {
-										padding: 25px 0;
-										display: flex;
-										flex-direction: column;
-										height: 150px;
-										margin-bottom: 15px;
-									}
-								</style>
-
-
 								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
 									<!-- hey chat.. please include cards to display the management of the college -->
 								</div>
@@ -103,8 +72,36 @@
 		</div>
 	</main>
 	<!--************************************
-				Main End
-		*************************************-->
+	Main End
+	*************************************-->
+	<style>
+		.h3-programs {
+			padding-top: 30px;
+			padding-bottom: 10px !important;
+		}
+
+		.container1 {
+			display: flex;
+			gap: 0.75rem;
+			margin-bottom: 60px;
+		}
+
+		.profile-img {
+			width: auto;
+			/* Adjust size as needed */
+			height: 100%;
+			object-fit: cover;
+			margin-right: 15px;
+		}
+
+		.card {
+			padding: 25px 0;
+			display: flex;
+			flex-direction: column;
+			height: 150px;
+			margin-bottom: 15px;
+		}
+	</style>
 	<?php
 	include("includes/footer.php");
 	?>

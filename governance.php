@@ -44,7 +44,7 @@
 									<p>The Principal Officers and Heads of Departments (HODs) in a college play a vital role in ensuring the smooth operation and academic excellence of the institution. The Principal, as the chief executive, provides overall leadership, implements policies, and represents the college in external engagements. Supporting the Principal are key officers such as the Registrar, who oversees student admissions, records, and academic affairs; the Accountant or Bursar, responsible for financial management and budgeting; and the Librarian, who ensures students and faculty have access to academic resources and research materials.</p>
 									<br>
 								</div>
-								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;">
+								<div class="" style="margin-top: 15px;">
 									<div class="row">
 										<!-- Card 1 -->
 										<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
@@ -94,7 +94,7 @@
 								</div>
 								<div class="tg-container">
 									<p>The Principal Officers and Heads of Departments (HODs) in a college play a vital role in ensuring the smooth operation and academic excellence of the institution. The Principal, as the chief executive, provides overall leadership, implements policies, and represents the college in external engagements. Supporting the Principal are key officers such as the Registrar, who oversees student admissions, records, and academic affairs; the Accountant or Bursar, responsible for financial management and budgeting; and the Librarian, who ensures students and faculty have access to academic resources and research materials.</p>
-									<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;">
+									<div class="" style="margin-top: 15px;">
 										<div class="row">
 											<!-- Card 1 -->
 											<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
@@ -166,6 +166,15 @@
 									/* Soft shadow for better framing */
 									/* transition: transform 0.3s ease-in-out;
 										Smooth hover effect */
+								}
+
+								.card {
+									transition: transform 0.3s ease, box-shadow 0.3s ease;
+								}
+
+								.card:hover {
+									transform: translateY(-8px);
+									box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
 								}
 
 								/* .card:hover {
