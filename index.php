@@ -5,7 +5,7 @@
 <section class="hero-section">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-6" data-aos="fade-right">
+            <div class="col-12 col-lg-6 mb-4 mb-lg-0" data-aos="fade-right">
                 <div class="hero-content">
                     <h1 class="hero-title">Premium Car Detailing Services</h1>
                     <p class="hero-subtitle">Transform your vehicle into a masterpiece with our professional detailing services. Experience the difference that quality and care make.</p>
@@ -15,7 +15,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6" data-aos="fade-left">
+            <div class="col-12 col-lg-6 mb-4 mb-lg-0" data-aos="fade-left">
                 <div class="hero-image">
                     <img src="assets/img/hero-car.png" alt="Premium Car Detailing" class="img-fluid">
                 </div>
