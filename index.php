@@ -3,11 +3,14 @@
 	include("includes/menu-nav.php");
 	?>
 	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/prettyPhoto.css">	
+	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 	<link rel="stylesheet" href="css/responsive.css">
-<?php include("includes/config.php"); ?>
-<?php include("includes/header.php"); ?>
+
 
 	<!--************************************
 				Home Slider Start
@@ -23,7 +26,7 @@
 								<img src="img/Artwork-20250215T071308Z-001/Artwork/IMG_0190.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox text-center">
-										<a class="tg-btn" href="#">Learn More</a>
+										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>Annual Graduation 2025</h1>
 											<div class="tg-description">
@@ -31,6 +34,140 @@
 											</div>
 										</div>
 									</div>
+
+								</figcaption>
+							</figure>
+						</div>
+						<div class="item">
+							<figure>
+								<img src="images/slider/slide1.jpg" alt="image description">
+								<figcaption class="tg-slidercontent">
+									<div class="tg-slidercontentbox">
+										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<div class="tg-titledescription">
+											<h1>Building &amp; Architecture experts</h1>
+											<div class="tg-description">
+												<p>We equip beyond concepts &amp; designs but build buildings which brings about the best of the vocational design and building skills acquired at the College...</p>
+											</div>
+										</div>
+									</div>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="item">
+							<figure>
+								<img src="images/slider/slide2.jpg" alt="image description">
+								<figcaption class="tg-slidercontent">
+									<div class="tg-slidercontentbox">
+										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<div class="tg-titledescription">
+											<h1>Research &amp; Library</h1>
+											<div class="tg-description">
+												<p>A welcoming environment always brings about creativity and enhances critical thinking for students, that&acute;s we provide the top class environment for research...</p>
+											</div>
+										</div>
+									</div>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="item">
+							<figure>
+								<img src="img/Artwork-20250215T071308Z-001/Artwork/enginneering lab.jpg" alt="image description">
+								<figcaption class="tg-slidercontent">
+									<div class="tg-slidercontentbox">
+										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<div class="tg-titledescription">
+											<h1>Real Engineering Experience</h1>
+											<div class="tg-description">
+												<p>For a practical or more hands on experience we encourage students to partake in actual feel of the real industry in exploring their capabilities and innovative thinking...</p>
+											</div>
+										</div>
+									</div>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="item">
+							<figure>
+								<img src="images/slider/slide6.jpg" alt="image description">
+								<figcaption class="tg-slidercontent">
+									<div class="tg-slidercontentbox">
+										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<div class="tg-titledescription">
+											<h1>Experience the campus</h1>
+											<div class="tg-description">
+												<p>The college has it&acute;s own campus that houses students who opt for staying on camp but it is not a mandotory option. One can feel free to stay on camp or not...</p>
+											</div>
+										</div>
+									</div>
+								</figcaption>
+							</figure>
+						</div>
+					</div>
+					<div class="tg-noticeboardarea">
+						<div class="tg-widget tg-widgetadmissionform">
+							<div class="tg-widgetcontent text-center">
+								<h3>Accepted List 2025</h3>
+								<div class="tg-description">
+									<p>Registrar’s Office has not evaluated applications yet. The list will be available soon.</p>
+								</div>
+								<a class="tg-btn tg-btnicon disabled">
+									<i class="fa fa-file-pdf-o"></i> <span>Coming Soon</span>
+								</a>
+							</div>
+						</div>
+
+						<div class="tg-widget tg-widgetadmissionform">
+							<div class="tg-widgetcontent text-center">
+								<h3>Apply Now for 2025</h3>
+								<div class="tg-description">
+									<p>“The early bird catches the worm” — Secure your spot today.</p>
+								</div>
+								<a class="tg-btn tg-btnicon" href="/application">
+									<i class="fa fa-edit"></i> <span>Apply Now</span>
+								</a>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="tg-tickerbox">
+					<span>Daily Alerts:</span>
+					<div id="tg-ticker" class="tg-ticker owl-carousel">
+						<div class="item">
+							<div class="tg-description">
+								<p>The internal exams (April - May Series) are on progress in most of the faculties of the college</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="tg-description">
+								<p>Mid-June results from all faculties will be available for all students, Please collect from H.O.F&acute;s</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="tg-description">
+								<p>The college will be on winter break from late July and reopens early August and ready for registration</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="tg-description">
+								<p>The college reopens in August, Orientation on the first week, all freshmen are encouraged to attend all sessions</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--************************************
+				Home Slider End
+		*************************************-->
+	<!--************************************
+				Main Start
+		*************************************-->
+	<main id="tg-main" class="tg-main tg-haslayout">
+		<div class="container">
+			<div class="row">
+				<div id="tg-twocolumns" class="tg-twocolumns">
 
 
 					<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
@@ -153,14 +290,14 @@
 											</div>
 											<div class="tg-widgetcontent">
 												<ul>
-													<li><a href="javascript:void(0);">Download 2025-2026 Prospectus</a></li>
+													<li><a href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Download 2025-2026 Prospectus</a></li>
 													<li><a href="javascript:void(0);">Admissions Guidline For New Students</a></li>
 													<li><a href="javascript:void(0);">ECOT Library &amp; Research</a></li>
-													<li><a href="javascript:void(0);">Multimedia and Entertainment</a></li>
-													<li><a href="javascript:void(0);">Annual Graduation Grads 20</a></li>
-													<li><a href="javascript:void(0);">Student Advisory June 27,2025</a></li>
-													<li><a href="javascript:void(0);">Offiial launch of the website 2025</a></li>
-													<li><a href="javascript:void(0);">Calendar of Events / Entertainment</a></li>
+													<!-- <li><a href="javascript:void(0);">Multimedia and Entertainment</a></li> -->
+													<li><a href="https://www.youtube.com/live/fIO5zw2kBiY?si=EwtdVEr_boM6DMFN" target="_blank" rel="noopener noreferrer">Annual Graduation 2025 </a></li>
+													<!-- <li><a href="javascript:void(0);">Student Advisory June 27,2025</a></li> -->
+													<!-- <li><a href="javascript:void(0);">Offiial launch of the website 2025</a></li> -->
+													<!-- <li><a href="javascript:void(0);">Calendar of Events / Entertainment</a></li> -->
 												</ul>
 											</div>
 										</div>
@@ -229,7 +366,7 @@
 								<div class="tg-widgetcontent">
 									<ul>
 										<li>
-											<a href="javascript:void(0);">
+											<a href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
 												<i class="fa fa-paperclip"></i>
 												<span>Prospectus</span>
 											</a>
@@ -243,7 +380,7 @@
 										<li>
 											<a href="javascript:void(0);">
 												<i class="fa fa-list-ul"></i>
-												<span>Merit List 2024</span>
+												<span>Merit List 2025</span>
 											</a>
 										</li>
 										<li>
@@ -255,7 +392,7 @@
 										<li>
 											<a href="javascript:void(0);">
 												<i class="fa fa-bookmark-o"></i>
-												<span>Examination Guide 2025</span>
+												<span>Examination Guide 2026</span>
 											</a>
 										</li>
 									</ul>
@@ -378,4 +515,3 @@ $(document).ready(function () {
 		<?php
 		include("includes/footer.php");
 		?>
-<?php include("includes/footer.php"); ?>

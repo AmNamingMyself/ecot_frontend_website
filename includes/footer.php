@@ -1,87 +1,120 @@
-</div> <!-- End Main Wrapper -->
+<!--************************************
+        Footer Start
+*************************************-->
+<footer id="tg-footer" class="tg-footer tg-haslayout">
+	<!-- Newsletter Signup -->
+	<div class="tg-signupbox">
+		<div class="tg-signuptextbox">
+			<h3>Subscribe to our Newsletter</h3>
+			<div class="tg-description">
+				<p>Stay up to date with news, events, and opportunities.</p>
+			</div>
+		</div>
+		<form class="tg-formtheme tg-formsignupfree">
+			<fieldset>
+				<div class="form-group">
+					<input type="email" name="emailid" class="form-control" placeholder="Enter your email" required>
+				</div>
+				<div class="form-group">
+					<button type="submit" class="tg-btn">Subscribe</button>
+				</div>
+			</fieldset>
+		</form>
+	</div>
 
-    <!-- Footer -->
-    <footer class="footer-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="footer-widget">
-                        <div class="footer-logo">
-                            <img src="assets/img/logo.png" alt="Car Craft Logo" height="50">
-                            <span class="brand-text">Car Craft</span>
-                        </div>
-                        <p>Premium car detailing services that bring out the best in your vehicle. Professional care with attention to every detail.</p>
-                        <div class="social-links">
-                            <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
-                            <a href="#" class="social-link"><i class="fab fa-youtube"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-md-6">
-                    <div class="footer-widget">
-                        <h4>Quick Links</h4>
-                        <ul class="footer-links">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About Us</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="portfolio.php">Portfolio</a></li>
-                            <li><a href="contact.php">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="footer-widget">
-                        <h4>Services</h4>
-                        <ul class="footer-links">
-                            <li><a href="services.php">Interior Detailing</a></li>
-                            <li><a href="services.php">Exterior Detailing</a></li>
-                            <li><a href="services.php">Paint Protection</a></li>
-                            <li><a href="services.php">Ceramic Coating</a></li>
-                            <li><a href="services.php">Headlight Restoration</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="footer-widget">
-                        <h4>Contact Info</h4>
-                        <div class="contact-info">
-                            <p><i class="fas fa-map-marker-alt"></i> 123 Auto Street, Car City, CC 12345</p>
-                            <p><i class="fas fa-phone"></i> <?php echo SITE_PHONE; ?></p>
-                            <p><i class="fas fa-envelope"></i> <?php echo SITE_EMAIL; ?></p>
-                            <p><i class="fas fa-clock"></i> Mon-Sat: 8AM-6PM</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="row align-items-center">
-                    <div class="col-md-6">
-                        <p>&copy; 2024 Car Craft. All rights reserved.</p>
-                    </div>
-                    <div class="col-md-6 text-end">
-                        <p>Designed with <i class="fas fa-heart text-danger"></i> by Car Craft Team</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+	<!--************************************
+        Footer Middle Bar
+*************************************-->
+	<div class="tg-footermiddlebar">
+		<div class="container">
+			<div class="row d-flex align-items-start">
+				<!-- Brand Left -->
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<div class="tg-widget">
+						<strong class="tg-logo mb-3 d-block">
+							<a href="#"><img src="img/Artwork-20250215T071308Z-001/Artwork/ECOT Logo Final.png" 
+							alt="College Logo" style="max-width: 110px;"></a>
+						</strong>
+						<!-- <div class="tg-description mb-3">
+							<p>Your trusted institution for quality education and personal growth.</p>
+						</div> -->
+					</div>
+				</div>
 
-    <!-- Bootstrap 5 JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+				<!-- Quick Links -->
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<div class="tg-widget tg-widgetcoursecategories">
+						<div class="tg-widgettitle">
+							<h3>Quick Links</h3>
+						</div>
+						<div class="tg-widgetcontent">
+							<ul class="list-unstyled">
+								<li><a href="academics.php">Faculties</a></li>
+								<li><a href="academics.php">Academics</a></li>
+								<li><a href="SRC.php">Student Life</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
 
-    <!-- AOS Animation Library -->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+				<!-- Admissions -->
+				<div class="col-xs-12 col-sm-6 col-md-3">
+					<div class="tg-widget tg-widgetcoursecategories">
+						<div class="tg-widgettitle">
+							<h3>Admissions</h3>
+						</div>
+						<div class="tg-widgetcontent">
+							<ul class="list-unstyled">
+								<li><a href="#">Undergraduate Admissions</a></li>
+								<li><a href="#">Graduate Admissions</a></li>
+								<li><a href="admissions.php">Admission Information</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
 
-    <!-- Custom JS -->
-    <script src="assets/js/main.js"></script>
+				<!-- Contact & Social Right -->
+				<div class="col-xs-12 col-sm-6 col-md-3 d-flex flex-column align-items-md-end text-md-right mt-4 mt-md-0">
+					<div class="tg-widget tg-widgetcompanyinfo">
+						<div class="tg-widgetcontent">
+							<ul class="tg-infolist list-unstyled mb-3">
+								<li><i class="icon-location"></i> P O BOX 69, Mbabane H100, Somhlolo Road</li>
+								<li><i class="icon-phone-handset"></i> (00268) 2404 2681/2/3</li>
+								<li><i class="icon-printer"></i> (00268) 2404 2681/2/3</li>
+								<li><a href="mailto:office@ecot.ac.sz"><i class="icon-envelope"></i> office@ecot.ac.sz</a></li>
+							</ul>
+							<ul class="tg-socialicons list-inline mb-0">
+								<li class="list-inline-item"><a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+								<li class="list-inline-item"><a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+								<li class="list-inline-item"><a class="social-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+								<li class="list-inline-item"><a class="social-googleplus" href="#"><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
 
-    <script>
-        AOS.init({
-            duration: 1000,
-            once: true
-        });
-    </script>
-</body>
-</html>
+			</div>
+		</div>
+	</div>
+
+	<!-- Footer Bottom Bar -->
+	<div class="tg-footerbar">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 text-center">
+					<span class="tg-copyright d-block">
+						&copy; <span id="currentYear"></span> ECOT. All Rights Reserved.
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!--************************************
+        Footer End
+*************************************-->
+
+<!-- Auto year script -->
+<script>
+	document.getElementById("currentYear").textContent = new Date().getFullYear();
+</script>

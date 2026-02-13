@@ -2123,7 +2123,7 @@ body.tg-home .tg-sidebar {padding: 20px 0 0;}
 	left:50%;
 	z-index:3;
 	opacity:0;
-	color:#fff;
+	color:#ffffff;
 	font-size:13px;
 	line-height:13px;
 	position:absolute;
@@ -4586,37 +4586,19 @@ body {
   color: #007bff;
 }
 
-/* ECOT Glance */
 
-.hero-title {
-    font-size: 3rem;
+/* Make the link blue and blinking */
+.tg-btn1  {
+  color: blue;              /* Blue text */
+  font-weight: bold;
+  text-decoration: none;    /* Remove underline */
+  animation: blink 1s infinite; /* Blinking effect */
 }
 
-.hero-subtitle {
-    font-size: 1.1rem;
-    line-height: 1.6;
+/* Blinking animation */
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
 }
-
-/* MOBILE FIX */
-@media (max-width: 768px) {
-    .hero-title {
-        font-size: 2rem;
-        text-align: center;
-    }
-
-    .hero-subtitle {
-        font-size: 1rem;
-        text-align: center;
-    }
-
-    .hero-buttons {
-        display: flex;
-        flex-direction: column;
-        gap: 12px;
-        align-items: center;
-    }
-}
-
-
-
 
