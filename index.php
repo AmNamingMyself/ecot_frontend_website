@@ -5,6 +5,7 @@
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="css/responsive.css">
 
 
 	<!--************************************
@@ -23,7 +24,7 @@
 									<div class="tg-slidercontentbox text-center">
 										<a class="tg-btn" href="#">Learn More</a>
 										<div class="tg-titledescription">
-											<h1>Annual Graduation 2024</h1>
+											<h1>Annual Graduation 2025</h1>
 											<div class="tg-description">
 												<p>Join us for the celebration of success and new beginnings.</p>
 											</div>
@@ -404,18 +405,49 @@
 
 	<!--  -->
 	<script>
-		$(document).ready(function() {
-			$('#tg-homeslider').owlCarousel({
-				loop: true,
-				margin: 0,
-				nav: true,
-				dots: true,
-				autoplay: true,
-				autoplayTimeout: 7000,
-				items: 1
-			});
-		});
-	</script>
+$(document).ready(function () {
+
+  // Home Slider
+  $('#tg-homeslider').owlCarousel({
+    loop: true,
+    margin: 0,
+    nav: true,
+    dots: true,
+    autoplay: true,
+    autoplayTimeout: 6000,
+    items: 1
+  });
+
+  // Ticker
+  $('#tg-ticker').owlCarousel({
+    loop: true,
+    margin: 0,
+    nav: false,
+    dots: false,
+    autoplay: true,
+    autoplayTimeout: 10000,
+    items: 1,
+    animateOut: 'fadeOut',
+    animateIn: 'fadeIn',
+    smartSpeed: 800
+  });
+
+  // Mobile Nav Toggle
+  $('.navbar-toggle').on('click', function () {
+    $('.tg-navigation').toggleClass('active');
+  });
+
+  // Dropdown toggle
+  $('.menu-item-has-children > a').on('click', function (e) {
+    if ($(window).width() < 768) {
+      e.preventDefault();
+      $(this).next('.sub-menu').slideToggle();
+    }
+  });
+
+});
+</script>
+
 
 <!-- alerts script -->
 	<script>
@@ -446,6 +478,31 @@
 			});
 		});
 	</script>
+
+	<script>
+/* Responsive Navigation Script */
+
+	document.addEventListener("DOMContentLoaded", function () {
+  	const toggle = document.querySelector(".navbar-toggle");
+ 	 const nav = document.querySelector(".tg-navigation");
+
+  	if (toggle && nav) {
+    toggle.addEventListener("click", function () {
+      nav.classList.toggle("active");
+   	 });
+  }
+
+  // Dropdown toggle
+  document.querySelectorAll(".menu-item-has-children > a").forEach(link => {
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
+      const submenu = this.nextElementSibling;
+      if (submenu) submenu.style.display =
+        submenu.style.display === "block" ? "none" : "block";
+    });
+  });
+});
+</script>
 
 	<!--************************************
 				Main End

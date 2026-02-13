@@ -86,7 +86,7 @@
 							</div>
 						</div>
 						<div class="tg-navigationarea">
-							<nav id="tg-nav" class="tg-nav">
+							<nav id="tg-navigation" class="tg-nav tg-navigation collapse">
 								<div class="navbar-header">
 									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#tg-navigation" aria-expanded="false">
 										<span class="sr-only">Toggle navigation</span>
