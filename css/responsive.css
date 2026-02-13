@@ -1,3 +1,224 @@
+/* Base Styles */
+.tg-headervtwo {
+    margin: 0 0 -106px;
+}
+
+.tg-logo {
+    width: 220px;
+}
+
+.tg-navigation > ul > li {
+    padding: 0 0 25px;
+    margin-left: 15px;
+}
+
+.mega-menu.tg-fullmegamenu {
+    width: 940px !important;
+}
+
+.tg-homebannervtwo .tg-homeslider {
+    width: 100%;
+}
+
+.tg-slidercontent {
+    padding: 106px 0 0;
+}
+
+.tg-noticeboardarea {
+    width: auto;
+    float: none;
+    clear: both;
+    margin: 0 -15px;
+    overflow: hidden;
+    padding: 20px 0 0;
+}
+
+.tg-noticeboardarea .tg-widget {
+    width: 50%;
+    padding: 0 15px;
+}
+
+.tg-glanceatuoeandkvtwo {
+    padding-bottom: 30px;
+}
+
+.tg-themepostleftimg .tg-themepostcontent {
+    padding: 5px 0 5px 20px;
+}
+
+.tg-detailpage .tg-themeposttitle h1 {
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.tg-themepostinfo li {
+    padding: 0 11px;
+}
+
+/* Forms */
+.tg-formsignupfree {
+    width: 100%;
+}
+
+.tg-formsignupfree .form-group:first-child {
+    padding-right: 30px;
+}
+
+.tg-signuptextbox {
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+/* Info and widgets */
+.tg-infolist li address {
+    max-width: 180px;
+}
+
+.tg-widgetlatestcourses .tg-campuscontent .tg-matadata {
+    padding: 0;
+    font-size: 12px;
+}
+
+/* Headlines */
+.tg-addmission .tg-pagetitle h2 {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.tg-widgetothercapmus .tg-widgetcontent ul li address {
+    width: 80%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/* Campus Info */
+.tg-maincampus .tg-themepostcontent {
+    padding-left: 15px;
+}
+
+.tg-maincampuses .tg-capmusinfo {
+    line-height: 15px;
+}
+
+.tg-maincampuses .tg-campuseslocation {
+    height: 227px;
+}
+
+.tg-campuses ul li address {
+    max-width: 86%;
+    font-size: 12px;
+}
+
+.tg-ouridentityimages {
+    width: 55%;
+}
+
+.tg-comingcountdown .tg-counterbox {
+    padding: 60px 30px;
+}
+
+/* Job descriptions */
+.tg-jobs .tg-themecollapsecontent ul li .tg-description p {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-right: 15px;
+}
+
+/* Home Slider v3 */
+.tg-homeslidervthree .tg-slidercontent h1 {
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.tg-homeslidervthree .tg-slidercontent h1 span {
+    font-size: 55px;
+    line-height: 35px;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 1199px) {
+    .tg-headervtwo {
+        margin-bottom: -106px;
+    }
+    .tg-headervtwo .tg-logo {
+        width: 220px;
+    }
+    .tg-navigation > ul > li {
+        padding-bottom: 25px;
+        margin-left: 15px;
+    }
+    .mega-menu.tg-fullmegamenu {
+        width: 940px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .tg-navigation > ul > li {
+        padding: 0;
+    }
+    .tg-headervtwo {
+        margin-bottom: -119px;
+    }
+    .tg-headervtwo .tg-logo {
+        width: 100%;
+        margin: 20px 0 0;
+    }
+    .tg-headervtwo .tg-logo img {
+        margin: 0 auto;
+        display: block;
+    }
+    .tg-slidercontent h1 {
+        font-size: clamp(28px, 5vw, 50px);
+        line-height: 1.2;
+    }
+}
+
+@media (max-width: 767px) {
+    .tg-logo {
+        width: 100%;
+    }
+    .tg-logo img {
+        margin: 0 auto;
+        display: block;
+    }
+    .tg-nav .navbar-toggle {
+        width: 40px;
+        height: 40px;
+        padding: 9px;
+        border: 0;
+    }
+    .tg-navigation > ul > li {
+        width: 100%;
+        border-bottom: 1px solid #ddd;
+    }
+    .sub-menu,
+    .mega-menu {
+        width: 100%;
+        display: none;
+        position: static;
+        box-shadow: none;
+        visibility: visible;
+        float: left;
+        opacity: 1;
+    }
+}
+
+@media (max-width: 480px) {
+    .tg-navigation .mega-menu-col > a {
+        margin: 0 13px;
+    }
+    .tg-slidercontent {
+        padding: 15px;
+    }
+    .tg-borderheading h1 {
+        font-size: 15px;
+        line-height: 15px;
+    }
+}
+
 @media (max-width: 767px) {
 
   .navbar-toggle {
