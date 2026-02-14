@@ -1,6 +1,6 @@
 <?php
 include("includes/top-nav.php");
-include("includes/menu-nav.php");
+include("includes/menuhead.php");
 ?>
 
 <!--************************************
@@ -41,13 +41,14 @@ include("includes/menu-nav.php");
 						<div class="tg-borderheading">
 							<h2>Faculties</h2>
 						</div>
-						<ul style="list-style: none; padding: 0; margin: 0;">
-							<li><a href="ict.php">Information & Communication Technology (ICT)</a></li>
-							<li><a href="engineeringScience.php">Engineering and Science</a></li>
-							<li><a href="buildingCivil.php">Building and Civil Engineering</a></li>
-							<li><a href="business.php">Business</a></li>
-							<li><a href="education.php">Education</a></li>
+						<ul class="tg-faculty-list">
+						<li><a href="ict.php">Information & Communication Technology</a></li>
+						<li><a href="engineeringScience.php">Engineering & Science</a></li>
+						<li><a href="buildingCivil.php">Building & Civil Engineering</a></li>
+						<li><a href="business.php">Business Studies</a></li>
+						<li><a href="education.php">Education</a></li>
 						</ul>
+
 					</div>
 
 					<div class="tg-events" style="margin: 25px 0 25px;">
@@ -109,29 +110,63 @@ include("includes/menu-nav.php");
 									</div>
 								</article>
 							</div>
-							<div class="col-xs-6 col-sm-6 col-md-4 col-lg-4">
-								<article class="tg-themepost tg-eventpost">
-									<figure class="tg-featuredimg">
-										<a href="javascript:void(0);">
-											<img src="images/events/img-02.jpg" alt="image description">
-										</a>
-									</figure>
-									<div class="tg-themepostcontent">
-
-										<div class="tg-themeposttitle">
-											<h3><a href="javascript:void(0);">Grade Testing</a></h3>
-										</div>
-										<div class="tg-description">
-											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
-										</div>
-									</div>
-								</article>
-							</div>
+							
 						</div>
 					</div>
 
 
 				</div>
+									<!-- RIGHT SIDEBAR -->
+					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 pull-right">
+					<aside id="tg-sidebar" class="tg-sidebar">
+
+						<!-- Admission Widget -->
+						<div class="tg-widget tg-widgetadmissionform">
+						<div class="tg-widgetcontent">
+							<h3>Admission 2025–2026</h3>
+							<div class="tg-description">
+							<p>
+								Start your academic journey with ECOT.
+								Apply early to secure your space.
+							</p>
+							</div>
+
+							<a class="tg-btn tg-btnicon tg-apply-blink"
+							href="/application">
+							<i class="fa fa-edit"></i>
+							<span>Apply Now</span>
+							</a>
+						</div>
+						</div>
+
+						<!-- Find Us -->
+						<div class="tg-widget tg-widgetcampuses">
+						<div class="tg-widgettitle">
+							<h3>Find Us</h3>
+						</div>
+						<div class="tg-widgetcontent">
+							<div class="tg-mapbox">
+							<iframe
+								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1839.9306933827422!2d31.121350293776615!3d-26.310816503482254"
+								width="100%"
+								height="220"
+								style="border:0;"
+								allowfullscreen
+								loading="lazy">
+							</iframe>
+							</div>
+
+							<ul class="tg-contactlist">
+							<li><i class="icon-location"></i> Mbabane, Somhlolo Road</li>
+							<li><i class="icon-phone-handset"></i> (+268) 2404 2681</li>
+							<li><i class="icon-envelope"></i> office@ecot.ac.sz</li>
+							</ul>
+						</div>
+						</div>
+
+					</aside>
+					</div>
+
 			</div>
 		</div>
 	</div>

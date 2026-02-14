@@ -1,6 +1,7 @@
 	<?php
 	include("includes/top-nav.php");
-	include("includes/menu-nav.php");
+	// include("includes/menu-nav.php");
+	include("includes/menuhead.php");
 	?>
 
 	<!--************************************
@@ -41,43 +42,52 @@
 									<figure class="item"><img src="images/about/img-03.jpg" alt="image description"></figure>
 								</div>
 
-								<div class="tg-pagetitle">
-									<h2>Eswatini College Of Technology</h2>
-								</div>
+								<div class="tg-about-wrapper">
 
-								<div class="tg-container">
+  <!-- About Intro -->
+  <section class="tg-about-intro">
+    <h2>Eswatini College of Technology</h2>
+    <p>
+      If you are contemplating educational options, a career, or a vocation, 
+      we invite you to explore what Eswatini College of Technology offers.
+    </p>
+    <p>
+      ECOT offers Diploma programmes in Business Administration, 
+      Building & Civil Engineering, Education, Engineering & Science, 
+      and Information & Communication Technology.
+    </p>
+  </section>
 
-									<p>If you are contemplating on educational options or a career or vocation, you are invited to consider what the Eswatini College of Technology offers. This you can do either by reading this prospectus or enquiring about the college programmes from the office of the Registrar. I have no doubt that either of the two alternatives will provide you with a clear spectrum of what the Eswatini College of Technology can do for you.</p>
-									<p>The college currently offers Diploma programmes under the following faculties: Business Administration, Building &amp; Civil Engineering, Education, Engineering &amp; Science, and Information and Communication Technology. </p> <!-- B Tech programmes have been introduced in the Faculty of Bus and Admin and also Faculty of Information and Communication Technology. -->
-									<br><br>
-								</div>
-								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
-									<div id="tg-content" class="tg-content">
-										<div class="tg-aboutus tg-visionmission">
+  <!-- Vision & Mission -->
+  <section class="tg-vision-mission">
+    <div class="tg-card">
+      <h3>Our Vision</h3>
+      <p>To be at the forefront of technological change and provide excellence in training.</p>
+    </div>
 
-											<h3>Our Vision</h3>
-											<p>To be at the forefront of technological change and to provide excellence in training.
-											</p>
-											<h3>Our Mission</h3>
-											<p>The mission of the college is to maintain its position as the principal institution of higher level technical and vocational education and training in Eswatini. It is dedicated to providing and facilitating high quality training and learning in technology and business studies in collaboration with the commercial, industrial and public sectors. The aim is to enhance the development and expansion of the economy for prosperity of the Eswatini within the region of Southern Africa.
-											</p>
+    <div class="tg-card">
+      <h3>Our Mission</h3>
+      <p>
+        To maintain our position as the principal institution of higher-level technical 
+        and vocational education in Eswatini, supporting national and regional development.
+      </p>
+    </div>
+  </section>
 
-											<br />
+  <!-- Values -->
+  <section class="tg-values">
+    <h3>Our Values</h3>
+    <ul>
+      <li><strong>Excellence:</strong> Creativity, innovation, and quality outcomes.</li>
+      <li><strong>Professionalism:</strong> Evidence-based training guided by ethics.</li>
+      <li><strong>Integrity & Transparency:</strong> Responsibility and ethical behavior.</li>
+      <li><strong>Teamwork:</strong> Respect, fairness, and dignity for all.</li>
+      <li><strong>Learning:</strong> Career-oriented, practical, and lifelong learning.</li>
+    </ul>
+  </section>
 
-											<div class="tg-container">
-												<h3>Values and Attitude</h3>
-												<ul class="tg-ullist tg-liststyledot">
-													<li><strong>Excellence:</strong> We are committed to creativity and innovation; strive to produce the highest quality outcomes in all endeavours.</li>
-													<li><strong>Professionalism:</strong> Evidenced based training and service provision in accordance with the legislative framework and guided by ethical principles and related professional disciples.</li>
-													<li><strong>Integrity and Transparency:</strong> Through academic freedom, responsibility and ethical behaviour. </li>
-													<li><strong>Teamwork:</strong> Recognizes the inherent dignity of each member of the University community and treats everyone with respect. Our actions are guided by fairness and honesty. </li>
-													<li><strong>Learning:</strong> We engage in collaborative education that is career-oriented balancing theory and practice, emphasizing active learning, developing critical learning and fostering responsibility and the desire for long pursuit of knowledge. </li>
+</div>
 
-												</ul>
-											</div>
-										</div>
-									</div>
-								</div>
 							</div>
 						</div>
 					</div>
@@ -89,10 +99,13 @@
 									<div class="tg-description">
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>
-									<a class="tg-btn tg-btnicon" href="javascript:void(0);">
-										<i class="fa fa-file-pdf-o"></i>
-										<span>Apply Now</span>
-									</a>
+									<a class="tg-btn tg-btnicon tg-apply-blink" 
+   										href="https://www.ecot.ac.sz/online-applications" 
+   										target="_blank">
+  										<i class="fa fa-graduation-cap"></i>
+  										<span>Apply Now</span>
+										</a>
+
 								</div>
 							</div>
 							<div class="tg-widget tg-widgetcampuses">
@@ -105,59 +118,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="tg-widget tg-widgetcampuses">
-								<div class="tg-widgettitle">
-									<h3>Contact Us</h3>
-								</div>
-								<div class="tg-widgetcontent">
-									<div class="tg-campuses">
-										<div class="tg-campus">
-											<!-- <div class="tg-mapbox">
-													<div class="tg-campuslocation">
-													</div>
-													<a class="tg-getdirection" href="javascript:void(0);">get direction</a>
-												</div> -->
-											<ul>
-												<li>
-													<i class="icon-location"></i>
-													<address>P O BOX 69, Mbabane H100. Somhlolo Road</address>
-												</li>
-												<li>
-													<i class="icon-phone-handset"></i>
-													<span>(00268)2404 2681/2/3</span>
-												</li>
-												<li>
-													<i class="icon-printer"></i>
-													<span>(00268)2404 2681/2/3</span>
-												</li>
-												<li>
-													<a href="mailto:principal@scot.ac.sz">
-														<i class="icon-envelope"></i>
-														<span>office@ecot.ac.sz</span>
-													</a>
-												</li>
-												<li>
-													<a href="mailto:principal@scot.ac.sz">
-														<i class="icon-envelope"></i>
-														<span>registrar@ecot.ac.sz</span>
-													</a>
-												</li>
-												<li>
-													<a href="mailto:principal@scot.ac.sz">
-														<i class="icon-envelope"></i>
-														<span>principal@ecot.ac.sz</span>
-													</a>
-												</li>
-												<li>
-													<a href="mailto:principal@scot.ac.sz">
-														<i class="icon-construction"></i>
-														<span>support@ecot.ac.sz</span>
-													</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
+							<!--  -->
 							</div>
 
 						</aside>

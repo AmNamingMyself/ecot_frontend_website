@@ -43,44 +43,82 @@
 								</div>
 
 								<div class="tg-pagetitle">
-									<!-- <h2>Eswatini College Of Technology</h2> -->
-									<h2>ECOT History</h2>
+  									<h2>ECOT History</h2>
 								</div>
-								<div class="tg-container">
 
-									<p>Eswatini College of Technology was established as a Trade School in 1946 with two instructors offering carpentry and building and 24 male students. In the 1960’s the Trade School changed its name to Swaziland Industrial Training Institute with the provision of craft courses in Electrical, Welding, Fitting, Plumbing, etc. In 1974, the name of the institution was once again changed to the Swaziland College of Technology (SCOT). Technicians’ programs were introduced with the first female enrolment, with more emphasis on City and Guilds examination, Pitman, UNISWA (BAI) and AAT. In 2019 Swaziland College of Technology changed it’s name to Eswatini College of Technology (ECOT).
-										It was in 1988 when ECOT introduced the Diploma programs with the structure of faculties and department. Worth-mentioning is the fact that the first Diploma Graduation Ceremony for ECOT was held in 1991, and in 2013 the first Graduation Ceremony with BTech Degrees graduate was held at ECOT. </p>
-									<br>
+									<div class="tg-container tg-history">
+
+  							<!-- History Intro -->
+  								<p> Eswatini College of Technology (ECOT) was established in 1946 as a Trade School with two instructors offering carpentry and building to 24 male students. </p>
+
+  							<!-- Timeline -->
+  							<div class="tg-history-timeline">
+								<div class="tg-timeline-item">
+									<span>1946</span>
+									<p>Established as a Trade School offering carpentry and building.</p>
 								</div>
-								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
-									<div id="tg-content" class="tg-content">
 
-										<div class="tg-aboutus tg-visionmission" style="margin-top: 15px;">
-
-											<h3>Our Vision</h3>
-											<p>To be at the forefront of technological change and to provide excellence in training.</p>
-
-											<h3>Our Mission</h3>
-											<p>The mission of the college is to maintain its position as the principal institution of higher level technical and vocational education and training in Eswatini. It is dedicated to providing and facilitating high quality training and learning in technology and business studies in collaboration with the commercial, industrial and public sectors. The aim is to enhance the development and expansion of the economy for prosperity of the Eswatini within the region of Southern Africa.
-											</p>
-
-											<div class="tg-container" style="margin-bottom: 15px;">
-												<h3>Goals</h3>
-												<ul class="tg-ullist tg-liststyledot">
-													<li>To provide a wide range of full-time and part-time programs which meet individual career aspirations in the light of the current and future requirements of business and industry in the public and private sectors.
-													</li>
-													<li>To assist in the development of entrepreneurship and the creation of opportunities for self-employment.
-													</li>
-													<li>To link and liaise with other educational and training establishments including those in industry and abroad in order to utilize the country's training facilities efficiently and cost effectively.
-													</li>
-													<li>To achieve its aims in the most efficient and cost effective manner.
-													</li>
-
-												</ul>
-											</div>
-										</div>
-									</div>
+								<div class="tg-timeline-item">
+									<span>1960s</span>
+									<p>Renamed Swaziland Industrial Training Institute, introducing craft courses.</p>
 								</div>
+
+								<div class="tg-timeline-item">
+									<span>1974</span>
+									<p>Renamed Swaziland College of Technology (SCOT).</p>
+								</div>
+
+								<div class="tg-timeline-item">
+									<span>1988</span>
+									<p>Introduction of Diploma programmes and faculty structure.</p>
+								</div>
+
+								<div class="tg-timeline-item">
+									<span>1991</span>
+									<p>First Diploma Graduation Ceremony.</p>
+								</div>
+
+								<div class="tg-timeline-item">
+									<span>2013</span>
+									<p>First BTech Graduation Ceremony.</p>
+								</div>
+
+								<div class="tg-timeline-item">
+									<span>2019</span>
+									<p>Renamed Eswatini College of Technology (ECOT).</p>
+								</div>
+							</div>
+
+						</div>
+
+					<!-- Vision / Mission / Goals -->
+							<div class="tg-container tg-strategy">
+
+								<div class="tg-card">
+									<h3>Our Vision</h3>
+									<p>To be at the forefront of technological change and provide excellence in training.</p>
+								</div>
+
+								<div class="tg-card">
+									<h3>Our Mission</h3>
+									<p>
+									To maintain our position as the principal institution of higher-level
+									technical and vocational education and training in Eswatini.
+									</p>
+								</div>
+
+								<div class="tg-card">
+									<h3>Our Goals</h3>
+									<ul>
+									<li>Offer relevant full-time and part-time programmes.</li>
+									<li>Promote entrepreneurship and self-employment.</li>
+									<li>Collaborate with industry and international institutions.</li>
+									<li>Operate efficiently and cost-effectively.</li>
+									</ul>
+								</div>
+
+								</div>
+
 							</div>
 						</div>
 					</div>

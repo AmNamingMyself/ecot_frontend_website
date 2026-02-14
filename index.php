@@ -1,6 +1,8 @@
 	<?php
 	include("includes/top-nav.php");
-	include("includes/menu-nav.php");
+	// include("includes/menu-nav.php");
+	include("includes/menuhead.php");
+	
 	?>
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">

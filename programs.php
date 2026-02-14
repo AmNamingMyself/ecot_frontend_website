@@ -1,6 +1,6 @@
 <?php
 include("includes/top-nav.php");
-include("includes/menu-nav.php");
+include("includes/menuhead.php");
 ?>
 
 <div class="tg-innerbanner">
@@ -32,11 +32,11 @@ include("includes/menu-nav.php");
 					<div id="tg-content" class="tg-content">
 						<div class="tg-addmission">
 
-							<div class="tg-pagetitle">
+							<div class="tg-pagetitle"> 
 								<h2>Applicable Programs</h2>
 							</div>
 							<div class="tg-container " style="padding-bottom: 15px;">
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, explicabo molestiae sapiente voluptatem sed labore adipisci, corporis numquam, itaque nemo quod molestias officia architecto rerum aliquam iste placeat eum fugiat!</p>
+								<p>These programs are carefully selected to provide relevant knowledge, practical skills, and meaningful opportunities that align with the intended objectives. By participating in these programs, individuals can enhance their capabilities, chieve targeted outcomes.
 							</div>
 							<div class="" id="tuitions">
 
@@ -225,10 +225,34 @@ include("includes/menu-nav.php");
 								</a>
 							</div>
 						</div>
+
+						
+            <!-- Find Us -->
+            <div class="tg-widget tg-widgetcampuses">
+              <div class="tg-widgettitle">
+                <h3>Find Us</h3>
+              </div>
+              <div class="tg-widgetcontent">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1839.9306933827422!2d31.121350293776615!3d-26.310816503482254"
+                  width="100%"
+                  height="220"
+                  style="border:0;"
+                  loading="lazy">
+                </iframe>
+
+                <ul class="tg-contactlist">
+                  <li><i class="icon-location"></i> Mbabane, Somhlolo Road</li>
+                  <li><i class="icon-phone-handset"></i> (+268) 2404 2681</li>
+                  <li><i class="icon-envelope"></i> office@ecot.ac.sz</li>
+                </ul>
+              </div>
+            </div>
 					</aside>
 				</div>
 			</div>
 		</div>
+		
 	</div>
 </main>
 
