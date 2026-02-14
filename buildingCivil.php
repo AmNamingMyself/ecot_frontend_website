@@ -41,7 +41,9 @@
 									<h2>Faculty of building</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
-									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate accusantium adipisci distinctio. Aspernatur fugit fugiat sequi expedita cumque pariatur! Voluptatum nam in a sed officia, recusandae ad hic voluptas nesciunt. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore suscipit fugiat, vel quasi iste ullam ipsum, maxime expedita quaerat velit tenetur aliquam a soluta fuga. Aliquam est praesentium rem adipisci!</p>
+									<p>
+										Specialises in designing, constructing, and maintaining modern infrastructure. Its curriculum combines theoretical engineering principles with practical experience, teaching students to transform raw materials into safe, sustainable, and innovative structures. The programme emphasises solving complex challenges with ingenuity and integrity, preparing graduates to design and build a safer, smarter, and more sustainable world.
+									</p>
 								</div>
 
 								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
@@ -80,9 +82,7 @@
 								}
 
 								.container1 {
-									display: flex;
-									gap: 0.75rem;
-									margin-bottom: 60px;
+									margin-bottom: 30px;
 								}
 
 								.profile-img {

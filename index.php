@@ -331,36 +331,7 @@
 								</div>
 							</div>
 
-							<div class="tg-widget tg-widgetsearchcourse">
-								<!-- <div class="tg-widgettitle">
-										<h3>Search Course</h3>
-									</div> -->
-								<div class="tg-widgetcontent">
-									<form class="tg-formtheme tg-formsearchcourse">
-										<fieldset>
-											<div class="tg-inputwithicon">
-												<i class="icon-book"></i>
-												<input type="search" name="keyword" class="form-control" placeholder="Keyword">
-											</div>
-											<div class="tg-inputwithicon">
-												<i class="icon-layers"></i>
-												<span class="tg-select">
-													<select>
-														<option value="">Select Faculty</option>
-														<option value="engineeringScience.php">Engineering</option>
-														<option value="education.php">Education</option>
-														<option value="business.php">Management</option>
-														<option value="buildingCivil.php">Building</option>
-														<option value="ict.php">ICT</option>
-													</select>
-												</span>
-											</div>
-											<button type="submit" class="tg-btn">search now</button>
-											<a href="academics.php">View All Courses</a>
-										</fieldset>
-									</form>
-								</div>
-							</div>
+							
 							<div class="tg-widget tg-widgetdownload">
 								<div class="tg-widgettitle">
 									<h3>Downloads</h3>

@@ -41,7 +41,9 @@
 									<h2>Faculty of Education</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
-									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate accusantium adipisci distinctio. Aspernatur fugit fugiat sequi expedita cumque pariatur! Voluptatum nam in a sed officia, recusandae ad hic voluptas nesciunt. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore suscipit fugiat, vel quasi iste ullam ipsum, maxime expedita quaerat velit tenetur aliquam a soluta fuga. Aliquam est praesentium rem adipisci!</p>
+									<p>
+										Education is the most powerful tool for societal growth and communal transformation. It develops passionate, reflective, and skilled educators by integrating foundational theories of pedagogy and educational psychology. Students learn to create inclusive, engaging, and effective learning environments through mentorship, research, and diverse practical placements. Our graduates are equipped to ignite a passion for knowledge and build a brighter, more educated future for all.
+									</p>
 								</div>
 
 								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
@@ -51,9 +53,10 @@
 									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
 										<div class="card d-flex flex-column align-items-center p-2">
 											<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
-											<div class="card-body">
+											<div class="card-body mb-3">
 												<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
-												<a href="/application">Apply now</a>
+												<a href="/application" class="btn btn-primary mt-2 d-block">Apply now</a>
+												<!-- <a href="/application">Apply now</a> -->
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
@@ -79,8 +82,6 @@
 									}
 
 									.container1 {
-										display: flex;
-										gap: 0.75rem;
 										margin-bottom: 60px;
 									}
 

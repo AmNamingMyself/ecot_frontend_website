@@ -27,28 +27,17 @@
 *************************************-->
 	<div class="tg-footermiddlebar">
 		<div class="container">
-			<div class="row d-flex align-items-start">
-				<!-- Brand Left -->
-				<div class="col-xs-12 col-sm-6 col-md-3">
-					<div class="tg-widget">
-						<strong class="tg-logo mb-3 d-block">
-							<a href="#"><img src="img/Artwork-20250215T071308Z-001/Artwork/ECOT Logo Final.png" 
-							alt="College Logo" style="max-width: 110px;"></a>
-						</strong>
-						<!-- <div class="tg-description mb-3">
-							<p>Your trusted institution for quality education and personal growth.</p>
-						</div> -->
-					</div>
-				</div>
-
+			<div class="row d-flex align-items-start"> 
+				
+				
 				<!-- Quick Links -->
-				<div class="col-xs-12 col-sm-6 col-md-3">
-					<div class="tg-widget tg-widgetcoursecategories">
-						<div class="tg-widgettitle">
+				<div class="col-xs-12 col-sm-6 col-md-3 p-sm-3">
+					<div class="tg-widget tg-widgetcoursecategories .small-padding">
+						<div class="tg-widgettitle" >
 							<h3>Quick Links</h3>
 						</div>
 						<div class="tg-widgetcontent">
-							<ul class="list-unstyled">
+							<ul class="list-unstyled ml-2">
 								<li><a href="academics.php">Faculties</a></li>
 								<li><a href="academics.php">Academics</a></li>
 								<li><a href="SRC.php">Student Life</a></li>
@@ -118,3 +107,12 @@
 <script>
 	document.getElementById("currentYear").textContent = new Date().getFullYear();
 </script>
+
+<style>
+	@media (min-width: 768px) and (max-width: 991px) {
+		.small-padding {
+			padding: 15px;
+		}
+	}
+
+</style>

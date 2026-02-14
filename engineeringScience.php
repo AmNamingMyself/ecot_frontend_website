@@ -41,7 +41,9 @@
 									<h2>Faculty of Engineering Science</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
-									<p>Engineering science is an interdisciplinary field that combines various scientific principles, primarily physics and mathematics, with engineering practices to solve complex problems, essentially acting as a bridge between pure science and applied engineering, allowing students to study the fundamental scientific concepts behind different engineering disciplines like mechanical, electrical, and civil engineering, often with a focus on research and development applications; it typically includes courses in advanced mathematics, physics, materials science, computer modeling, and specialized engineering topics depending on the program's focus. </p>
+									<p>
+										Combines physics and mechanical science to understand and improve how things work. They are program that focuses on engineering science like motion, force, and energy, while  program master to harnesses electricity. Our graduates learn to design, analyse, and optimise complex systems, leading the way in automation, sustainable energy, and technological breakthroughs.
+									 </p>
 								</div>
 
 								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
@@ -75,7 +77,7 @@
 											<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
 											<div class="card-body">
 												<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
-												<a href="/application">Apply now</a>
+												<a href="/application" style="display: block;">Apply now</a>
 												<!-- TODO: link to application portal -->
 											</div>
 										</div>
@@ -102,8 +104,6 @@
 								}
 
 								.container1 {
-									display: flex;
-									gap: 0.75rem;
 									margin-bottom: 60px;
 								}
 

@@ -41,7 +41,9 @@
 									<h2>Faculty of Business</h2>
 								</div>
 								<div class="tg-container" style="padding-bottom: 15px;">
-									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate accusantium adipisci distinctio. Aspernatur fugit fugiat sequi expedita cumque pariatur! Voluptatum nam in a sed officia, recusandae ad hic voluptas nesciunt. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore suscipit fugiat, vel quasi iste ullam ipsum, maxime expedita quaerat velit tenetur aliquam a soluta fuga. Aliquam est praesentium rem adipisci!</p>
+									<p>
+										Nurturing  visionary leaders and strategic thinkers. It delves into the complexities of commerce and effective management. The curriculum combines core business principles with real-world problem-solving and ethical decision-making. Students engage in case studies, interactive learning, and industry engagement. Graduates are prepared for successful careers and meaningful contributions to the economy and society.
+									</p>
 								</div>
 
 								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
@@ -90,9 +92,6 @@
 									}
 
 									.container1 {
-										display: flex;
-										gap: 0.75rem;
-
 										margin-bottom: 50px;
 									}
 
