@@ -1,4 +1,4 @@
-<?php
+ <?php
 include("includes/top-nav.php");
 include("includes/menuhead.php");
 ?>
@@ -64,7 +64,7 @@ include("includes/menuhead.php");
 							<div class="tg-container " style="padding-bottom: 15px;">
 								<p>Welcome to our admissions page for the academic year 2025-26. We are excited to offer a variety of programs designed to equip you with the skills and knowledge necessary for your future career.</p>
 								</p>
-								<p>"Welcome to our admissions page! We are committed to offering you an outstanding academic experience. Whether you're just beginning your journey or continuing your education, we provide quality programs led by experienced faculty, designed to prepare you for success. Our application process is straightforward, 
+								<p>"We are committed to offering you an outstanding academic experience. Whether you're just beginning your journey or continuing your education, we provide quality programs led by experienced faculty, designed to prepare you for success. Our application process is straightforward, 
 									and we are here to assist you every step of the way. Explore our programs, review the requirements, and take the first step toward your future with us!"</p>
 							</div>
 							<div class="" id="tuitions">
@@ -81,7 +81,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -92,7 +92,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Secondary Teacher’s Diploma: Information and Communication Technology</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -146,7 +146,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/hr.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Human Resources Management</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -157,7 +157,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Office Management and Technology</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -168,7 +168,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 3">
 												<div class="card-body">
 													<p class="card-title" style="font-style:bold;">Diploma in Office Management and Technology</p>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -187,7 +187,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Automotive Engineering (Light)</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -198,7 +198,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Automotive Engineering (Heavy)</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -209,7 +209,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -220,7 +220,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title"> Diploma in Mechanical Engineering</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -239,7 +239,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/civil.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Civil Engineering</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -250,7 +250,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/architect.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Architectural Technology</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -269,7 +269,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/ict.png" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Computer Science</h5>
-													<a href="/application">Apply now</a>
+													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -291,7 +291,7 @@ include("includes/menuhead.php");
 								<div class="tg-description">
 									<p>To all prospective students, &quot;The early bird catches the fatest worm&quot; secure your place now</p>
 								</div>
-								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
+								<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer"">
 									<i class="fa fa-file-pdf-o"></i>
 									<span>Apply Now</span>
 								</a>
@@ -303,12 +303,8 @@ include("includes/menuhead.php");
 								<div class="tg-description">
 									<p>Download our prospectus and get all the information you need to know about our courses
 								</div>
-								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
-									<i class="fa fa-file-pdf-o"></i>
-									<span>Download Tuition</span>
-								</a>
 								<br><br>
-								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
+								<a class="tg-btn tg-btnicon" href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-file-pdf-o"></i>
 									<span>Download Prospects</span>
 								</a>
