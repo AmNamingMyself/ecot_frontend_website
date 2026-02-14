@@ -47,25 +47,14 @@
 									</p>
 								</div>
 
-								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
-								<h3 class="mt-5">Porgrams Offered</h3>
-								<div class="row container1">
-									<!-- Card 1 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-column align-items-center p-2">
-											<img src="images/faculty/ict.png" class="profile-img rounded-circle" alt="Person 1">
-											<div class="card-body">
-												<h5 class="card-title">Diploma in Computer Science</h5>
-												<a href="/application">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
+								<div class="tg-borderheading">
+									<h2>Programs Offered</h2>
 								</div>
-								<!-- </div> -->
-								<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
-									<!-- hey chat.. please include cards to display the management of the college -->
-								</div>
+								<ul class="tg-faculty-list">
+								<li><a href="#">Diploma in Computer Science</a></li>
+								</ul>
+
+								
 							</div>
 						</div>
 					</div>

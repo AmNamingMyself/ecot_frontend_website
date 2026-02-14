@@ -46,34 +46,16 @@
 									</p>
 								</div>
 
-								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
-								<h3 class="mt-5">Porgrams Offered</h3>
-								<div class="row container1">
-									<!-- Card 1 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-column align-items-center p-2">
-											<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
-											<div class="card-body mb-3">
-												<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
-												<a href="/application" class="btn btn-primary mt-2 d-block">Apply now</a>
-												<!-- <a href="/application">Apply now</a> -->
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
-									<!-- Card 2 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-row align-items-center p-2">
-											<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
-											<div class="card-body">
-												<h5 class="card-title">Secondary Teacher’s Diploma: Information and Communication Technology</h5>
-												<a href="/application">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
+								
+								<div class="tg-borderheading">
+									<h2>Programs Offered</h2>
 								</div>
-								<!-- </div> -->
+								<ul class="tg-faculty-list">
+									<li><a href="#">Secondary Teacher’s Diploma: Commercial</a></li>
+									<li><a href="#">Secondary Teacher’s Diploma: Information and Communication Technology</a></li>
+								</ul>
+
+
 
 								<style>
 									.h3-programs {

@@ -46,54 +46,18 @@
 									 </p>
 								</div>
 
-								<!-- <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" style="margin-top: 15px;"> -->
-								<h3 class="mt-5">Porgrams Offered</h3>
-								<div class="row container1">
-									<!-- Card 1 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-column align-items-center p-2">
-											<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
-											<div class="card-body">
-												<h5 class="card-title">Diploma in Automotive Engineering (Light)</h5>
-												<a href="/application">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
-									<!-- Card 2 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-row align-items-center p-2">
-											<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
-											<div class="card-body">
-												<h5 class="card-title">Diploma in Automotive Engineering (Heavy)</h5>
-												<a href="/application">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
-									<!-- Card 3 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-row align-items-center p-2">
-											<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
-											<div class="card-body">
-												<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
-												<a href="/application" style="display: block;">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
-									<!-- Card 4 -->
-									<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-										<div class="card d-flex flex-row align-items-center p-2">
-											<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
-											<div class="card-body">
-												<h5 class="card-title"> Diploma in Mechanical Engineering</h5>
-												<a href="/application">Apply now</a>
-												<!-- TODO: link to application portal -->
-											</div>
-										</div>
-									</div>
+								
+								<div class="tg-borderheading">
+									<h2>Programs Offered</h2>
 								</div>
+								<ul class="tg-faculty-list">
+								<li><a href="#">Diploma in Automotive Engineering (Light)</a></li>
+								<li><a href="#">Diploma in Automotive Engineering (Heavy)</a></li>
+								<li><a href="#">Diploma in Electrical and Electronics Engineering</a></li>
+								<li><a href="#">Diploma in Mechanical Engineering</a></li>
+
+								</ul>
+
 							</div>
 							<!-- </div> -->
 
