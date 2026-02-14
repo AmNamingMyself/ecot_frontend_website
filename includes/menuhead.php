@@ -70,7 +70,7 @@
 														<ul>
 															<li><a href="about.php">About</a></li>
 															<li><a href="history.php">History</a></li>
-															<li><a href="governance.php">Governance</a></li>
+															<!-- <li><a href="governance.php">Governance</a></li> -->
 														</ul>
 													</li>
 												</ul>
@@ -93,7 +93,7 @@
 											</div>
 		
 										
-										<li class="menu-item-has-children">
+										<!-- <li class="menu-item-has-children">
 											<a href="admissions.php">Admission</a>
 											<ul class="sub-menu">
 												<li class="menu-item-has-children">
@@ -113,47 +113,47 @@
 													</ul>
 												</li>
 											</ul>
-										</li>
+										</li> -->
 										<li class="menu-item-has-children">
-											<a href="javascript:void(0);">Student Life</a>
+											<a href="#">Student Life</a>
 											<ul class="sub-menu">
 												<li class="menu-item-has-children">
-													<a href="javascript:void(0);">Academic Advising </a>
-													<ul class="sub-menu">
+													<a href="research.php">SRC </a>
+													<!-- <ul class="sub-menu">
 														<li><a href="">Academic Excellence</a></li>
 														<li><a href="">Student Responsibilities</a></li>
 														<li><a href="">Considerations &amp; FAQ&acute;s</a></li>
-													</ul>
+													</ul> -->
 												</li>
 												
 											</ul>
 										</li>
-										<li class="menu-item-has-children">
-											<a href="javascript:void(0);">Research</a>
+										<!-- <li class="menu-item-has-children">
+											<a href="research.php">Research</a>
 											<ul class="sub-menu">
 												<li><a href="">Library</a></li>
 												<li class="menu-item-has-children">
-													<a href="javascript:void(0);">Research</a>
+													<a href="research.php">Research</a>
 													<ul class="sub-menu">
 														<li><a href="">Interlectual Property</a></li>
 														<li><a href="">Student&acute;s Resources</a></li>
 														<li><a href="">Assistive Technology</a></li>
-													</ul>
+													</ul> 
 												</li>
 											</ul>
-										</li>
-										
-										<li class=""><a href="research.php">Vacancies</a></li>
+										</li> -->
 										<li class=""><a href="contact.php" target="_blank ">Contacts</a></li>
+										<li class=""><a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply Now</a></li>
+										
 									</ul>
 								</div>
 							</nav>
-							<div class="tg-searchbox">
+							<!-- <div class="tg-searchbox">
 								<a id="tg-btnsearch" class="tg-btnsearch" href="javascript:void(0);"><i class="icon-magnifier"></i></a>
 								<form class="tg-formtheme tg-formsearch">
 									<fieldset><input type="search" name="search" class="form-control" placeholder="Start Your Search Here"></fieldset>
 								</form>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
