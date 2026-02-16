@@ -74,7 +74,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="img/slider/slide 5.jpg" alt="image description">
+								<img src="images/slider/slide 5.jpg" alt="engineering">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
@@ -137,22 +137,22 @@
 					<div id="tg-ticker" class="tg-ticker owl-carousel">
 						<div class="item">
 							<div class="tg-description">
-								<p>The internal exams (April - May Series) are on progress in most of the faculties of the college</p>
+								<p>Welcome to Eswatini College of Technology.</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>Mid-June results from all faculties will be available for all students, Please collect from H.O.F&acute;s</p>
+								<p>Stay on the page for more information and updates!!</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>The college will be on winter break from late July and reopens early August and ready for registration</p>
+								<p>Make sure to check the prospectus to see which programs are available to apply for and also see which program you qualify for.</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>The college reopens in August, Orientation on the first week, all freshmen are encouraged to attend all sessions</p>
+								<p>Intake begins in the 23rd of February 2026. Apply via the online platform, link will be provided. Or press the apply button.</p>
 							</div>
 						</div>
 					</div>
@@ -184,16 +184,16 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/img-02.jpg" alt="image description">
+														<img src="images/events/Best.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">Official opening of Two (2) ICT Labs</a></h3>
+														<h3><a href="javascript:void(0);">Best Achievers 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+														<p>The best achievers, excelling in their respective faculties... <a href="javascript:void(0);">Read More</a></p>
 													</div>
 												</div>
 											</article>
@@ -221,16 +221,16 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/img-03.jpg" alt="image description">
+														<img src="images/events/Grad.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">Epic Culture Week</a></h3>
+														<h3><a href="javascript:void(0);">Graduation 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>Successful culture week ended with fireworks event ... <a href="javascript:void(0);">Read More</a></p>
+														<p>Successful annual Graduation for the year 2025 ... <a href="javascript:void(0);"></a></p>
 													</div>
 												</div>
 											</article>
