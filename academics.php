@@ -131,8 +131,7 @@ include("includes/menuhead.php");
 							</p>
 							</div>
 
-							<a class="tg-btn tg-btnicon tg-apply-blink"
-							href="/application">
+							<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">
 							<i class="fa fa-edit"></i>
 							<span>Apply Now</span>
 							</a>

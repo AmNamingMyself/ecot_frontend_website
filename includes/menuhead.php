@@ -119,9 +119,9 @@
 										<li><a href="index.php">Home</a></li>
 										<li><a href="about.php">About</a></li>
 										<li><a href="history.php">History</a></li>
-										<li><a href="academics.php">Academics</a></li>
+										<!-- <li><a href="academics.php">Academics</a></li> -->
 										<li><a href="programs.php">Programs</a></li>
-										<li><a href="faculties.php">Faculties</a></li>
+										<li><a href="academics.php">Faculties</a></li>
 										<li><a href="research.php">SRC</a></li>
 										<li><a href="contact.php">Contacts</a></li>
 										<li><a href="https://www.ecot.ac.sz/online-applications" target="_blank">Apply Now</a></li>
@@ -309,14 +309,14 @@
 										</li>
 
 										<li class="menu-item-has-mega-menu">
-											<a href="academics.php">Academics</a>
+											<a href="javascript:void(0);">Academics</a>
 											<div class="mega-menu">
 												<ul class="mega-menu-row">
 													<li class="mega-menu-col">
 														
 														<ul>
+															<li><a href="academics.php">Faculties</a></li>	
 															<li><a href="programs.php">Programs</a></li>
-															<li><a href="faculties.php">Faculties</a></li>
 															<li><a href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Prospectus</a></li>
 														</ul>
 													</li>

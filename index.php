@@ -30,9 +30,9 @@
 									<div class="tg-slidercontentbox text-center">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
-											<h1>Annual Graduation 2025</h1>
+											<h1>ECOT Annual Graduation</h1>
 											<div class="tg-description">
-												<p>Join us for the celebration of success and new beginnings.</p>
+												<p>Celebration of success and new beginnings for our Graduates..</p>
 											</div>
 										</div>
 									</div>
@@ -42,7 +42,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="images/slider/slide1.jpg" alt="image description">
+								<img src="images/slider/slide 1.png" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
@@ -147,12 +147,12 @@
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>Make sure to check the prospectus to see which programs are available to apply for and also see which program you qualify for.</p>
+								<p>Make sure to check the prospectus to see which programs are available.</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>Intake begins in the 23rd of February 2026. Apply via the online platform, link will be provided. Or press the apply button.</p>
+								<p>Intake begins in the 23rd of February 2026. </p>
 							</div>
 						</div>
 					</div>
@@ -319,13 +319,13 @@
 								<div class="tg-widgetcontent">
 									<ul>
 										<li>
-											<a href="javascript:void(0);">All Taiwan sponsered students, please see visit the Accounts Office at 1pm..</a>
+											<a href="javascript:void(0);">Apply via the online platform, link will be provided. Or press the apply button...</a>
 										</li>
 										<li>
-											<a href="javascript:void(0);">Accepted Applicants can come collect their acceptence letters</a>
+											<a href="javascript:void(0);">Accepted Applicants will have to collect their acceptence letters at school.</a>
 										</li>
 										<li>
-											<a href="javascript:void(0);">Orientation week will soon be announced, keep posted</a>
+											<a href="javascript:void(0);">Keep posted for updates</a>
 										</li>
 									</ul>
 								</div>
