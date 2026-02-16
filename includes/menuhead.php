@@ -38,15 +38,235 @@
 						<div class="tg-logoandnoticeboard">
 							<strong class="tg-logo">
     							<a href="#"> <img src="images/ecot logo.png" alt="logo"> </a></strong>
-								<style>.tg-logo {
-									display: block;        /* Makes it behave like a block element */
-									text-align: left;      /* Aligns content to the left */
+
+								<!-- Mobile Side Menu -->
+								<div id="mobileSidebar" class="mobile-sidebar">
+
+									<!-- Logo inside sidebar -->
+									<div class="sidebar-logo">
+										<a href="index.php" class="sidebar-home-icon">
+											<i class="fa fa-home"></i> 
+										</a>
+									</div>
+							<style>
+									/* Main logo - desktop default small size */
+								.tg-logo {
+									display: block;
+									text-align: left; /* always left-aligned */
+									padding-left: 10px; /* small padding */
+									position: relative;
 								}
-									.tg-logo img {
-										width: 200px;          /* Adjust size as needed */
-										height: auto;          /* Keeps aspect ratio */
+
+								.tg-logo img {
+									width: 130px; /* desktop logo size */
+									height: auto;
+									display: block;
+									transition: width 0.3s ease;
+								}
+
+								/* Hide blue topbar on smaller screens */
+								@media (max-width: 800px) {
+									.tg-topbar {
+										display: flex;
 									}
-									</style>
+
+									/* Add blue line under logo for mobile */
+									.tg-logo {
+										border-bottom: 10px solid #003f7a; /* adjust thickness and color */
+										padding-bottom: 10px; /* spacing below the line */
+									}
+								}
+
+								/* Responsive logo resizing for mobile */
+								@media (max-width: 600px) {
+									.tg-logo img {
+										width: 100px; /* shrink logo for smaller mobile screens */
+									}
+								}
+
+								@media (max-width: 400px) {
+									.tg-logo img {
+										width: 80px; /* very small screens */
+									}
+								}
+								/* Sidebar Home icon */
+									.sidebar-logo {
+										text-align: left;
+										padding: 25px 10px;
+										border-bottom: 4px solid rgba(255,255,255,0.1);
+									}
+
+									.sidebar-home-icon {
+										font-size: 24px;
+										color: #ffffff;
+										text-decoration: none;
+										font-weight: bold;
+										display: flex;
+										align-items: center;
+										justify-content: center;
+										gap: 8px; /* space between icon and text */
+									}
+
+									.sidebar-home-icon:hover {
+										color: #00bfff;
+									}
+
+
+							</style>
+									<button id="closeSidebar" class="close-btn">✕</button>
+
+									<ul class="sidebar-menu">
+										<li><a href="index.php">Home</a></li>
+										<li><a href="about.php">About</a></li>
+										<li><a href="history.php">History</a></li>
+										<li><a href="academics.php">Academics</a></li>
+										<li><a href="programs.php">Programs</a></li>
+										<li><a href="faculties.php">Faculties</a></li>
+										<li><a href="research.php">SRC</a></li>
+										<li><a href="contact.php">Contacts</a></li>
+										<li><a href="https://www.ecot.ac.sz/online-applications" target="_blank">Apply Now</a></li>
+									</ul>
+
+								</div>
+								<button id="mobileMenuBtn" class="mobile-menu-btn">☰</button>
+								<style>
+								/* Mobile Menu Button */
+								.mobile-menu-btn {
+										display: none;
+										font-size: 30px;
+										background: none;
+										border: none;
+										cursor: pointer;
+										position: absolute;
+										right: 20px;
+										top: 20px;
+										z-index: 1001;
+									}
+
+									/* Modern Sidebar */
+									.mobile-sidebar {
+										position: fixed;
+										top: 0;
+										left: -280px;
+										width: px;
+										height: 100%;
+										background: #1541a9; /* dark modern color */
+										padding-top: 70px;
+										transition: left 0.35s ease;
+										z-index: 1000;
+										box-shadow: 4px 0 12px rgba(0,0,0,0.4);
+									}
+
+									/* Remove bullets */
+									.mobile-sidebar ul {
+										list-style: none;
+										padding: 0;
+										margin: 0;
+									}
+
+									/* Menu items */
+									.mobile-sidebar ul li {
+										padding: 14px 24px;
+									}
+
+									/* Bold text */
+									.mobile-sidebar ul li a {
+										color: #ffffff;
+										text-decoration: none;
+										font-size: 17px;
+										font-weight: bold;
+										display: block;
+										transition: background 0.2s ease;
+									}
+
+									/* Hover effect */
+									.mobile-sidebar ul li a:hover {
+										background: rgba(27, 20, 209, 0.1);
+										border-radius: 6px;
+									}
+
+									/* Close button */
+									.close-btn {
+										position: absolute;
+										top: 18px;
+										right: 18px;
+										font-size: 24px;
+										background: none;
+										color: white;
+										border: none;
+										cursor: pointer;
+									}
+
+									/* Show mobile menu at 800px */
+									@media (max-width: 800px) {
+										.mobile-menu-btn {
+											display: block;
+										}
+
+										#tg-navigation {
+											display: none;
+										}
+									}
+									/* Remove bullets completely */
+										.sidebar-menu,
+										.sidebar-menu li {
+											list-style: none;
+											margin: 0;
+											padding: 0;
+										}
+
+										/* Sidebar logo */
+										.sidebar-logo {
+											text-align: center;
+											padding: 15px 10px;
+											border-bottom: 1px solid rgba(255,255,255,0.1);
+										}
+
+										.sidebar-logo img {
+											width: 80px;
+											height: auto;
+										}
+
+										/* Menu container spacing */
+										.sidebar-menu {
+											padding-top: 15px;
+										}
+
+										/* Sidebar links */
+										.sidebar-menu li {
+											padding: 12px 20px;
+										}
+
+										.sidebar-menu li a {
+											display: block;
+											font-weight: bold;
+											text-decoration: none;
+											color: white;
+											font-size: 16px;
+											transition: background 0.2s ease;
+										}
+
+										.sidebar-menu li a:hover {
+											background: rgba(255,255,255,0.1);
+											border-radius: 6px;
+										}
+
+								</style>
+								<script>
+																		
+									const menuBtn = document.getElementById("mobileMenuBtn");
+									const sidebar = document.getElementById("mobileSidebar");
+									const closeBtn = document.getElementById("closeSidebar");
+
+									menuBtn.addEventListener("click", () => {
+										sidebar.style.left = "0";
+									});
+
+									closeBtn.addEventListener("click", () => {
+										sidebar.style.left = "-280px";
+									});
+
+								</script>
 
 							<div class="tg-noticeboard hidden-xs">
 								<div class="tg-textbox">
@@ -59,12 +279,12 @@
 						<div class="tg-navigationarea">
 							<nav id="tg-nav" class="tg-nav">
 								<div class="navbar-header">
-									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#tg-navigation" aria-expanded="false">
+									<!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#tg-navigation" aria-expanded="false">
 										<span class="sr-only">Toggle navigation</span>
 										<span class="icon-bar"></span>
 										<span class="icon-bar"></span>
 										<span class="icon-bar"></span>
-									</button>
+									</button> -->
 								</div>
 								<div id="tg-navigation" class="collapse navbar-collapse tg-navigation">
 									<ul>

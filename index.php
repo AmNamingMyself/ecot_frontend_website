@@ -112,7 +112,7 @@
 								<div class="tg-description">
 									<p>Registrar’s Office has not evaluated applications yet. The list will be available soon.</p>
 								</div>
-								<a class="tg-btn tg-btnicon disabled">
+								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
 									<i class="fa fa-file-pdf-o"></i> <span>Coming Soon</span>
 								</a>
 							</div>
