@@ -36,7 +36,18 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<div class="tg-logoandnoticeboard">
-							<strong class="tg-logo"><a href=""><img src="images/logsd.png" alt="University of Education and knowledge"></a></strong>
+							<strong class="tg-logo">
+    							<a href="#"> <img src="images/ecot logo.png" alt="logo"> </a></strong>
+								<style>.tg-logo {
+									display: block;        /* Makes it behave like a block element */
+									text-align: left;      /* Aligns content to the left */
+								}
+									.tg-logo img {
+										width: 200px;          /* Adjust size as needed */
+										height: auto;          /* Keeps aspect ratio */
+									}
+									</style>
+
 							<div class="tg-noticeboard hidden-xs">
 								<div class="tg-textbox">
 									<span>Admission Opened!</span>

@@ -1845,7 +1845,7 @@ body.tg-home .tg-sidebar {padding: 20px 0 0;}
 	color: #333;
 	height: 30px;
 	padding: 0 20px;
-	background: #fff;
+	background: #007bff;
 	line-height: 30px;
 }
 .tg-btnicon i,
@@ -4587,20 +4587,7 @@ body {
 }
 
 
-/* Make the link blue and blinking */
-.tg-btn1  {
-  color: blue;              /* Blue text */
-  font-weight: bold;
-  text-decoration: none;    /* Remove underline */
-  animation: blink 1s infinite; /* Blinking effect */
-}
 
-/* Blinking animation */
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
 
 /* ABOUT PAGE */
 .tg-about-wrapper section {
@@ -4694,3 +4681,23 @@ body {
   100% { opacity: 1; }
 }
 
+@media (max-width: 768px) {
+  .tg-events article {
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+    margin-bottom: 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* logo */
+
+.tg-logo {
+    display: block;        /* Makes it behave like a block element */
+    text-align: left;      /* Aligns content to the left */
+}
+
+.tg-logo img {
+    width: 120px;          /* Adjust size as needed */
+    height: auto;          /* Keeps aspect ratio */
+}

@@ -74,7 +74,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="img/Artwork-20250215T071308Z-001/Artwork/enginneering lab.jpg" alt="image description">
+								<img src="img/slider/slide 5.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
@@ -124,7 +124,7 @@
 								<div class="tg-description">
 									<p>“The early bird catches the worm” — Secure your spot today.</p>
 								</div>
-								<a class="tg-btn tg-btnicon" href="/application">
+								<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-edit"></i> <span>Apply Now</span>
 								</a>
 							</div>
