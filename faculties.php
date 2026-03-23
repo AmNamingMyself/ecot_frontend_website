@@ -42,9 +42,9 @@ include("includes/menuhead.php");
           </div>
 
           <div class="tg-events" style="margin:25px 0;">
-            <div class="tg-borderheading">
+            <!-- <div class="tg-borderheading">
               <h2>Our Faculties</h2>
-            </div>
+            </div> -->
 
             <div class="row" style="display:flex; flex-wrap:wrap;">
 

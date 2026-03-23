@@ -30,7 +30,7 @@
 									<div class="tg-slidercontentbox text-center">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
-											<h1>Annual Graduation 2025</h1>
+											<h1>Annual Graduation 2024</h1>
 											<div class="tg-description">
 												<p>Join us for the celebration of success and new beginnings.</p>
 											</div>
@@ -74,7 +74,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="img/Artwork-20250215T071308Z-001/Artwork/enginneering lab.jpg" alt="image description">
+								<img src="images/events/Mechanical.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
@@ -184,13 +184,13 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/img-02.jpg" alt="image description">
+														<img src="images/events/best acheivers.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">Official opening of Two (2) ICT Labs</a></h3>
+														<h3><a href="javascript:void(0);">Best 2025 Acheivers</a></h3>
 													</div>
 													<div class="tg-description">
 														<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
@@ -203,13 +203,13 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="img/Artwork-20250215T071308Z-001/Artwork/R (3).jpeg" alt="image description">
+														<img src="images/events/COmp lab.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">New equipment for engineering</a></h3>
+														<h3><a href="javascript:void(0);">Engineering</a></h3>
 													</div>
 													<div class="tg-description">
 														<p>New and up to standard equipment for better experience ... <a href="javascript:void(0);">Read More</a></p>
@@ -221,16 +221,16 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/img-03.jpg" alt="image description">
+														<img src="images/events/Graduates.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">Epic Culture Week</a></h3>
+														<h3><a href="javascript:void(0);">Graduation 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>Successful culture week ended with fireworks event ... <a href="javascript:void(0);">Read More</a></p>
+														<p>Successful Graduation Ceremony... <a href="javascript:void(0);">Read More</a></p>
 													</div>
 												</div>
 											</article>
