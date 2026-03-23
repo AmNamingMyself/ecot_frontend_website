@@ -2968,7 +2968,7 @@ body.tg-homefour .tg-headervtwo .tg-btnsearch{color: #333;}
 .tg-relateddocuments li:hover,
 .tg-relateddocuments li:hover strong,
 .tg-relateddocuments li:hover .tg-btndownload,
-.tg-relateddocuments li:hover .tg-btndownload i{color: #fff;}
+.tg-relateddocuments li:hover .tg-btndownload i{color: #575555;}
 .tg-btndownload{
 	top: 0;
 	right: 0;
@@ -3044,7 +3044,7 @@ body.tg-homefour .tg-headervtwo .tg-btnsearch{color: #333;}
 }
 .tg-counterbox:nth-child(even){background: rgba(0, 0, 0, 0.05);}
 .tg-counterbox span{
-	color: #fff;
+	color: #434242;
 	width: 100%;
 	float: left;
 	font-size: 26px;
