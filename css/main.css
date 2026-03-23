@@ -1841,7 +1841,7 @@ body.tg-home .tg-sidebar {padding: 20px 0 0;}
 	color: #333;
 	height: 30px;
 	padding: 0 20px;
-	background: #fff;
+	background: #007bff;
 	line-height: 30px;
 }
 .tg-btnicon i,
@@ -4642,20 +4642,7 @@ body {
 }
 
 
-/* Make the link blue and blinking */
-.tg-btn1  {
-  color: blue;              /* Blue text */
-  font-weight: bold;
-  text-decoration: none;    /* Remove underline */
-  animation: blink 1s infinite; /* Blinking effect */
-}
 
-/* Blinking animation */
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
 
 /* ABOUT PAGE */
 .tg-about-wrapper section {

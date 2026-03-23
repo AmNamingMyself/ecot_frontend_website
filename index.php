@@ -30,9 +30,9 @@
 									<div class="tg-slidercontentbox text-center">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
-											<h1>Annual Graduation 2024</h1>
+											<h1>ECOT Annual Graduation</h1>
 											<div class="tg-description">
-												<p>Join us for the celebration of success and new beginnings.</p>
+												<p>Celebration of success and new beginnings for our Graduates..</p>
 											</div>
 										</div>
 									</div>
@@ -42,7 +42,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="images/slider/slide1.jpg" alt="image description">
+								<img src="images/slider/slide 1.png" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
@@ -74,7 +74,7 @@
 						</div>
 						<div class="item">
 							<figure>
-								<img src="images/events/Mechanical.jpg" alt="image description">
+								<img src="images/slider/slide 5.jpg" alt="engineering">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
@@ -112,7 +112,7 @@
 								<div class="tg-description">
 									<p>Registrar’s Office has not evaluated applications yet. The list will be available soon.</p>
 								</div>
-								<a class="tg-btn tg-btnicon disabled">
+								<a class="tg-btn tg-btnicon" href="javascript:void(0);">
 									<i class="fa fa-file-pdf-o"></i> <span>Coming Soon</span>
 								</a>
 							</div>
@@ -124,7 +124,7 @@
 								<div class="tg-description">
 									<p>“The early bird catches the worm” — Secure your spot today.</p>
 								</div>
-								<a class="tg-btn tg-btnicon" href="/application">
+								<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-edit"></i> <span>Apply Now</span>
 								</a>
 							</div>
@@ -137,22 +137,22 @@
 					<div id="tg-ticker" class="tg-ticker owl-carousel">
 						<div class="item">
 							<div class="tg-description">
-								<p>The internal exams (April - May Series) are on progress in most of the faculties of the college</p>
+								<p>Welcome to Eswatini College of Technology.</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>Mid-June results from all faculties will be available for all students, Please collect from H.O.F&acute;s</p>
+								<p>Stay on the page for more information and updates!!</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>The college will be on winter break from late July and reopens early August and ready for registration</p>
+								<p>Make sure to check the prospectus to see which programs are available.</p>
 							</div>
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>The college reopens in August, Orientation on the first week, all freshmen are encouraged to attend all sessions</p>
+								<p>Intake begins in the 23rd of February 2026. </p>
 							</div>
 						</div>
 					</div>
@@ -184,16 +184,16 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/best acheivers.jpg" alt="image description">
+														<img src="images/events/Best.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">Best 2025 Acheivers</a></h3>
+														<h3><a href="javascript:void(0);">Best Achievers 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
+														<p>The best achievers, excelling in their respective faculties... <a href="javascript:void(0);">Read More</a></p>
 													</div>
 												</div>
 											</article>
@@ -221,7 +221,7 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/Graduates.jpg" alt="image description">
+														<img src="images/events/Grad.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
@@ -230,7 +230,7 @@
 														<h3><a href="javascript:void(0);">Graduation 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>Successful Graduation Ceremony... <a href="javascript:void(0);">Read More</a></p>
+														<p>Successful annual Graduation for the year 2025 ... <a href="javascript:void(0);"></a></p>
 													</div>
 												</div>
 											</article>
@@ -319,13 +319,13 @@
 								<div class="tg-widgetcontent">
 									<ul>
 										<li>
-											<a href="javascript:void(0);">All Taiwan sponsered students, please see visit the Accounts Office at 1pm..</a>
+											<a href="javascript:void(0);">Apply via the online platform, link will be provided. Or press the apply button...</a>
 										</li>
 										<li>
-											<a href="javascript:void(0);">Accepted Applicants can come collect their acceptence letters</a>
+											<a href="javascript:void(0);">Accepted Applicants will have to collect their acceptence letters at school.</a>
 										</li>
 										<li>
-											<a href="javascript:void(0);">Orientation week will soon be announced, keep posted</a>
+											<a href="javascript:void(0);">Keep posted for updates</a>
 										</li>
 									</ul>
 								</div>

@@ -40,7 +40,7 @@
 							<ul class="list-unstyled ml-2">
 								<li><a href="academics.php">Faculties</a></li>
 								<li><a href="academics.php">Academics</a></li>
-								<li><a href="SRC.php">Student Life</a></li>
+								<li><a href="#">Student Life</a></li>
 							</ul>
 						</div>
 					</div>
@@ -56,7 +56,7 @@
 							<ul class="list-unstyled">
 								<li><a href="#">Undergraduate Admissions</a></li>
 								<li><a href="#">Graduate Admissions</a></li>
-								<li><a href="admissions.php">Admission Information</a></li>
+								<li><a href="academics.php">Admission Information</a></li>
 							</ul>
 						</div>
 					</div>
