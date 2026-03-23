@@ -11,7 +11,7 @@
 			<div class="tg-topbar">
 				<div class="tg-leftbox">
 					<span id="tg-datebox" class="tg-datebox"></span>
-					<span class="tg-rtltextbox"> <a href= "https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply </a> <a href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Prospectus </a> <a href="contact.php">Contacts</a></span>
+					<span class="tg-rtltextbox"> <a href= "https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply </a> <a href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Prospectus </a> <a href="contact.php">Contacts</a></span>
 				</div>
 				<!-- <div class="tg-rightbox"> -->
 					<!-- <span class="tg-tollfree"><a href="javascript:void(0);">Logout</a></span> -->
@@ -121,10 +121,10 @@
 										<li><a href="history.php">History</a></li>
 										<!-- <li><a href="academics.php">Academics</a></li> -->
 										<li><a href="programs.php">Programs</a></li>
-										<li><a href="academics.php">Faculties</a></li>
+										<li><a href="faculties.php">Faculties</a></li>
 										<li><a href="research.php">SRC</a></li>
 										<li><a href="contact.php">Contacts</a></li>
-										<li><a href="https://www.ecot.ac.sz/online-applications" target="_blank">Apply Now</a></li>
+										<li><a href="https://ecot.shunifu.app/apply" target="_blank">Apply Now</a></li>
 									</ul>
 
 								</div>
@@ -271,7 +271,7 @@
 							<div class="tg-noticeboard hidden-xs">
 								<div class="tg-textbox">
 									<span>Admission Opened!</span>
-									<span>Last Date For Admission is 01/03/2026</span>
+									<span>Last Date For Admission is 10/04/2026</span>
 								</div>
 								<figure><img src="images/img-01.jpg" alt="image description"></figure>
 							</div>
@@ -315,9 +315,11 @@
 													<li class="mega-menu-col">
 														
 														<ul>
-															<li><a href="academics.php">Faculties</a></li>	
-															<li><a href="programs.php">Programs</a></li>
+															
+															<li><a href="faculties.php">Faculties</a></li>
+															<!-- <li><a href="admissions.php">Admissions</a></li> -->
 															<li><a href="https://drive.google.com/file/d/1T6l-lLnoqUzTnM75GX1MC-dYoaauC0BU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Prospectus</a></li>
+															<li><a href="programs.php">Program Requirements</a></li>
 														</ul>
 													</li>
 												</ul>
@@ -328,7 +330,7 @@
 											<a href="admissions.php">Admission</a>
 											<ul class="sub-menu">
 												<li class="menu-item-has-children">
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply </a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply </a>
 												</li>
 												
 												<li class="menu-item-has-children">
@@ -374,7 +376,7 @@
 											</ul>
 										</li> -->
 										<li class=""><a href="contact.php" target="_blank ">Contacts</a></li>
-										<li class=""><a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply Now</a></li>
+										<li class=""><a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply Now</a></li>
 										
 									</ul>
 								</div>

@@ -38,7 +38,7 @@
 						</div>
 						<div class="tg-widgetcontent">
 							<ul class="list-unstyled ml-2">
-								<li><a href="academics.php">Faculties</a></li>
+								<li><a href="faculties.php">Faculties</a></li>
 								<li><a href="academics.php">Academics</a></li>
 								<li><a href="#">Student Life</a></li>
 							</ul>
@@ -54,9 +54,8 @@
 						</div>
 						<div class="tg-widgetcontent">
 							<ul class="list-unstyled">
-								<li><a href="#">Undergraduate Admissions</a></li>
-								<li><a href="#">Graduate Admissions</a></li>
-								<li><a href="academics.php">Admission Information</a></li>
+								<li><a href="faculties.php">Undergraduate Programs</a></li>
+								<li><a href="programs.php">Admission Information</a></li>
 							</ul>
 						</div>
 					</div>
@@ -70,13 +69,13 @@
 								<li><i class="icon-location"></i> P O BOX 69, Mbabane H100, Somhlolo Road</li>
 								<li><i class="icon-phone-handset"></i> (00268) 2404 2681/2/3</li>
 								<li><i class="icon-printer"></i> (00268) 2404 2681/2/3</li>
-								<li><a href="mailto:office@ecot.ac.sz"><i class="icon-envelope"></i> office@ecot.ac.sz</a></li>
+								<li><a href="mailto:office@ecot.ac.sz"><i class="icon-envelope"></i> ecotqueries@gmail.com</a></li>
 							</ul>
 							<ul class="tg-socialicons list-inline mb-0">
-								<li class="list-inline-item"><a class="social-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a class="social-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a class="social-googleplus" href="#"><i class="fa fa-google-plus"></i></a></li>
+								<li class="list-inline-item"><a class="social-facebook" href="https://www.facebook.com/profile.php?id=61556595609911"><i class="fa fa-facebook"></i></a></li>
+								<!-- <li class="list-inline-item"><a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a></li> -->
+								<li class="list-inline-item"><a class="social-linkedin" href="https://sz.linkedin.com/company/eswatini-college-of-technology"><i class="fa fa-linkedin"></i></a></li>
+								<!-- <li class="list-inline-item"><a class="social-googleplus" href="#"><i class="fa fa-google-plus"></i></a></li> -->
 							</ul>
 						</div>
 					</div>
