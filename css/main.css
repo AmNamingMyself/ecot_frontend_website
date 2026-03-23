@@ -355,10 +355,6 @@ address { font-style: italic; }
 .tg-btn-lg{ width: 100%;}
 
 
-
-
-
-
 .tg-socialicons{
 	overflow: hidden;
 	list-style: none;
@@ -2996,10 +2992,12 @@ body.tg-homefour .tg-headervtwo .tg-btnsearch{color: #333;}
 ======================================================================================*/
 .tg-widget.tg-widgettweets .tg-widgetcontent ul li:hover:before{background: none;}
 .tg-widget.tg-widgettweets .tg-widgetcontent ul li:hover:before{background: none;}
-.tg-events.tg-grid .tg-eventpost .tg-matadata li{
+.tg-events{padding: 15px; height: 100%;}  .tg-grid .tg-eventpost {padding: 15px; display: flex; height: 100%;} .tg-matadata li{
 	width: 100%;
 	float: left;
 	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
 }
 .tg-events.tg-grid .tg-eventpost .tg-matadata li + li{padding: 8px 0 0;}
 .tg-events.tg-grid .tg-eventpost .tg-matadata li:before{display: none;}
@@ -4525,13 +4523,67 @@ body {
   font-weight: bold;
 }
 
-.tg-events article {
+/* .tg-events article {
   background: #fff;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   margin-bottom: 1.5rem;
   transition: transform 0.3s ease;
+} */
+
+.tg-events .tg-eventpost {
+    padding: 15px;
+    display: block;
+    height: 100%;
+}
+
+.tg-events article {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+    margin-bottom: 1.5rem;
+    transition: transform 0.3s ease;
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+	width: 100%;
+}
+
+.tg-events article:hover {
+    transform: translateY(-5px);
+}
+
+/* Image styling */
+.tg-events article img {
+    width: 100%;
+    height: 200px; /* FIXED height for all images */
+    object-fit: cover; /* Prevent stretching */
+}
+
+/* Content container */
+.tg-events article .content {
+    padding: 15px;
+    flex: 1; /* Makes all content areas stretch equally */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Title styling */
+.tg-events article h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Optional: limit text lines */
+.tg-events article p {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* limit lines */
+    -webkit-box-orient: vertical;
 }
 
 .tg-events article:hover {
@@ -4541,6 +4593,9 @@ body {
 .tg-events figure img {
   width: 100%;
   height: auto;
+  height: 220px; /* same for all */
+  object-fit: cover;
+  display: block;
 }
 
 .tg-themepostcontent {

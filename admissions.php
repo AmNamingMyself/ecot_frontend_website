@@ -82,7 +82,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/commerical.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Secondary Teacher’s Diploma: Commercial</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -93,7 +93,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/ict-teach.jpg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Secondary Teacher’s Diploma: Information and Communication Technology</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -147,7 +147,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/hr.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Human Resources Management</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -155,10 +155,10 @@ include("includes/menuhead.php");
 										<!-- Card 2 -->
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
-												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 2">
+												<img src="images/faculty/Hospitality.jpg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
-													<h5 class="card-title">Diploma in Office Management and Technology</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<h5 class="card-title">Diploma in Hospitality and Tourism Management</h5>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -169,7 +169,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/office.jpeg" class="profile-img rounded-circle" alt="Person 3">
 												<div class="card-body">
 													<p class="card-title" style="font-style:bold;">Diploma in Office Management and Technology</p>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -182,50 +182,50 @@ include("includes/menuhead.php");
 									<h3>Faculty of Engineering & Science</h3>
 
 									<div class="row container1" style="display:flex;width: 100% !important;">
-										<!-- Card 1 -->
+										<!-- Card 1
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
 												<img src="images/faculty/light.jpeg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Automotive Engineering (Light)</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
-													<!-- TODO: link to application portal -->
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
+													 TODO: link to application portal
 												</div>
 											</div>
-										</div>
-										<!-- Card 2 -->
+										</div> -->
+										<!-- Card 2
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/heavy.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Automotive Engineering (Heavy)</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
-													<!-- TODO: link to application portal -->
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
+													 TODO: link to application portal
 												</div>
 											</div>
-										</div>
+										</div> -->
 										<!-- Card 3 -->
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/electronics.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Electrical and Electronics Engineering</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
 										</div>
-										<!-- Card 4 -->
+										<!-- Card 4
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
 												<img src="images/faculty/mechanical.jpeg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
-													<h5 class="card-title"> Diploma in Mechanical Engineering</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
-													<!-- TODO: link to application portal -->
+													<h5 class="card-title"> Diploma in Quantity Survey</h5>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
+													 TODO: link to application portal 
 												</div>
 											</div>
-										</div>
+										</div> -->
 									</div>
 								</div>
 
@@ -237,10 +237,10 @@ include("includes/menuhead.php");
 										<!-- Card 1 -->
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-column align-items-center p-2">
-												<img src="images/faculty/civil.jpeg" class="profile-img rounded-circle" alt="Person 1">
+												<img src="images/faculty/qs.jpg" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
-													<h5 class="card-title">Diploma in Civil Engineering</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<h5 class="card-title"> Diploma in Quantity Survey</h5>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -248,10 +248,10 @@ include("includes/menuhead.php");
 										<!-- Card 2 -->
 										<div class="card-item col-xs-12 col-sm-12 col-md-6 col-lg-4">
 											<div class="card d-flex flex-row align-items-center p-2">
-												<img src="images/faculty/architect.jpeg" class="profile-img rounded-circle" alt="Person 2">
+												<img src="images/faculty/buidling.jpg" class="profile-img rounded-circle" alt="Person 2">
 												<div class="card-body">
-													<h5 class="card-title">Diploma in Architectural Technology</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<h5 class="card-title">Diploma in Building Studies</h5>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -270,7 +270,7 @@ include("includes/menuhead.php");
 												<img src="images/faculty/ict.png" class="profile-img rounded-circle" alt="Person 1">
 												<div class="card-body">
 													<h5 class="card-title">Diploma in Computer Science</h5>
-													<a href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">Apply now</a>
+													<a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply now</a>
 													<!-- TODO: link to application portal -->
 												</div>
 											</div>
@@ -292,7 +292,7 @@ include("includes/menuhead.php");
 								<div class="tg-description">
 									<p>To all prospective students, &quot;The early bird catches the fatest worm&quot; secure your place now</p>
 								</div>
-								<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">
+								<a class="tg-btn tg-btnicon" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-file-pdf-o"></i>
 									<span>Apply Now</span>
 								</a>

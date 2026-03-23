@@ -100,7 +100,7 @@
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>
 									<a class="tg-btn tg-btnicon tg-apply-blink" 
-   										href="https://www.ecot.ac.sz/online-applications" 
+   										href="https://ecot.shunifu.app/apply" 
    										target="_blank">
   										<i class="fa fa-graduation-cap"></i>
   										<span>Apply Now</span>
@@ -114,7 +114,8 @@
 								</div>
 								<div class="tg-widgetcontent">
 									<div class="tg-mapbox">
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1839.9306933827422!2d31.121350293776615!3d-26.310816503482254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee8cfa88d09544b%3A0x1122bdb1e3c248ef!2sEswatini%20College%20Of%20Technology!5e1!3m2!1sen!2s!4v1738920779631!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+										<iframe src="https://www.google.com/maps/
+											embed?pb=!1m18!1m12!1m3!1d1839.9306933827422!2d31.121350293776615!3d-26.310816503482254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ee8cfa88d09544b%3A0x1122bdb1e3c248ef!2sEswatini%20College%20Of%20Technology!5e1!3m2!1sen!2s!4v1738920779631!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 									</div>
 								</div>
 							</div>

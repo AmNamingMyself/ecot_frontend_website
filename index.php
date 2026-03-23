@@ -28,7 +28,7 @@
 								<img src="img/Artwork-20250215T071308Z-001/Artwork/IMG_0190.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox text-center">
-										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<a class="tg-btn" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>ECOT Annual Graduation</h1>
 											<div class="tg-description">
@@ -45,7 +45,7 @@
 								<img src="images/slider/slide 1.png" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
-										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<a class="tg-btn" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>Building &amp; Architecture experts</h1>
 											<div class="tg-description">
@@ -61,7 +61,7 @@
 								<img src="images/slider/slide2.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
-										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<a class="tg-btn" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>Research &amp; Library</h1>
 											<div class="tg-description">
@@ -77,7 +77,7 @@
 								<img src="images/slider/slide 5.jpg" alt="engineering">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
-										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<a class="tg-btn" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>Real Engineering Experience</h1>
 											<div class="tg-description">
@@ -93,7 +93,7 @@
 								<img src="images/slider/slide6.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
 									<div class="tg-slidercontentbox">
-										<a class="tg-btn" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
+										<a class="tg-btn" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>Experience the campus</h1>
 											<div class="tg-description">
@@ -124,7 +124,7 @@
 								<div class="tg-description">
 									<p>“The early bird catches the worm” — Secure your spot today.</p>
 								</div>
-								<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">
+								<a class="tg-btn tg-btnicon" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">
 									<i class="fa fa-edit"></i> <span>Apply Now</span>
 								</a>
 							</div>
@@ -203,13 +203,13 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="img/Artwork-20250215T071308Z-001/Artwork/R (3).jpeg" alt="image description">
+														<img src="images/events/COmp lab.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
 
 													<div class="tg-themeposttitle">
-														<h3><a href="javascript:void(0);">New equipment for engineering</a></h3>
+														<h3><a href="javascript:void(0);">Engineering</a></h3>
 													</div>
 													<div class="tg-description">
 														<p>New and up to standard equipment for better experience ... <a href="javascript:void(0);">Read More</a></p>

@@ -130,7 +130,7 @@
 									<div class="tg-description">
 										<p>To all prospective students, &quot; The early bird catches the fatest worm&quot; secure your place now</p>
 									</div>
-									<a class="tg-btn tg-btnicon" href="/application">
+									<a class="tg-btn tg-btnicon" href="https://ecot.shunifu.app/apply">
 									<i class="fa fa-edit"></i>
 									<span>Apply Now</span>
 								</a>

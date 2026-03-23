@@ -42,9 +42,9 @@ include("includes/menuhead.php");
           </div>
 
           <div class="tg-events" style="margin:25px 0;">
-            <div class="tg-borderheading">
+            <!-- <div class="tg-borderheading">
               <h2>Our Faculties</h2>
-            </div>
+            </div> -->
 
             <div class="row" style="display:flex; flex-wrap:wrap;">
 
@@ -144,7 +144,7 @@ include("includes/menuhead.php");
                 <p>Apply early to secure your space at ECOT.</p>
 
                 <a class="tg-btn tg-btnicon tg-apply-blink"
-                   href="https://www.ecot.ac.sz/online-applications"
+                   href="https://ecot.shunifu.app/apply"
                    target="_blank">
                   <i class="fa fa-edit"></i>
                   <span>Apply Now</span>

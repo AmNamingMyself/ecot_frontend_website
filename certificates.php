@@ -96,7 +96,7 @@ include("includes/menuhead.php");
 								<div class="tg-description">
 									<p>You can take the certificate whilst completing your diploma. To qualify for some certificating you must be an current ECOT student.</p>
 								</div>
-								<!-- <a class="tg-btn tg-btnicon" href="/application">
+								<!-- <a class="tg-btn tg-btnicon" href="https://ecot.shunifu.app/apply">
 									<i class="fa fa-edit"></i>
 									<span>Apply Now</span>
 								</a> -->

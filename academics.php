@@ -60,7 +60,7 @@ include("includes/menuhead.php");
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
 										<a href="programs.php">
-											<img src="images/events/img-02.jpg" alt="image description">
+											<img src="images/Undergraduate-icon-vector.jpg" alt="image description">
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
@@ -68,9 +68,9 @@ include("includes/menuhead.php");
 										<div class="tg-themeposttitle">
 											<h3><a href="programs.php">Undergraduate Programs</a></h3>
 										</div>
-										<div class="tg-description">
+										<!-- <div class="tg-description">
 											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
-										</div>
+										</div> -->
 									</div>
 								</article>
 							</div>
@@ -78,7 +78,7 @@ include("includes/menuhead.php");
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
 										<a href="javascript:void(0);">
-											<img src="images/events/img-02.jpg" alt="image description">
+											<img src="images/Mandarin.jpg" alt="image description">
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
@@ -86,9 +86,9 @@ include("includes/menuhead.php");
 										<div class="tg-themeposttitle">
 											<h3><a href="javascript:void(0);">Certificate Programs (e.g. Madrin)</a></h3>
 										</div>
-										<div class="tg-description">
+										<!-- <div class="tg-description">
 											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
-										</div>
+										</div> -->
 									</div>
 								</article>
 							</div>
@@ -96,7 +96,7 @@ include("includes/menuhead.php");
 								<article class="tg-themepost tg-eventpost">
 									<figure class="tg-featuredimg">
 										<a href="javascript:void(0);">
-											<img src="images/events/img-02.jpg" alt="image description">
+											<img src="images/Parttime.jpg" alt="image description">
 										</a>
 									</figure>
 									<div class="tg-themepostcontent">
@@ -104,9 +104,9 @@ include("includes/menuhead.php");
 										<div class="tg-themeposttitle">
 											<h3><a href="javascript:void(0);">Part-Time</a></h3>
 										</div>
-										<div class="tg-description">
+										<!-- <div class="tg-description">
 											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>
-										</div>
+										</div> -->
 									</div>
 								</article>
 							</div>
@@ -131,7 +131,7 @@ include("includes/menuhead.php");
 							</p>
 							</div>
 
-							<a class="tg-btn tg-btnicon" href="https://www.ecot.ac.sz/online-applications" target="_blank" rel="noopener noreferrer">
+							<a class="tg-btn tg-btnicon" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">
 							<i class="fa fa-edit"></i>
 							<span>Apply Now</span>
 							</a>
