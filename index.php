@@ -184,7 +184,7 @@
 											<article class="tg-themepost tg-eventpost">
 												<figure class="tg-featuredimg">
 													<a href="javascript:void(0);">
-														<img src="images/events/Best.jpg" alt="image description">
+														<img src="images/events/best acheivers.jpg" alt="image description">
 													</a>
 												</figure>
 												<div class="tg-themepostcontent">
@@ -193,7 +193,10 @@
 														<h3><a href="javascript:void(0);">Best Achievers 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>The best achievers, excelling in their respective faculties... <a href="javascript:void(0);">Read More</a></p>
+														<p style="color: black;">
+															The best achievers, excelling in their respective faculties... 
+															<a href="javascript:void(0);" style="color: black;"></a>
+														</p>
 													</div>
 												</div>
 											</article>
@@ -212,7 +215,10 @@
 														<h3><a href="javascript:void(0);">Engineering</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>New and up to standard equipment for better experience ... <a href="javascript:void(0);">Read More</a></p>
+														<p style="color: black;">
+															New and up to standard equipment for better experience ...  
+															<a href="javascript:void(0);" style="color: black;"></a>
+														</p>
 													</div>
 												</div>
 											</article>
@@ -230,7 +236,10 @@
 														<h3><a href="javascript:void(0);">Graduation 2025</a></h3>
 													</div>
 													<div class="tg-description">
-														<p>Successful annual Graduation for the year 2025 ... <a href="javascript:void(0);"></a></p>
+														<p style="color: black;">
+															Successful annual Graduation for the year 2025 ... 
+															<a href="javascript:void(0);" style="color: black;">Read More</a>
+														</p>
 													</div>
 												</div>
 											</article>
