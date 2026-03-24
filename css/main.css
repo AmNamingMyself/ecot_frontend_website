@@ -4591,7 +4591,7 @@ body {
 }
 
 .tg-events figure img {
-  width: 100%;
+  width: auto;
   height: auto;
   height: 220px; /* same for all */
   object-fit: cover;
