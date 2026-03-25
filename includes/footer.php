@@ -69,13 +69,13 @@
 								<li><i class="icon-location"></i> P O BOX 69, Mbabane H100, Somhlolo Road</li>
 								<li><i class="icon-phone-handset"></i> (00268) 2404 2681/2/3</li>
 								<li><i class="icon-printer"></i> (00268) 2404 2681/2/3</li>
-								<li><a href="mailto:office@ecot.ac.sz"><i class="icon-envelope"></i> ecotqueries@gmail.com</a></li>
+								<li><a href="mailto:office@ecot.ac.sz"><i class="icon-envelope"></i> office@ecot.ac.sz</a></li>
 							</ul>
 							<ul class="tg-socialicons list-inline mb-0">
 								<li class="list-inline-item"><a class="social-facebook" href="https://www.facebook.com/profile.php?id=61556595609911"><i class="fa fa-facebook"></i></a></li>
-								<!-- <li class="list-inline-item"><a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a></li> -->
+								<li class="list-inline-item"><a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
 								<li class="list-inline-item"><a class="social-linkedin" href="https://sz.linkedin.com/company/eswatini-college-of-technology"><i class="fa fa-linkedin"></i></a></li>
-								<!-- <li class="list-inline-item"><a class="social-googleplus" href="#"><i class="fa fa-google-plus"></i></a></li> -->
+								<li class="list-inline-item"><a class="social-googleplus" href="#"><i class="fa fa-google-plus"></i></a></li>
 							</ul>
 						</div>
 					</div>

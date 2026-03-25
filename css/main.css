@@ -5455,8 +5455,10 @@ body {
 }
 
 .tg-events figure img {
-  width: auto;
-  height: 220px;
+  width: 100%;
+  height: auto;
+  height: 220px; /* same for all */
+  object-fit: cover;
   display: block;
 }
 
