@@ -4,15 +4,19 @@
 	include("includes/menuhead.php");
 	
 	?>
-	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/prettyPhoto.css">	
-	<link rel="stylesheet" href="css/animate.css">
+
+	
+	<!-- <link rel="stylesheet" href="css/main.css"> -->
+	<!-- <link rel="stylesheet" href="css/bootstrap.min.css"> -->
+	<!-- <link rel="stylesheet" href="css/font-awesome.min.css"> -->
+	<!-- <link rel="stylesheet" href="css/prettyPhoto.css">	 -->
+	<!-- <link rel="stylesheet" href="css/animate.css"> -->
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<link rel="stylesheet" href="css/responsive.css">
-
+	<!-- <link rel="stylesheet" href="css/responsive.css"> -->
+	<link rel="stylesheet" href="css/custom_style.css">
+	
+	
 
 	<!--************************************
 				Home Slider Start
@@ -27,7 +31,7 @@
 							<figure>
 								<img src="img/Artwork-20250215T071308Z-001/Artwork/IMG_0190.jpg" alt="image description">
 								<figcaption class="tg-slidercontent">
-									<div class="tg-slidercontentbox text-center">
+									<div class="tg-slidercontentbox">
 										<a class="tg-btn" href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">APPLY NOW</a>
 										<div class="tg-titledescription">
 											<h1>ECOT Annual Graduation</h1>
@@ -166,6 +170,10 @@
 	<!--************************************
 				Main Start
 		*************************************-->
+
+
+
+
 	<main id="tg-main" class="tg-main tg-haslayout">
 		<div class="container">
 			<div class="row">
@@ -382,65 +390,20 @@
 
 	<!--  -->
 	<script>
-$(document).ready(function () {
+		$(document).ready(function () {
 
-  // Home Slider
-  $('#tg-homeslider').owlCarousel({
-    loop: true,
-    margin: 0,
-    nav: true,
-    dots: true,
-    autoplay: true,
-    autoplayTimeout: 6000,
-    items: 1
-  });
-
-  // Ticker
-  $('#tg-ticker').owlCarousel({
-    loop: true,
-    margin: 0,
-    nav: false,
-    dots: false,
-    autoplay: true,
-    autoplayTimeout: 10000,
-    items: 1,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
-    smartSpeed: 800
-  });
-
-  // Mobile Nav Toggle
-  $('.navbar-toggle').on('click', function () {
-    $('.tg-navigation').toggleClass('active');
-  });
-
-  // Dropdown toggle
-  $('.menu-item-has-children > a').on('click', function (e) {
-    if ($(window).width() < 768) {
-      e.preventDefault();
-      $(this).next('.sub-menu').slideToggle();
-    }
-  });
-
-});
-</script>
-
-
-<!-- alerts script -->
-	<script>
-		$(document).ready(function() {
-			// Slider Init
+			// Home Slider
 			$('#tg-homeslider').owlCarousel({
 				loop: true,
 				margin: 0,
 				nav: true,
 				dots: true,
 				autoplay: true,
-				autoplayTimeout: 4000,
+				autoplayTimeout: 6000,
 				items: 1
 			});
 
-			// Ticker Init
+			// Ticker
 			$('#tg-ticker').owlCarousel({
 				loop: true,
 				margin: 0,
@@ -453,38 +416,52 @@ $(document).ready(function () {
 				animateIn: 'fadeIn',
 				smartSpeed: 800
 			});
+
+			// Mobile Nav Toggle
+			$('.navbar-toggle').on('click', function () {
+				$('.tg-navigation').toggleClass('active');
+			});
+
+			// Dropdown toggle
+			$('.menu-item-has-children > a').on('click', function (e) {
+				if ($(window).width() < 768) {
+				e.preventDefault();
+				$(this).next('.sub-menu').slideToggle();
+				}
+			});
+
 		});
 	</script>
 
+
+ 	<!-- Responsive Navigation Script -->
 	<script>
-/* Responsive Navigation Script */
+		document.addEventListener("DOMContentLoaded", function () {
+			const toggle = document.querySelector(".navbar-toggle");
+			const nav = document.querySelector(".tg-navigation");
 
-	document.addEventListener("DOMContentLoaded", function () {
-  	const toggle = document.querySelector(".navbar-toggle");
- 	 const nav = document.querySelector(".tg-navigation");
+			if (toggle && nav) {
+				toggle.addEventListener("click", function () {
+				nav.classList.toggle("active");
+			});
+		}
 
-  	if (toggle && nav) {
-    toggle.addEventListener("click", function () {
-      nav.classList.toggle("active");
-   	 });
-  }
+		// Dropdown toggle
+		document.querySelectorAll(".menu-item-has-children > a").forEach(link => {
+			link.addEventListener("click", function (e) {
+				e.preventDefault();
+				const submenu = this.nextElementSibling;
+				if (submenu) submenu.style.display =
+					submenu.style.display === "block" ? "none" : "block";
+				});
+			});
+		});
+	</script>
 
-  // Dropdown toggle
-  document.querySelectorAll(".menu-item-has-children > a").forEach(link => {
-    link.addEventListener("click", function (e) {
-      e.preventDefault();
-      const submenu = this.nextElementSibling;
-      if (submenu) submenu.style.display =
-        submenu.style.display === "block" ? "none" : "block";
-    });
-  });
-});
-</script>
-
-	<!--************************************
-				Main End
-		*************************************-->
-	<!--************************************
-		<?php
-		include("includes/footer.php");
-		?>
+<!--************************************
+		Main End
+*************************************-->
+<!--************************************
+<?php
+include("includes/footer.php");
+?>

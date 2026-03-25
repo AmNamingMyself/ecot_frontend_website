@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo SITE_NAME; ?> - Premium Car Detailing Services</title>
+    <title><?php echo SITE_NAME; ?> </title>
     <meta name="description" content="Experience premium car detailing services with Car Craft. Professional, high-end automotive care for your vehicle.">
     <meta name="keywords" content="car detailing, automotive care, premium services, car wash, paint protection">
     <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">

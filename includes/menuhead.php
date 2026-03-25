@@ -29,7 +29,7 @@
 							</ul>
 						</div> -->
 					<!-- </div> -->
-				</div>
+				<!-- </div> -->
 			</div>
 			<div class="clearfix"></div>
 			<div class="container">
@@ -348,10 +348,10 @@
 											</ul>
 										</li> -->
 										<li class="menu-item-has-children">
-											<a href="#">Student Life</a>
+											<a href="javascript:void(0);">Student Life</a>
 											<ul class="sub-menu">
 												<li class="menu-item-has-children">
-													<a href="research.php">SRC </a>
+													<a href="research.php" target="_blank">SRC </a>
 													<!-- <ul class="sub-menu">
 														<li><a href="">Academic Excellence</a></li>
 														<li><a href="">Student Responsibilities</a></li>
@@ -375,7 +375,7 @@
 												</li>
 											</ul>
 										</li> -->
-										<li class=""><a href="contact.php" target="_blank ">Contacts</a></li>
+										<li class=""><a href="contact.php">Contacts</a></li>
 										<li class=""><a href="https://ecot.shunifu.app/apply" target="_blank" rel="noopener noreferrer">Apply Now</a></li>
 										
 									</ul>
