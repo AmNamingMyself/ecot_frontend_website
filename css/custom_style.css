@@ -46,35 +46,3 @@
     font-size: 10px !important;
   }
 }
-
-/* Ensure owl-item fills 100% of owl-stage height on smaller screens */
-@media (max-width: 768px) {
-  /* .owl-stage-outer {
-    height: 100% !important;
-  }
-
-  .owl-stage {
-    height: 100% !important;
-  }
-
-  .owl-item {
-    height: 100% !important;
-  }
-
-  .item {
-    width: 100% !important;
-    height: 100% !important;
-  }
-
-  .item figure {
-    width: 100% !important;
-    height: 100% !important;
-    margin: 0 !important;
-  }
-
-  .item img {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;
-  } */
-}
