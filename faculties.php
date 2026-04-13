@@ -35,9 +35,9 @@ include("includes/menuhead.php");
 
           <div class="tg-container">
             <p>
-              Discover a range of diploma and certificate programs designed to equip
+              Discover a range of diploma and certificate  programmes  designed to equip
               students with practical and academic skills. We also provide grade testing
-              for select programs.
+              for select  programmes.
             </p>
           </div>
 
@@ -106,7 +106,7 @@ include("includes/menuhead.php");
                   </figure>
                   <div class="tg-themepostcontent">
                     <h3>
-                      <a href="business.php">Business Studies</a>
+                      <a href="business.php">Business Administration</a>
                     </h3>
                   </div>
                 </article>

@@ -151,7 +151,7 @@
 						</div>
 						<div class="item">
 							<div class="tg-description">
-								<p>Make sure to check the prospectus to see which programs are available.</p>
+								<p>Make sure to check the prospectus to see which  programmes  are available.</p>
 							</div>
 						</div>
 						<div class="item">

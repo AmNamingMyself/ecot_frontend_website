@@ -33,7 +33,7 @@ include("includes/menuhead.php");
 						<h2>Academics</h2>
 					</div>
 					<div class="tg-container">
-						<p>Discover a range of diploma and certificate programs designed to equip students with practical and academic skills. We also provide grade testing for select programs.</p>
+						<p>Discover a range of diploma and certificate  programmes  designed to equip students with practical and academic skills. We also provide grade testing for select  programmes.</p>
 					</div>
 
 
@@ -84,7 +84,7 @@ include("includes/menuhead.php");
 									<div class="tg-themepostcontent">
 
 										<div class="tg-themeposttitle">
-											<h3><a href="javascript:void(0);">Certificate Programs (e.g. Madrin)</a></h3>
+											<h3><a href="javascript:void(0);">Certificate  programmes  (e.g. Madrin)</a></h3>
 										</div>
 										<!-- <div class="tg-description">
 											<p>Students to equip their technology skills with new computers... <a href="javascript:void(0);">Read More</a></p>

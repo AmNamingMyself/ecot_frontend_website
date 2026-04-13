@@ -36,7 +36,7 @@ include("includes/menuhead.php");
 								<h2>Applicable Programs</h2>
 							</div>
 							<div class="tg-container " style="padding-bottom: 15px;">
-								<p>These programs are carefully selected to provide relevant knowledge, practical skills, and meaningful opportunities that align with the intended objectives. By participating in these programs, individuals can enhance their capabilities, chieve targeted outcomes.
+								<p>These  programmes  are carefully selected to provide relevant knowledge, practical skills, and meaningful opportunities that align with the intended objectives. By participating in these programs, individuals can enhance their capabilities, chieve targeted outcomes.
 							</div>
 							<div class="" id="tuitions">
 

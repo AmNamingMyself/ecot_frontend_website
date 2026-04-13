@@ -63,9 +63,9 @@ include("includes/menuhead.php");
 								<h2>2025 - 26 Admissions</h2>
 							</div>
 							<div class="tg-container " style="padding-bottom: 15px;">
-								<p>Welcome to our admissions page for the academic year 2025-26. We are excited to offer a variety of programs designed to equip you with the skills and knowledge necessary for your future career.</p>
+								<p>Welcome to our admissions page for the academic year 2025-26. We are excited to offer a variety of  programmes  designed to equip you with the skills and knowledge necessary for your future career.</p>
 								</p>
-								<p>"We are committed to offering you an outstanding academic experience. Whether you're just beginning your journey or continuing your education, we provide quality programs led by experienced faculty, designed to prepare you for success. Our application process is straightforward, 
+								<p>"We are committed to offering you an outstanding academic experience. Whether you're just beginning your journey or continuing your education, we provide quality  programmes  led by experienced faculty, designed to prepare you for success. Our application process is straightforward, 
 									and we are here to assist you every step of the way. Explore our programs, review the requirements, and take the first step toward your future with us!"</p>
 							</div>
 							<div class="" id="tuitions">
